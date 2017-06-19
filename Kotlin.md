@@ -193,9 +193,26 @@ Byte |
   			class MainAcitvity:AppCompatActivity(){
   			}
 	
+***********
 
 
-  
+## 类
+
+* 使用 class 关键字声明类。
+* 类声明由类名、类头（指定其类型参数、主构造函数等）和由大括号包围的类体构成。
+* 一个类可以有一个主构造函数和一个或多个次构造函数。
+
+### 1.主构造函数
+
+		//类名:WeatherinfoModel
+		//主构造函数:constructor(val weatherinfo: WeatherinfoBean)
+		class WeatherinfoModel public constructor(val weatherinfo: WeatherinfoBean) {
+    //类体
+    init {
+        //主构造函数不能包含任何的代码，
+        //初始化的代码可以放到 init 块中
+    }
+}  
   
 
 
