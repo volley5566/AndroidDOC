@@ -206,13 +206,13 @@ Byte |
 
 		//类名:WeatherinfoModel
 		//主构造函数:constructor(val weatherinfo: WeatherinfoBean)
-		class WeatherinfoModel public constructor(val weatherinfo: WeatherinfoBean) {
+		class WeatherinfoModel public constructor(val weatherinfo: WeatherinfoBean)   {
     //类体
     init {
         //主构造函数不能包含任何的代码，
         //初始化的代码可以放到 init 块中
     }
-}  
+	}  
   
 
 
