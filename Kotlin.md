@@ -213,6 +213,239 @@ Byte |
         //初始化的代码可以放到 init 块中
     }
 	}  
+	
+
+如果主构造函数没有任何注解或者可见性修饰符（private、 protected、 internal 和 public），可以省略这个 constructor 关键字。
+
+
+### 2.次构造函数
+
+类也可以声明前缀有 constructor的次构造函数
+
+		
+		class Person {
+				constructor(parent: Person){
+					parent.children.add(this);
+				}
+		}  
+		
+		
+### 3.创建类的实例
+
+Kotlin并没有new关键字，简单粗暴：
+
+		var person = Person()
+		
+
+
+****************
+## 继承
+
+* 声明一个显示的父类:
+
+		open class Base {
+			open fun v(){
+			}
+		}
+		
+* 子类冒号继承，override 标注在子类中覆盖：
+
+		class Child: Base {
+			ovrride fun v(){
+			}
+		}
+		
+* 如果累没有主构造函数，那么每次构造函数必须使用使用 super 关键字初始化其基类型：
+
+		
+		class MyView :View {
+			constructor(ctx: Context):super(ctx)
+    	  constructor(ctx: Context, attrs:    AttributeSet) : super(ctx, attrs)
+		}
+		
+		
+****************		
+## 泛型
+
+* 泛型类
+
+		class Application<M>(m:M){}
+		
+	
+
+* 泛型函数
   
+类型参数要放在函数名称之前：  
+
+		fun <M> addSubscription(observable: Observable<M>, subscriber: Subscriber<M>) {
+       //.........
+		}
+		
+		
+	
+	
+****************	
+## 抽象类
+
+		abstract class ApiCallback<M> {
+    		abstract fun onSuccess(model: M)
+    		abstract fun onFailure(msg: String?)
+    		abstract fun onFinish()
+		}
+		
+1、抽象方法必须为 public 或者 protected，缺省情况下默认为 public；<br>
+2、抽象类不能用来创建对象；<br>
+3、如果一个类继承于一个抽象类，则子类必须实现父类的抽象方法。如果子类没有实现父类的抽象方法，则必须将子类也定义为为 abstract 类。如果抽象类中含有抽象属性，再实现子类中必须将抽象属性初始化，除非子类也为抽象类。
+
+### 抽象方法
+
+1、抽象方法必须用 abstract 关键字进行修饰；<br>
+2、抽象方法默认被 open 修饰，可以不用手动添加 open；<br>
+3、抽象方法没有具体的实现；<br>
+4、含有抽象方法的类成为抽象类，必须由 abtract 关键字修饰。
+
+### 抽象属性
+
+抽象属性就是在 var 或 val 前被 abstract 修饰。
 
 
+****************
+## 嵌套类
+
+* 类里面可以嵌套在其他类：
+		
+		class A {
+    		val a: String = "a"
+
+    		class B {
+        		val b: String = "b"
+    		}
+		}
+
+访问：
+
+		val a = A.B().b//a输出为“b”
+		
+* 如果想让类 B 能访问类 A 的成员，可以加 inner 标记：
+
+		class A {
+    		val a: String = "a"
+
+    		inner class B {
+       		 val b: String = a
+		    }
+	    }
+	    
+访问：
+
+		val a = A().B().b//a输出为“a”
+		
+************
+## 对象
+
+有时候，我们需要创建一个对某个类做轻微改动的类的对象，而不是为之显式声明新的子类。
+
+### 1.对象表达式
+
+抽象类不能用来创建对象，可以创建一个继承自某个（或某些）类型的匿名内部类的对象:
+
+		ApiClient.retrofit().loadData("101190201"), object : ApiCallback<WeatherinfoModel>() {
+            override fun onSuccess(model: WeatherinfoModel) {
+                //……
+            }
+
+            override fun onFailure(msg: String?) {
+                //……
+            }
+
+            override fun onFinish() {
+                //……
+            }}
+            
+            
+### 2.对象声明
+
+* 单例模式
+在 object 关键字后跟一个名称，声明单例模式：
+
+
+		object ApiClient {
+    	  fun retrofit(): ApiStores {
+    	  //……
+        		return retrofit.create(ApiStores::class.java)
+       	}
+		}
+
+引用该对象：
+
+		ApiClient.retrofit()
+
+* 伴生对象
+
+使用 companion 关键字标记：
+
+		class ApiStores {
+    			companion object A {
+        		//baseUrl
+        		val API_SERVER_URL = "http://				www.weather.com.cn/"
+   			 }
+		}
+		
+这样就能直接访问该伴生对象的成员：
+		
+		val url = ApiStores.API_SERVER_URL
+		
+可以省略伴生对象的名称 A，伴生对象也适合接口。
+
+
+## 数据类
+数据类提供了访问它们属性 getter 和 setter，toString()等：
+
+		data class WeatherinfoModel constructor(val weatherinfo: WeatherinfoBean) {
+    
+    			data class WeatherinfoBean(
+            		val city: String,
+            		val cityid: String
+    			)
+		}
+		
+数据类必须满足以下要求：
+
+1、主构造函数需要至少有一个参数；<br>
+2、主构造函数的所有参数需要标记为 val 或 var；<br>
+3、数据类不能是抽象、开放、密封或者内部的；<br>
+4、在 1.1 之前，数据类只能实现接口。
+
+## 复制
+在很多情况下，我们只需要改变一个对象某些属性，其余部分保持不变，这里可以用到数据类的 copy，以上面的 WeatherinfoModel 为例，Retrofit 请求成功，我有个回调：
+
+
+		override fun onSuccess(model: WeatherinfoModel) {
+    Log.d("wxl",model.toString())//输出“WeatherinfoModel(weatherinfo=WeatherinfoBean(city=无锡, cityid=101190201))”
+    Log.d("wxl", "city=" + model.weatherinfo.city + ",cityid=" + model.weatherinfo.cityid)//输出“city=无锡,cityid=101190201”
+    val weatherinfoBean = model.weatherinfo.copy(city = "上海")
+    val weatherinfoModel = WeatherinfoModel(weatherinfoBean)
+    Log.d("wxl", "city1=" + 		weatherinfoModel.weatherinfo.city + ",cityid1=" + weatherinfoModel.weatherinfo.cityid)//输出“city1=上海,cityid1=101190201”
+		}
+
+## 委托
+所谓委托模式 ，就是为其他对象提供一种代理以控制对这个对象的访问，在 Java 开发过程中，是继承模式之外的很好的解决问题的方案。
+
+		interface Base {
+   			 fun print()
+		}
+
+		class A(val a: Int) : Base {
+    		override fun print() {
+        		Log.d("wxl", "a=" + a)
+    		}
+		}
+
+		class B (val base: Base):Base by base
+
+调用：
+
+		val a = A(1)
+		Log.d("wxl", "a=" + B(a).print())
+		
+类 B 居然能调用类 A 方法，关键字 by 表示 base 将会在 B 中内部存储, 并且编译器将生成转发给 base 的所有 Base 的方法。
