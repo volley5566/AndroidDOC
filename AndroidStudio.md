@@ -16,7 +16,9 @@ http://blog.csdn.net/hp910315/article/details/70159593
 
 * http://blog.csdn.net/hp910315/article/category/5850937
 
-
+### AS常用快捷键
+* 查看类中的所有参数和方法：win ctrl+ F12  mac cmd+ F12
+* 查看类和方法被调用处： win alt+F7
 
 
 
