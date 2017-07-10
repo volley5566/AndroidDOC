@@ -20,6 +20,7 @@ http://blog.csdn.net/hp910315/article/details/70159593
 * 查看类中的所有参数和方法：win ctrl+ F12  mac cmd+ F12
 * 查看类和方法被调用处： win alt+F7
 * 全局搜索内容： win ctrl + shift + F
+* 修改文件名车： win shift + F6
 
 
 
