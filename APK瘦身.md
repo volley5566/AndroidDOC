@@ -94,13 +94,7 @@
     	}
     }
 
-
-
-
-
-
-
-## AndResGuard资源混淆
+## AndResGuard资源混淆 (未实践)
 * http://www.jianshu.com/p/7ffea26c9fd8
 
 
