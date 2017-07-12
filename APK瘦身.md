@@ -48,8 +48,10 @@
 2. tinypng的缺点是在压缩某些带有过渡效果（带alpha值）的图片时，图片会失真。
 3. tinypng提供了开放接口供开发者开发属于自己的压缩工具，不过这是付费服务，对于普通用户来说，tinypng为每个用户提供的每月图片免费压缩数量已经足够了。
 
-## 6. 使用pngquant来压缩png资源缩小apk
+## 6. 使用pngquant来压缩png资源缩小apk 
 * 使用pngquant来压缩png资源缩小apk http://www.cnblogs.com/soaringEveryday/p/5148881.html  （待测试 ）
+* Android Pngquant图片压缩 http://www.jianshu.com/p/0bf09aea6446
+* 9.png的图片压缩不了，会有问题。Android studio会报错
 
 
 
