@@ -25,3 +25,20 @@ http://blog.csdn.net/guolin_blog/article/details/44171115
 *  补间动画详解 <br>
 http://blog.csdn.net/ruancoder/article/details/52347243  <br>
 http://www.cnblogs.com/ldq2016/p/5407061.html
+
+
+## Paint
+* Android Paint的使用详解 <br>
+http://blog.csdn.net/abcdef314159/article/details/51720686
+* Android Canvas绘图详解 <br>
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html
+* Android开发之深入理解RectF和Rect之间的区别
+http://teachcourse.cn/2268.html
+
+
+
+## 自定义View
+*【自定义View】仿广东移动App流量条控件
+https://github.com/panyz/Blogs/issues/18
+* 玩转仿探探卡片式滑动效果
+http://mp.weixin.qq.com/s/XYcXXehUAJIZU_ykmKWG0Q
