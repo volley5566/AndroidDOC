@@ -71,6 +71,9 @@ http://blog.csdn.net/jiayouwangqiuwangzi/article/details/53485103
 
 ****
 # 自定义View
+## 自定义View  
+* 自定义View系列 <br>
+http://www.jianshu.com/p/e404c9421466
 ## 自定义View实例
 *【自定义View】仿广东移动App流量条控件
 https://github.com/panyz/Blogs/issues/18
@@ -82,6 +85,8 @@ http://www.cnblogs.com/guanhaoran/p/7171530.html
 https://juejin.im/post/59681931f265da6c4073786e?utm_source=gold_browser_extension
 * 自定义View之游戏摇杆键盘实现
 https://juejin.im/entry/596c2b34f265da6c3b27ed74/detail?utm_source=gold_browser_extension
+
+
 
 ****
 
