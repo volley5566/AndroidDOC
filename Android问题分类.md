@@ -32,6 +32,9 @@ http://ie8384.com/blog/?p=1566
 
 ****
 # 动画部分
+*Android 三种动画详解
+http://www.cnblogs.com/ldq2016/p/5407061.html
+
 ## 属性动画
 * Android属性动画完全解析(上)，初识属性动画的基本用法 <br> 
 http://blog.csdn.net/guolin_blog/article/details/43536355
@@ -42,8 +45,8 @@ http://blog.csdn.net/guolin_blog/article/details/43816093
 http://blog.csdn.net/guolin_blog/article/details/44171115 
 *  补间动画详解 <br>
 http://blog.csdn.net/ruancoder/article/details/52347243  <br>
-http://www.cnblogs.com/ldq2016/p/5407061.html
-
+http://www.cnblogs.com/ldq2016/p/5407061.html <br>
+http://www.cnblogs.com/plokmju/p/android_TweenAnimation.html
 
 ## Path动画
 http://www.jianshu.com/p/b872b064d369
@@ -54,6 +57,13 @@ http://www.ctolib.com/AbnormalExit-WaveView.html
 ## 高级动画系列
 * Android高级动画
 http://www.jianshu.com/p/48554844a2db
+
+* Android高级动画（1）http://www.jianshu.com/p/48554844a2db
+* Android高级动画（2）http://www.jianshu.com/p/89cfd9042b1e
+* Android高级动画（3）http://www.jianshu.com/p/d6cc8d218900
+* Android高级动画（4）http://www.jianshu.com/p/91f8363c3a8c
+
+。
 
 
 ## Canvas&Paint
@@ -87,6 +97,16 @@ https://juejin.im/post/59681931f265da6c4073786e?utm_source=gold_browser_extensio
 https://juejin.im/entry/596c2b34f265da6c3b27ed74/detail?utm_source=gold_browser_extension
 
 
+* Android App 新手指引开源控件　
+http://www.androidchina.net/7028.html
+
+* Android图片压缩开源库
+Luban https://github.com/Curzibn/Luban
+http://www.androidchina.net/6809.html
+
+* suitline是一个小巧且高效的Android线性图表组件
+http://www.androidchina.net/6812.html
+
 
 ****
 
@@ -108,3 +128,19 @@ http://blog.csdn.net/lmj623565791/article/details/52761658
 
 ## NDK
 * NDK开发基础 http://www.jianshu.com/p/f1b8b97d2ef8
+
+
+## Android 高级混淆和代码保护技术
+* Android 高级混淆和代码保护技术
+https://juejin.im/post/596eae75518825413c1f1bfa?utm_source=gold_browser_extension
+
+
+
+****
+# 开源项目
+
+## Android智能下拉刷新框架-SmartRefreshLayout
+* https://github.com/scwang90/SmartRefreshLayout/blob/master/README_CN.md
+
+## OkGo - 3.0
+* https://github.com/jeasonlzy/okhttp-OkGo
