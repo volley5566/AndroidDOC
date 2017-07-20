@@ -16,6 +16,10 @@ http://blog.csdn.net/hp910315/article/details/70159593
 
 * http://blog.csdn.net/hp910315/article/category/5850937
 
+### Android Studio的插件 
+* https://www.zhihu.com/question/28026027
+* http://jingyan.baidu.com/article/f54ae2fc0b1acb1e92b849fe.html
+
 ### AS常用快捷键
 * 查看类中的所有参数和方法：win ctrl+ F12  mac cmd+ F12
 * 查看类和方法被调用处： win alt+F7

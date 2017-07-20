@@ -51,6 +51,9 @@ http://www.cnblogs.com/plokmju/p/android_TweenAnimation.html
 ## Path动画
 http://www.jianshu.com/p/b872b064d369
 
+* 【Android】 给我一个Path，还你一个酷炫动画
+http://blog.csdn.net/zxt0601/article/details/53040506
+
 * Path动画的实例
 http://www.ctolib.com/AbnormalExit-WaveView.html
 
@@ -95,6 +98,9 @@ http://www.cnblogs.com/guanhaoran/p/7171530.html
 https://juejin.im/post/59681931f265da6c4073786e?utm_source=gold_browser_extension
 * 自定义View之游戏摇杆键盘实现
 https://juejin.im/entry/596c2b34f265da6c3b27ed74/detail?utm_source=gold_browser_extension
+* 最新 21 款Android 自定义View及炫酷动画开源框架 
+https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649549928&idx=1&sn=be7370e6f32a1159b26515373edbf07f&chksm=f1180715c66f8e03f2f23f9d596b990fdb992874dc3f73cc4078b35b81fedd38e421ff52ea72#rd
+
 
 
 * Android App 新手指引开源控件　
