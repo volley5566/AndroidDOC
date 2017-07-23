@@ -49,6 +49,10 @@ http://www.cnblogs.com/ldq2016/p/5407061.html <br>
 http://www.cnblogs.com/plokmju/p/android_TweenAnimation.html
 
 ## Path动画
+
+* Android 贝塞尔曲线菜鸟起步 
+http://blog.csdn.net/SkipperKevin/article/details/59565584<br>
+
 http://www.jianshu.com/p/b872b064d369
 
 * 【Android】 给我一个Path，还你一个酷炫动画
@@ -56,6 +60,12 @@ http://blog.csdn.net/zxt0601/article/details/53040506
 
 * Path动画的实例
 http://www.ctolib.com/AbnormalExit-WaveView.html
+
+* Android中moveTo、lineTo、quadTo、cubicTo、arcTo详解 
+https://segmentfault.com/a/1190000000721127
+
+* Android自定义曲线路径动画框架 
+http://www.jianshu.com/p/f64c3cd25f67
 
 ## 高级动画系列
 * Android高级动画
@@ -91,7 +101,10 @@ http://www.jianshu.com/p/e404c9421466
 *【自定义View】仿广东移动App流量条控件
 https://github.com/panyz/Blogs/issues/18
 * 玩转仿探探卡片式滑动效果
-http://mp.weixin.qq.com/s/XYcXXehUAJIZU_ykmKWG0Q
+http://mp.weixin.qq.com/s/XYcXXehUAJIZU_ykmKWG0Q <br>
+http://yuqirong.me/2017/03/05/%E7%8E%A9%E8%BD%AC%E4%BB%BF%E6%8E%A2%E6%8E%A2%E5%8D%A1%E7%89%87%E5%BC%8F%E6%BB%91%E5%8A%A8%E6%95%88%E6%9E%9C/
+* 仿探探效果
+http://p.codekk.com/detail/Android/xmuSistone/android-card-slide-panel
 * 自定义七天签到View
 http://www.cnblogs.com/guanhaoran/p/7171530.html
 * 仿房产销冠APP销控表界面-多RecyclerView同步滚动
@@ -133,20 +146,34 @@ http://blog.csdn.net/lmj623565791/article/details/52761658
 ****
 
 ## NDK
-* NDK开发基础 http://www.jianshu.com/p/f1b8b97d2ef8
+* NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
+* NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
 
 
 ## Android 高级混淆和代码保护技术
 * Android 高级混淆和代码保护技术
 https://juejin.im/post/596eae75518825413c1f1bfa?utm_source=gold_browser_extension
 
+## Tinker热修复集成总结
+https://juejin.im/post/597155136fb9a06ba82d4e01?utm_source=gold_browser_extension
 
+## Android 中高效执行Schedule 任务
+* https://juejin.im/post/5970b58ef265da6c3d6c5bb4?utm_source=gold_browser_extension
+
+## Protocol Buffer 
+* 快来看看 Google 出品的 Protocol Buffer，别只会用 JSON 和 XML 了 <br>
+https://juejin.im/post/595eefcb5188250da205efbe?utm_source=gold_browser_extension
+
+## Anko 
+* 使用anko 抛弃XML <br>
+http://www.jianshu.com/p/445bada56d14
 
 ****
 # 开源项目
 
 ## Android智能下拉刷新框架-SmartRefreshLayout
 * https://github.com/scwang90/SmartRefreshLayout/blob/master/README_CN.md
+* https://segmentfault.com/a/1190000010066071
 
 ## OkGo - 3.0
 * https://github.com/jeasonlzy/okhttp-OkGo
