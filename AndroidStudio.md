@@ -27,5 +27,10 @@ http://blog.csdn.net/hp910315/article/details/70159593
 * 修改文件名车： win shift + F6
 
 
+### 快捷操作
+* 如何批量复制文件名称
+https://zhidao.baidu.com/question/152591096.html
+
+
 
 

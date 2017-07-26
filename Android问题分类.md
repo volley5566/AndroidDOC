@@ -98,33 +98,33 @@ http://blog.csdn.net/jiayouwangqiuwangzi/article/details/53485103
 * 自定义View系列 <br>
 http://www.jianshu.com/p/e404c9421466
 ## 自定义View实例
-*【自定义View】仿广东移动App流量条控件
+* 仿广东移动App流量条控件
 https://github.com/panyz/Blogs/issues/18
 * 玩转仿探探卡片式滑动效果
 http://mp.weixin.qq.com/s/XYcXXehUAJIZU_ykmKWG0Q <br>
 http://yuqirong.me/2017/03/05/%E7%8E%A9%E8%BD%AC%E4%BB%BF%E6%8E%A2%E6%8E%A2%E5%8D%A1%E7%89%87%E5%BC%8F%E6%BB%91%E5%8A%A8%E6%95%88%E6%9E%9C/
-* 仿探探效果
+* 仿探探效果<br>
 http://p.codekk.com/detail/Android/xmuSistone/android-card-slide-panel
-* 自定义七天签到View
+* 自定义七天签到View<br>
 http://www.cnblogs.com/guanhaoran/p/7171530.html
-* 仿房产销冠APP销控表界面-多RecyclerView同步滚动
+* 仿房产销冠APP销控表界面-多RecyclerView同步滚动<br>
 https://juejin.im/post/59681931f265da6c4073786e?utm_source=gold_browser_extension
-* 自定义View之游戏摇杆键盘实现
+* 自定义View之游戏摇杆键盘实现<br>
 https://juejin.im/entry/596c2b34f265da6c3b27ed74/detail?utm_source=gold_browser_extension
-* 最新 21 款Android 自定义View及炫酷动画开源框架 
+* 最新 21 款Android 自定义View及炫酷动画开源框架 <br>
 https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649549928&idx=1&sn=be7370e6f32a1159b26515373edbf07f&chksm=f1180715c66f8e03f2f23f9d596b990fdb992874dc3f73cc4078b35b81fedd38e421ff52ea72#rd
-
-
-
+* 自定义View高仿懂球帝我是教练效果<br>
+https://juejin.im/post/5974c0c3f265da6c4c50160f?utm_source=gold_browser_extension  <br>
+https://github.com/REBOOTERS/AndroidAnimationExercise  (效果合集)
 * Android App 新手指引开源控件　
 http://www.androidchina.net/7028.html
-
 * Android图片压缩开源库
 Luban https://github.com/Curzibn/Luban
 http://www.androidchina.net/6809.html
-
 * suitline是一个小巧且高效的Android线性图表组件
 http://www.androidchina.net/6812.html
+* 从零开始的堆叠卡片控件
+https://juejin.im/post/585ba544128fe10069c2fdc7?utm_source=gold_browser_extension
 
 
 ****
