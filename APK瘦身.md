@@ -21,13 +21,6 @@
 2. 资源部分：冗余资源、资源混淆、图片处理等；
 3. 对So文件的处理等。
 
-
-
-
-
-
-
-
 ## 4. 针对shareSDK 和 appkefu 冗余图片优化
 * 两个第三方工程当中涉及的图片，名称不变，将图片内容变成 1 * 1的透明像素点图片
 
@@ -53,30 +46,10 @@
 * Android Pngquant图片压缩 http://www.jianshu.com/p/0bf09aea6446
 * 9.png的图片压缩不了，会有问题。Android studio会报错
 
-
-
-
-
-
-
-
-
-
-
-
 ## 7. 删除未使用到代码
 
 * 同样使用Android Studio的Lint，步骤：点击菜单栏 Analyze -> Run Inspection by Name -> unused declaration -> Moudule ‘app’ -> OK
 但清理效果不太明显
-
-
-
-
-
-
-
-
-
 
 ## 8. resConfig和lib
 配置resConfigs
@@ -96,7 +69,7 @@
     	}
     }
 
-## AndResGuard资源混淆 
+## 9. AndResGuard资源混淆 
 * http://www.jianshu.com/p/7ffea26c9fd8
 
 build.gradle 中 具体配置：
@@ -182,6 +155,8 @@ build.gradle 中 具体配置：
     		}
 		}	
 
+## 10. 如何批量复制文件名称
+https://zhidao.baidu.com/question/152591096.html
 
 
 

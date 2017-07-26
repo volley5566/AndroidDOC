@@ -49,34 +49,29 @@ http://www.cnblogs.com/ldq2016/p/5407061.html <br>
 http://www.cnblogs.com/plokmju/p/android_TweenAnimation.html
 
 ## Path动画
-
 * Android 贝塞尔曲线菜鸟起步 
 http://blog.csdn.net/SkipperKevin/article/details/59565584<br>
-
 http://www.jianshu.com/p/b872b064d369
-
 * 【Android】 给我一个Path，还你一个酷炫动画
 http://blog.csdn.net/zxt0601/article/details/53040506
-
 * Path动画的实例
 http://www.ctolib.com/AbnormalExit-WaveView.html
-
 * Android中moveTo、lineTo、quadTo、cubicTo、arcTo详解 
 https://segmentfault.com/a/1190000000721127
-
 * Android自定义曲线路径动画框架 
 http://www.jianshu.com/p/f64c3cd25f67
+* 自定义view————搜索动画
+https://madreain.github.io/2017/07/24/20170724/
+* 基于 SurfaceView 的直播点亮心形效果
+http://www.jianshu.com/p/6d2cc30e4687
 
 ## 高级动画系列
 * Android高级动画
 http://www.jianshu.com/p/48554844a2db
-
 * Android高级动画（1）http://www.jianshu.com/p/48554844a2db
 * Android高级动画（2）http://www.jianshu.com/p/89cfd9042b1e
 * Android高级动画（3）http://www.jianshu.com/p/d6cc8d218900
 * Android高级动画（4）http://www.jianshu.com/p/91f8363c3a8c
-
-。
 
 
 ## Canvas&Paint
@@ -97,7 +92,6 @@ http://blog.csdn.net/jiayouwangqiuwangzi/article/details/53485103
 ## 自定义View  
 * 自定义View系列 <br>
 http://www.jianshu.com/p/e404c9421466
-## 自定义View实例
 * 仿广东移动App流量条控件
 https://github.com/panyz/Blogs/issues/18
 * 玩转仿探探卡片式滑动效果
@@ -125,6 +119,25 @@ http://www.androidchina.net/6809.html
 http://www.androidchina.net/6812.html
 * 从零开始的堆叠卡片控件
 https://juejin.im/post/585ba544128fe10069c2fdc7?utm_source=gold_browser_extension
+* HenCoder Android 开发进阶: 自定义 View 1-1 绘制基础
+https://juejin.im/post/5962a3746fb9a06ba2687226
+* 把倒计时做到极致
+https://juejin.im/post/5974cb0b5188255ae666d3c2?utm_source=gold_browser_extension
+* 自定义ViewGroup_给QQ视频加点特效吧
+http://www.jianshu.com/p/619cc65d66a5
+* 自定义控件入门---类似手游控制移动的触摸球（自定义view基础，简单数学应用，事件回调）
+http://www.jianshu.com/p/a42ac9bd50f8
+* 各种写着玩的自定义控件demo
+https://github.com/yazhi1992/Practice
+
+
+
+
+# RecyclerView
+* 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇
+http://blog.csdn.net/l540675759/article/details/75635290
+*  学会自己给RecyclerView添加Header、Footer和加载更多回调
+http://blog.csdn.net/ywl5320/article/details/75949784http://blog.csdn.net/ywl5320/article/details/75949784
 
 
 ****
@@ -167,6 +180,9 @@ https://juejin.im/post/595eefcb5188250da205efbe?utm_source=gold_browser_extensio
 ## Anko 
 * 使用anko 抛弃XML <br>
 http://www.jianshu.com/p/445bada56d14
+
+## WebView重定向的判断
+http://www.jianshu.com/p/7dfb8797f893
 
 ****
 # 开源项目
