@@ -31,6 +31,9 @@ http://blog.csdn.net/hp910315/article/details/70159593
 * 如何批量复制文件名称
 https://zhidao.baidu.com/question/152591096.html
 
+### AS&GitHub
+http://www.cnblogs.com/shiwei-bai/archive/2015/11/24/4991132.html
+
 
 
 

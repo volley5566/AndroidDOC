@@ -1,40 +1,8 @@
 # Android问题分类
-
-## 内存泄漏问题分析及解决
-* 使用Android Studio和MAT进行内存泄漏分析 <br>
-https://juejin.im/post/595371d0f265da6c375a7879?utm_source=gold_browser_extension
-
-****
-
-## 内存管理
-* Android 开发，跳不过的内存管理
-https://juejin.im/post/5952641bf265da6c21533f15?utm_source=gold_browser_extension
-
-* 大幅减少Android OOM的几个措施
-http://ie8384.com/blog/?p=1566
-
-****
-
-## APK瘦身
-* 吴小龙 http://wuxiaolong.me/2017/03/19/ReduceAPKSize/
-* Google I/O 2016 笔记：APK 瘦身的正确姿势 https://zhuanlan.zhihu.com/p/21543787
-* 老司机谈APK瘦身套路-图片资源篇  https://juejin.im/post/57707d96a633bd00642e1f8d
-* 老司机谈APK瘦身套路-项目优化篇  https://zhuanlan.zhihu.com/p/21543787
-* Apk瘦身实用总结  https://juejin.im/post/592cfe9c0ce463006b3fb1f5
-* Android性能优化（十）之App瘦身攻略 https://juejin.im/post/59113583ac502e450280e5f3
-* 最佳实践 —— 详细谈谈如何减小APK体积 http://www.cnblogs.com/soaringEveryday/p/5254520.html
-* 使用pngquant来压缩png资源缩小apk http://www.cnblogs.com/soaringEveryday/p/5148881.html  （待测试 ）
-* Android Webp 完全解析 快来缩小apk的大小吧 http://blog.csdn.net/lmj623565791/article/details/53240600
-* 如何将apk大小减少6M的  http://blog.csdn.net/UsherFor/article/details/46827587
-* APK瘦身实践 http://jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/
-* AndResGuard https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md<br>
-  http://www.jianshu.com/p/7ffea26c9fd8
-
 ****
 # 动画部分
-*Android 三种动画详解
+* Android 三种动画详解
 http://www.cnblogs.com/ldq2016/p/5407061.html
-
 ## 属性动画
 * Android属性动画完全解析(上)，初识属性动画的基本用法 <br> 
 http://blog.csdn.net/guolin_blog/article/details/43536355
@@ -72,7 +40,6 @@ http://www.jianshu.com/p/48554844a2db
 * Android高级动画（2）http://www.jianshu.com/p/89cfd9042b1e
 * Android高级动画（3）http://www.jianshu.com/p/d6cc8d218900
 * Android高级动画（4）http://www.jianshu.com/p/91f8363c3a8c
-
 
 ## Canvas&Paint
 * Android Paint的使用详解 <br>
@@ -130,66 +97,88 @@ http://www.jianshu.com/p/a42ac9bd50f8
 * 各种写着玩的自定义控件demo
 https://github.com/yazhi1992/Practice
 
-
-
-
-# RecyclerView
+## RecyclerView
 * 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇
 http://blog.csdn.net/l540675759/article/details/75635290
 *  学会自己给RecyclerView添加Header、Footer和加载更多回调
 http://blog.csdn.net/ywl5320/article/details/75949784http://blog.csdn.net/ywl5320/article/details/75949784
 
+## Flexboxlayout
+* Android Flexboxlayout使用详解
+http://www.jianshu.com/p/d3baa79e3bf8
+* Google 开源的 Android 排版库：FlexboxLayout
+http://www.oschina.net/news/73442/google-flexbox-layout
 
 ****
-
-## RxJAVA
-* RxJAVA2.0系列教程： <br>
-http://www.jianshu.com/u/c50b715ccaeb
-
-
-****
-
+# 核心知识 
+## NDK
+* NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
+* NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
 ## 增量更新
 *  Android 增量更新完全解析 是增量不是热修复  <br>
 http://blog.csdn.net/lmj623565791/article/details/52761658 
 * https://github.com/cundong/SmartAppUpdates
 * 增量更新小记 http://www.jianshu.com/p/df81af1ea5f3
-
-
-****
-
-## NDK
-* NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
-* NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
-
-
 ## Android 高级混淆和代码保护技术
 * Android 高级混淆和代码保护技术
 https://juejin.im/post/596eae75518825413c1f1bfa?utm_source=gold_browser_extension
-
 ## Tinker热修复集成总结
 https://juejin.im/post/597155136fb9a06ba82d4e01?utm_source=gold_browser_extension
-
 ## Android 中高效执行Schedule 任务
 * https://juejin.im/post/5970b58ef265da6c3d6c5bb4?utm_source=gold_browser_extension
-
 ## Protocol Buffer 
 * 快来看看 Google 出品的 Protocol Buffer，别只会用 JSON 和 XML 了 <br>
 https://juejin.im/post/595eefcb5188250da205efbe?utm_source=gold_browser_extension
-
 ## Anko 
 * 使用anko 抛弃XML <br>
 http://www.jianshu.com/p/445bada56d14
-
 ## WebView重定向的判断
 http://www.jianshu.com/p/7dfb8797f893
+## RxJAVA
+* RxJAVA2.0系列教程： <br>
+http://www.jianshu.com/u/c50b715ccaeb
+
+## APK瘦身
+* 吴小龙 http://wuxiaolong.me/2017/03/19/ReduceAPKSize/
+* Google I/O 2016 笔记：APK 瘦身的正确姿势 https://zhuanlan.zhihu.com/p/21543787
+* 老司机谈APK瘦身套路-图片资源篇  https://juejin.im/post/57707d96a633bd00642e1f8d
+* 老司机谈APK瘦身套路-项目优化篇  https://zhuanlan.zhihu.com/p/21543787
+* Apk瘦身实用总结  https://juejin.im/post/592cfe9c0ce463006b3fb1f5
+* Android性能优化（十）之App瘦身攻略 https://juejin.im/post/59113583ac502e450280e5f3
+* 最佳实践 —— 详细谈谈如何减小APK体积 http://www.cnblogs.com/soaringEveryday/p/5254520.html
+* 使用pngquant来压缩png资源缩小apk http://www.cnblogs.com/soaringEveryday/p/5148881.html  （待测试 ）
+* Android Webp 完全解析 快来缩小apk的大小吧 http://blog.csdn.net/lmj623565791/article/details/53240600
+* 如何将apk大小减少6M的  http://blog.csdn.net/UsherFor/article/details/46827587
+* APK瘦身实践 http://jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/
+* AndResGuard https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md<br>
+  http://www.jianshu.com/p/7ffea26c9fd8
+
+## 内存泄漏问题分析及解决
+* 使用Android Studio和MAT进行内存泄漏分析 <br>
+https://juejin.im/post/595371d0f265da6c375a7879?utm_source=gold_browser_extension
+
+## 内存管理
+* Android 开发，跳不过的内存管理
+https://juejin.im/post/5952641bf265da6c21533f15?utm_source=gold_browser_extension
+* 大幅减少Android OOM的几个措施
+http://ie8384.com/blog/?p=1566
 
 ****
 # 开源项目
-
 ## Android智能下拉刷新框架-SmartRefreshLayout
 * https://github.com/scwang90/SmartRefreshLayout/blob/master/README_CN.md
 * https://segmentfault.com/a/1190000010066071
 
-## OkGo - 3.0
-* https://github.com/jeasonlzy/okhttp-OkGo
+****
+# 网络框架部分
+* OkGo - 3.0
+https://github.com/jeasonlzy/okhttp-OkGo
+* 一行代码实现Okhttp,Retrofit,Glide下载上传进度监听
+http://www.jianshu.com/p/5832c776621f
+* 解决 Retrofit 多 BaseUrl 及运行时动态改变 BaseUrl
+https://juejin.im/post/5978567d51882517921cdcfd
+
+****
+# 数据持久化
+* 微信 WCDB 正式开源——高效易用的移动数据库框架
+https://github.com/Tencent/wcdb/wiki/Android%E6%8E%A5%E5%85%A5%E4%B8%8E%E8%BF%81%E7%A7%BB
