@@ -32,8 +32,13 @@ http://blog.csdn.net/hp910315/article/details/70159593
 https://zhidao.baidu.com/question/152591096.html
 
 ### AS&GitHub
+* Android Studio中Git的配置及协同开发
+http://blog.csdn.net/xmxkf/article/details/51595096
+
+* Android Studio中如何使用Git和Github来管理项目
+http://blog.csdn.net/wei18359100306/article/details/45645145
+
+* AndroidStudio项目提交（更新）到github最详细步骤
 http://www.cnblogs.com/shiwei-bai/archive/2015/11/24/4991132.html
-
-
 
 

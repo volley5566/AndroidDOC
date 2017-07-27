@@ -56,6 +56,17 @@ http://blog.csdn.net/jiayouwangqiuwangzi/article/details/53485103
 
 ****
 # 自定义View
+## 自定义控件的属性
+* declare-styleable：自定义控件的属性
+http://blog.csdn.net/congqingbin/article/details/7869730
+
+## ListView 
+* 关于listview中添加倒计时功能卡顿问题 <br>
+这就是一个倒计时的代码，适配器还是该怎么用就怎么用，和这个没关系，目前我遇到的getView不停的执行是因为listview的父布局写的wrap_content，改成固定值或者match_parent解决了的
+http://blog.csdn.net/u011264824/article/details/51917715
+* android 特卖列表倒计时卡顿问题
+http://blog.csdn.net/xiangzhihong8/article/details/52949385
+
 ## 自定义View  
 * 自定义View系列 <br>
 http://www.jianshu.com/p/e404c9421466
