@@ -1,5 +1,8 @@
 # Android问题分类
 ****
+## 2017 Android GitHub 常用开源框架汇总
+http://www.androidchina.net/7182.html
+
 # 动画部分
 * Android 三种动画详解
 http://www.cnblogs.com/ldq2016/p/5407061.html
@@ -113,21 +116,31 @@ https://madreain.github.io/2017/07/27/20170727/
 http://www.jianshu.com/p/818116513dc3
 * 计分圆弧
 https://github.com/xandone/Circle
-
-
+* Android仿淘宝闲鱼底部TabBar
+https://github.com/teulu/tabbar <br>
+https://github.com/NoCodeNoWife/LLRiseTabBar-Android
+* 仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘
+https://github.com/xuejinwei/NumberKeyboard
+* PullUpToLoadMoreInfo Android实现类似“淘宝、天猫”产品详情界面
+https://github.com/Ericsongyl/PullUpToLoadMoreInfo
+* Android自定义View——ScrollChooseView 可以滑动选择的View
+http://www.jianshu.com/p/49b14d2574b1
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
 
 ## RecyclerView
-* 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇
+* 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇 <br>
 http://blog.csdn.net/l540675759/article/details/75635290
-* 学会自己给RecyclerView添加Header、Footer和加载更多回调
+* 学会自己给RecyclerView添加Header、Footer和加载更多回调 <br>
 http://blog.csdn.net/ywl5320/article/details/75949784http://blog.csdn.net/ywl5320/article/details/75949784
-* RecyclerView Item 布局宽高无效问题探究
+* RecyclerView Item 布局宽高无效问题探究 <br>
 https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483833&idx=1&sn=4e2b78ea2ffbed896166f6f195ff0377&chksm=974f10b2a03899a4496ea5ba4f3fb89c81e256b290abc844695425452eb14810714cbf0cced3#rd
-
+* Recycleview双列表联动与悬停 <br>
+http://www.jianshu.com/p/38017cfdf270
+* AutoRecycleView一个自动维护下拉刷新和上拉加载的View
+https://github.com/GaoGersy/AutoRecycleView/tree/master
 
 ## Flexboxlayout
 * Android Flexboxlayout使用详解
@@ -138,6 +151,17 @@ http://www.oschina.net/news/73442/google-flexbox-layout
 ## Android新特性介绍，ConstraintLayout完全解析
 http://blog.csdn.net/guolin_blog/article/details/53122387
 
+## 电商APP相关
+* 精仿今日头条
+https://github.com/chaychan/TouTiao
+* LazyWaimai-Android :一个类似于饿了么、美团外卖和百度外卖的APP，采用MVP架构，目前还有部分功能还未实现，但基本的订餐流程已实现。
+https://github.com/cheikh-wang/LazyWaimai-Android
+* Android 仿美团网，探索使用ViewPager+GridView实现左右滑动查看更多分类的功能
+http://blog.csdn.net/qq_20785431/article/details/52528404
+* android仿京东、淘宝商品详情页上拉查看详情	
+https://github.com/ysnows/DoubleScrollVIew
+* 京东 Android 客户端样式的级联地址选择器
+https://github.com/chihane/JDAddressSelector
 
 ****
 # 核心知识 
@@ -194,8 +218,10 @@ https://juejin.im/post/5952641bf265da6c21533f15?utm_source=gold_browser_extensio
 http://ie8384.com/blog/?p=1566
 
 ## Android触摸事件传递分析与实践
-通常而言ViewGroup.onInterceptTouchEvent决定了父View是否拦截该触摸事件，而View.onTouchEvent中则实现了其自身如何处理该触摸事件。
+* 通常而言ViewGroup.onInterceptTouchEvent决定了父View是否拦截该触摸事件，而View.onTouchEvent中则实现了其自身如何处理该触摸事件。
 http://www.jianshu.com/p/e75dd6fba1b7
+* Android 事件分发机制总结
+http://www.jianshu.com/p/e00b5668ee39
 
 ****
 # 开源项目
