@@ -107,18 +107,37 @@ http://www.jianshu.com/p/619cc65d66a5
 http://www.jianshu.com/p/a42ac9bd50f8
 * 各种写着玩的自定义控件demo
 https://github.com/yazhi1992/Practice
+* 自定义view————进度条
+https://madreain.github.io/2017/07/27/20170727/
+* 自定义控件 | 仿《最美有物》点赞效果
+http://www.jianshu.com/p/818116513dc3
+* 计分圆弧
+https://github.com/xandone/Circle
+
+
+
+## 布局类自定义
+* Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
+http://www.jianshu.com/p/c61a8b1af340
 
 ## RecyclerView
 * 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇
 http://blog.csdn.net/l540675759/article/details/75635290
-*  学会自己给RecyclerView添加Header、Footer和加载更多回调
+* 学会自己给RecyclerView添加Header、Footer和加载更多回调
 http://blog.csdn.net/ywl5320/article/details/75949784http://blog.csdn.net/ywl5320/article/details/75949784
+* RecyclerView Item 布局宽高无效问题探究
+https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483833&idx=1&sn=4e2b78ea2ffbed896166f6f195ff0377&chksm=974f10b2a03899a4496ea5ba4f3fb89c81e256b290abc844695425452eb14810714cbf0cced3#rd
+
 
 ## Flexboxlayout
 * Android Flexboxlayout使用详解
 http://www.jianshu.com/p/d3baa79e3bf8
 * Google 开源的 Android 排版库：FlexboxLayout
 http://www.oschina.net/news/73442/google-flexbox-layout
+
+## Android新特性介绍，ConstraintLayout完全解析
+http://blog.csdn.net/guolin_blog/article/details/53122387
+
 
 ****
 # 核心知识 
@@ -174,6 +193,10 @@ https://juejin.im/post/5952641bf265da6c21533f15?utm_source=gold_browser_extensio
 * 大幅减少Android OOM的几个措施
 http://ie8384.com/blog/?p=1566
 
+## Android触摸事件传递分析与实践
+通常而言ViewGroup.onInterceptTouchEvent决定了父View是否拦截该触摸事件，而View.onTouchEvent中则实现了其自身如何处理该触摸事件。
+http://www.jianshu.com/p/e75dd6fba1b7
+
 ****
 # 开源项目
 ## Android智能下拉刷新框架-SmartRefreshLayout
@@ -193,3 +216,6 @@ https://juejin.im/post/5978567d51882517921cdcfd
 # 数据持久化
 * 微信 WCDB 正式开源——高效易用的移动数据库框架
 https://github.com/Tencent/wcdb/wiki/Android%E6%8E%A5%E5%85%A5%E4%B8%8E%E8%BF%81%E7%A7%BB
+
+
+
