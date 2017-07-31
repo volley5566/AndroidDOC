@@ -91,40 +91,53 @@ https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649549928&idx=1&sn=be7370
 * 自定义View高仿懂球帝我是教练效果<br>
 https://juejin.im/post/5974c0c3f265da6c4c50160f?utm_source=gold_browser_extension  <br>
 https://github.com/REBOOTERS/AndroidAnimationExercise  (效果合集)
-* Android App 新手指引开源控件　
+* Android App 新手指引开源控件 <br>　
 http://www.androidchina.net/7028.html
-* Android图片压缩开源库
+* Android图片压缩开源库 <br>
 Luban https://github.com/Curzibn/Luban
 http://www.androidchina.net/6809.html
-* suitline是一个小巧且高效的Android线性图表组件
+* suitline是一个小巧且高效的Android线性图表组件 <br>
 http://www.androidchina.net/6812.html
-* 从零开始的堆叠卡片控件
+* 从零开始的堆叠卡片控件 <br>
 https://juejin.im/post/585ba544128fe10069c2fdc7?utm_source=gold_browser_extension
-* HenCoder Android 开发进阶: 自定义 View 1-1 绘制基础
+* HenCoder Android 开发进阶: 自定义 View 1-1 绘制基础 <br>
 https://juejin.im/post/5962a3746fb9a06ba2687226
-* 把倒计时做到极致
+* 把倒计时做到极致 <br>
 https://juejin.im/post/5974cb0b5188255ae666d3c2?utm_source=gold_browser_extension
-* 自定义ViewGroup_给QQ视频加点特效吧
+* 自定义ViewGroup_给QQ视频加点特效吧 <br>
 http://www.jianshu.com/p/619cc65d66a5
-* 自定义控件入门---类似手游控制移动的触摸球（自定义view基础，简单数学应用，事件回调）
+* 自定义控件入门---类似手游控制移动的触摸球（自定义view基础，简单数学应用，事件回调） <br>
 http://www.jianshu.com/p/a42ac9bd50f8
-* 各种写着玩的自定义控件demo
+* 各种写着玩的自定义控件demo <br>
 https://github.com/yazhi1992/Practice
-* 自定义view————进度条
+* 自定义view————进度条 <br>
 https://madreain.github.io/2017/07/27/20170727/
-* 自定义控件 | 仿《最美有物》点赞效果
+* 自定义控件 | 仿《最美有物》点赞效果 <br>
 http://www.jianshu.com/p/818116513dc3
-* 计分圆弧
+* 计分圆弧 <br>
 https://github.com/xandone/Circle
-* Android仿淘宝闲鱼底部TabBar
+* Android仿淘宝闲鱼底部TabBar <br>
 https://github.com/teulu/tabbar <br>
 https://github.com/NoCodeNoWife/LLRiseTabBar-Android
-* 仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘
+* 仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘 <br>
 https://github.com/xuejinwei/NumberKeyboard
-* PullUpToLoadMoreInfo Android实现类似“淘宝、天猫”产品详情界面
+* PullUpToLoadMoreInfo Android实现类似“淘宝、天猫”产品详情界面 <br>
 https://github.com/Ericsongyl/PullUpToLoadMoreInfo
-* Android自定义View——ScrollChooseView 可以滑动选择的View
+* Android自定义View——ScrollChooseView 可以滑动选择的View <br>
 http://www.jianshu.com/p/49b14d2574b1
+* Android 自定义控件 轻松实现360软件详情页 <br>
+http://blog.csdn.net/lmj623565791/article/details/43649913
+* 仿蘑菇街,蜜芽宝贝,京东商品详情界面,与NestedScroll滑动
+http://blog.csdn.net/u012216274/article/details/71272862
+* 仿美团详情滑动界面，并兼容NestedScroll嵌套 （有问题）
+http://blog.csdn.net/u012216274/article/details/71024304
+* android仿京东、淘宝商品详情页上拉查看详情
+https://github.com/ysnows/DoubleScrollVIew
+* android仿微信录制短视频,拍照,自动聚焦,手动聚焦,滑动缩放功能(Camera+TextureView+rxjava实现)
+http://blog.csdn.net/u012216274/article/details/68059637
+* Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
+https://github.com/youth5201314/banner
+
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
@@ -142,14 +155,20 @@ http://www.jianshu.com/p/38017cfdf270
 * AutoRecycleView一个自动维护下拉刷新和上拉加载的View
 https://github.com/GaoGersy/AutoRecycleView/tree/master
 
+
+
+# 新特性：
 ## Flexboxlayout
 * Android Flexboxlayout使用详解
 http://www.jianshu.com/p/d3baa79e3bf8
 * Google 开源的 Android 排版库：FlexboxLayout
 http://www.oschina.net/news/73442/google-flexbox-layout
-
-## Android新特性介绍，ConstraintLayout完全解析
+* Android新特性介绍，ConstraintLayout完全解析
 http://blog.csdn.net/guolin_blog/article/details/53122387
+* Android NestedScrolling机制完全解析 带你玩转嵌套滑动
+http://blog.csdn.net/lmj623565791/article/details/52204039
+* Android 5.X新特性 
+http://blog.csdn.net/lmj623565791/article/category/3147547
 
 ## 电商APP相关
 * 精仿今日头条
@@ -222,6 +241,8 @@ http://ie8384.com/blog/?p=1566
 http://www.jianshu.com/p/e75dd6fba1b7
 * Android 事件分发机制总结
 http://www.jianshu.com/p/e00b5668ee39
+* 图解 Android 事件分发机制
+http://www.jianshu.com/p/e99b5e8bd67b
 
 ****
 # 开源项目
