@@ -35,6 +35,10 @@ http://www.jianshu.com/p/f64c3cd25f67
 https://madreain.github.io/2017/07/24/20170724/
 * 基于 SurfaceView 的直播点亮心形效果
 http://www.jianshu.com/p/6d2cc30e4687
+* 贝塞尔曲线之购物车动画效果
+https://juejin.im/post/57e8d26d67f3560057a37022
+* 一文解析 Android 贝塞尔曲线
+http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379000&idx=1&sn=e5ef98473ece06b8b00aeace1f80eee4&chksm=84f32876b384a1605f36b4503220b56efa3ae4ed64bc6e5e021a6a28d518059ec657efadfad8&scene=21#wechat_redirect
 
 ## 高级动画系列
 * Android高级动画
@@ -137,7 +141,24 @@ https://github.com/ysnows/DoubleScrollVIew
 http://blog.csdn.net/u012216274/article/details/68059637
 * Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 https://github.com/youth5201314/banner
-
+* 如何实现 “中间这几个字要加粗，但是不要太粗，比较纤细的那种粗” 
+https://juejin.im/post/597d88f75188257fc2177c36
+* 仿饿了么加入购物车旋转控件 - 自带闪转腾挪动画 的按钮
+https://juejin.im/post/587220b9a22b9d005892422a <br>
+https://github.com/mcxtzhang/AnimShopButton
+* CoordinatorLayout自定义下拉刷新
+http://www.jianshu.com/p/00e76628109b
+* 安卓仿知乎个人主页，实现嵌套滑动和渐隐效果
+http://blog.csdn.net/AndroidMsky/article/details/53784984
+* 自定义EditText实现右下角计数控件
+https://juejin.im/post/57fb97412e958a005596cab9
+* 自定义安全键盘——仿民生银行
+http://www.jianshu.com/p/9212ecc3a1b9
+* Android自定义View——自由定制优惠券背景
+http://blog.csdn.net/shakespeare001/article/details/51873783
+* 来来来，随老夫撸一个支付宝玩玩——自定义Behavior的正确打开方式
+http://www.jianshu.com/p/de8081d41b9c <br>
+https://github.com/sangxiaonian/AliBehaver
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
@@ -181,6 +202,39 @@ http://blog.csdn.net/qq_20785431/article/details/52528404
 https://github.com/ysnows/DoubleScrollVIew
 * 京东 Android 客户端样式的级联地址选择器
 https://github.com/chihane/JDAddressSelector
+* 淘宝头条 VerticalBannerView
+https://github.com/guojunustb/VerticalBannerView
+*  仿淘宝首页的淘宝头条View垂直滚动
+http://blog.csdn.net/dreamlivemeng/article/details/51979650
+* Android购物车的实现（升级版 仿淘宝）
+http://blog.csdn.net/u014061684/article/details/50608588 <br>
+http://download.csdn.net/detail/u014061684/9578909
+* 仿淘宝购物车效果
+https://github.com/zilianliuxue/TBShoppingCart
+* 仿饿了么订餐页面的双列表联动Demo
+https://github.com/fashare2015/LinkedScrollDemo
+* RecyclerView仿饿了吗点菜页面
+http://www.jianshu.com/p/afb8ff16701e
+* 实现仿美团点菜和京东分类导航
+https://github.com/rocky0116/orderDishes
+* Android 仿美团网,探索ListView的A-Z字母排序功能实现选择城市
+https://github.com/doubijuan/SelectCityDome
+* 贝塞尔曲线之购物车动画效果
+https://juejin.im/post/57e8d26d67f3560057a37022
+* 饿了么丝滑无缝过度搜索栏的实现
+http://androidwing.net/index.php/172
+* 仿美团下拉筛选菜单
+http://www.ytsyt.cn/post/12.html
+* 高仿淘宝界面
+https://github.com/gnehsuy/TaoBaoUI
+* 仿京东、天猫app的商品详情页的布局架构, 以及功能实现
+https://github.com/hexianqiao3755/GoodsInfoPage 
+* Android--仿淘宝商品详情(继续拖动查看详情)及标题栏渐变
+http://blog.csdn.net/lyhhj/article/details/52510844
+* 高级UI特效之酷炫抢红包金币下落动画
+https://juejin.im/post/597fd81a6fb9a03c5d5359cc?utm_source=gold_browser_extension
+* Android仿外卖购物车的实现
+http://blog.csdn.net/w804518214/article/details/51570975
 
 ****
 # 核心知识 
@@ -243,12 +297,16 @@ http://www.jianshu.com/p/e75dd6fba1b7
 http://www.jianshu.com/p/e00b5668ee39
 * 图解 Android 事件分发机制
 http://www.jianshu.com/p/e99b5e8bd67b
-
+* Android事件分发机制
+http://blog.csdn.net/u014727709/article/details/74640971
 ****
 # 开源项目
 ## Android智能下拉刷新框架-SmartRefreshLayout
 * https://github.com/scwang90/SmartRefreshLayout/blob/master/README_CN.md
 * https://segmentfault.com/a/1190000010066071
+
+* UltraViewPager 阿里巴巴开源项目
+https://github.com/alibaba/UltraViewPager
 
 ****
 # 网络框架部分
@@ -258,6 +316,14 @@ https://github.com/jeasonlzy/okhttp-OkGo
 http://www.jianshu.com/p/5832c776621f
 * 解决 Retrofit 多 BaseUrl 及运行时动态改变 BaseUrl
 https://juejin.im/post/5978567d51882517921cdcfd
+
+## 一篇好文，助你上手 Glide
+https://juejin.im/post/597fce4051882537e0595bd2
+
+
+
+## 58 同城 Android 端 HTTPS 实践之旅
+http://mp.weixin.qq.com/s/_9R_L9uOzPfcGGNXREA2vA
 
 ****
 # 数据持久化

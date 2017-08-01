@@ -21,11 +21,12 @@ http://blog.csdn.net/hp910315/article/details/70159593
 * http://jingyan.baidu.com/article/f54ae2fc0b1acb1e92b849fe.html
 
 ### AS常用快捷键
+* 键盘快捷键 <br>
+https://developer.android.google.cn/studio/intro/keyboard-shortcuts.html
 * 查看类中的所有参数和方法：win ctrl+ F12  mac cmd+ F12
 * 查看类和方法被调用处： win alt+F7
 * 全局搜索内容： win ctrl + shift + F
 * 修改文件名车： win shift + F6
-
 
 ### 快捷操作
 * 如何批量复制文件名称
@@ -34,11 +35,12 @@ https://zhidao.baidu.com/question/152591096.html
 ### AS&GitHub
 * Android Studio中Git的配置及协同开发
 http://blog.csdn.net/xmxkf/article/details/51595096
-
 * Android Studio中如何使用Git和Github来管理项目
 http://blog.csdn.net/wei18359100306/article/details/45645145
-
 * AndroidStudio项目提交（更新）到github最详细步骤
 http://www.cnblogs.com/shiwei-bai/archive/2015/11/24/4991132.html
+* 配置 Android Studio 
+https://developer.android.google.cn/studio/intro/studio-config.html
 
-
+## Android Studio中架包打包和依赖冲突解决
+https://juejin.im/post/59800568f265da3e26094f71
