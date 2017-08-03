@@ -1,4 +1,120 @@
-# Kotlin基本语法
+# 1. Kotlin 学习资源
+
+* Kotlin官方网站
+https://www.kotlincn.net/docs/reference/
+
+* Kotlin for Android 实践
+http://mio4kon.com/2016/08/17/Kotlin%20for%20Android%E5%AE%9E%E8%B7%B5/
+* 吴小龙Kotlin系列
+1. Kotlin for Android（一）准备工作
+http://wuxiaolong.me/2017/05/21/kotlin1/
+2. Kotlin for Android（二）基础语法
+http://wuxiaolong.me/2017/05/23/kotlin2/
+3. Kotlin for Android（三）类和对象
+http://wuxiaolong.me/2017/06/01/kotlin3/
+4. Kotlin for Android（四）Retrofit + RxJava
+http://wuxiaolong.me/2017/06/03/kotlin4/
+* Kotlin编程
+http://www.jianshu.com/c/00b33a9fab13
+* Android开发技术周报特刊之Kotlin Issue#3
+http://androidweekly.cn/android-dev-special-weekly-kotlin-issue-3/
+* Kotlin文档中文版本 <br>
+http://www.ctolib.com/docs//sfile/kotlin-in-chinese/index.html
+* From-Java-To-Kotlin　
+http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html
+* Kotlin实战项目 <br>
+https://github.com/githubwing/GankClient-Kotlin <br>
+https://github.com/LRH1993/Eyepetizer-in-Kotlin <br> 
+https://juejin.im/post/583b042461ff4b007ecf00ff
+* Kotlin 成为 Android 官方支持的一级编程语言，java怎么办
+http://www.jianshu.com/p/854b44c74560
+* kotlin全套视频教程
+01-课程介绍 <br>
+http://www.365yg.com/item/6445599306496868878/ <br>
+02_kotlin学习方法 <br>
+http://www.365yg.com/item/6445599300020863502/ <br>
+03_kotlin选好教练车 <br>
+http://www.365yg.com/item/6445599302214484494/ <br>
+04_kotlin你好世界 <br>
+http://www.365yg.com/item/6445599304320025102/ <br>
+05_kotlin变量与输出 <br>
+http://www.365yg.com/item/6445599310758281741/ <br>
+06_kotlin二进制基础 <br>
+http://www.365yg.com/item/6445599308682101262/ <br>
+07_kotlin变量和常量 类型推断 <br>
+http://www.365yg.com/item/6445599315044860429/ <br>
+08_kotlin变量取值范围 <br>
+http://www.365yg.com/item/6445599360783745550/ <br>
+09_kotlin函数入门 <br>
+http://www.365yg.com/item/6445599317150401037/ <br>
+10_kotlin语言boolean <br>
+http://www.365yg.com/item/6445599312981262862/ <br>
+11_kotlin命令行交互式终端 <br>
+http://www.365yg.com/item/6445601227924308494/ <br>
+12_kotlin函数加强 <br>
+http://www.365yg.com/item/6445601229983711757/ <br>
+13_kotlin函数作业讲解 <br>
+http://www.365yg.com/item/6445601232097640974/ <br>
+14_kotlin字符串模版 <br>
+http://www.365yg.com/item/6445601234282873357/ <br>
+15_kotlin条件控制if和else <br>
+http://www.365yg.com/item/6445601236556186126 <br>
+16_kotlin字符串比较 <br>
+http://www.365yg.com/item/6445751177232515597/ <br>
+17_kotlin空值处理 <br>
+http://www.365yg.com/item/6445752054030795278/ <br>
+18_kotlin的when表达式 <br>
+http://www.365yg.com/item/6445754613458010638/ <br>
+19_kotlin的loop和Range <br>
+http://www.365yg.com/item/6445772006804685326/ <br>
+20_kotlin的list和map入门 <br>
+http://www.365yg.com/item/6445776370827002382/ <br>
+21_kotlin函数和函数式表达式 <br>
+http://www.365yg.com/item/6445777260019450382/ <br>
+22_kotlin默认参数和具名参数 <br>
+http://www.365yg.com/item/6445778515232031245/ <br>
+23_kotlin字符串和数字之间的转换 <br>
+http://www.365yg.com/item/6445779198962303501/ <br>
+24_kotlin人机交互 <br>
+http://www.365yg.com/item/6445780073856369165/ <br>
+25_kotlin异常处理 <br>
+http://www.365yg.com/item/6445781489274585613/ <br>
+26_kotlin递归 <br>
+http://www.365yg.com/item/6445782843170750990/ <br>
+27_kotlin尾递归优化 <br>
+http://www.365yg.com/item/6445785393433412110/ <br>
+28_kotlin新的篇章idea使用入门 <br>
+http://www.365yg.com/item/6445786897338860045/ <br>
+29_kotlin面向对象入门 <br>
+http://www.365yg.com/item/6445788208776086029/ <br>
+30_kotlin静态属性和动态行为 <br>
+http://www.365yg.com/item/6445788927897895438/ <br>
+31_kotlin面向对象概念入门 <br>
+http://www.365yg.com/item/6445789963647713806/ <br>
+32_kotlin面向对象实战 <br>
+http://www.365yg.com/item/6445800737300546061/ <br>
+33_kotlin面向对象实战-洗衣机升级 <br>
+http://www.365yg.com/item/6445795869391323661/ <br>
+34_kotlin面向对象实战-封装 <br>
+http://www.365yg.com/item/6445796836392305166/ <br>
+35_kotlin面向对象-继承(open和override) <br>
+http://www.365yg.com/item/6445798149792465422/ <br>
+36_kotlin抽象类和继承 <br>
+http://www.365yg.com/item/6445799199903580686/ <br>
+37_kotlin面向对象-多态 <br>
+http://www.365yg.com/item/6445799900012610061/ <br>
+38_kotlin面向对象-抽象类和接口 <br>
+http://www.365yg.com/item/6445803237701321230/ <br>
+39_kotlin面向对象-委托和代理 <br>
+http://www.365yg.com/item/6445804765518496269/ <br>
+40_kotlin面向对象-单例模式 <br>
+http://www.365yg.com/item/6445805583856566797/ <br>
+41_kotlin面向对象-枚举 <br>
+http://www.365yg.com/item/6445806126301708814/ <br>
+42_kotlin面向对象-密封类 <br>
+http://www.365yg.com/item/6445807030564291085/ <br>
+
+# 2. Kotlin基本语法
 
 ## 变量
 * 不可变变量：val修饰

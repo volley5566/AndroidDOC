@@ -1,7 +1,10 @@
-# Android问题分类
+# Android技术分类
 ****
 ## 2017 Android GitHub 常用开源框架汇总
 http://www.androidchina.net/7182.html
+
+## Android2017这些技术——你都了解过吗
+https://juejin.im/post/5982766ff265da3e1a376cb2?utm_source=gold_browser_extension
 
 # 动画部分
 * Android 三种动画详解
@@ -39,6 +42,8 @@ http://www.jianshu.com/p/6d2cc30e4687
 https://juejin.im/post/57e8d26d67f3560057a37022
 * 一文解析 Android 贝塞尔曲线
 http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379000&idx=1&sn=e5ef98473ece06b8b00aeace1f80eee4&chksm=84f32876b384a1605f36b4503220b56efa3ae4ed64bc6e5e021a6a28d518059ec657efadfad8&scene=21#wechat_redirect
+* Android开发之贝塞尔曲线进阶篇（仿直播送礼物，饿了么购物车动画）
+https://mp.weixin.qq.com/s/kcTeJwtBKwV0kdICCz03kg
 
 ## 高级动画系列
 * Android高级动画
@@ -159,6 +164,17 @@ http://blog.csdn.net/shakespeare001/article/details/51873783
 * 来来来，随老夫撸一个支付宝玩玩——自定义Behavior的正确打开方式
 http://www.jianshu.com/p/de8081d41b9c <br>
 https://github.com/sangxiaonian/AliBehaver
+* 【注释张豪华版 Path酷炫动画】极速get花式Path （支付宝支付成功动画）
+http://blog.csdn.net/zxt0601/article/details/54018970
+* 仿斗鱼滑动拼图验证码控件
+http://blog.csdn.net/zxt0601/article/details/53315975
+* 快速实现仿美团选择城市界面，微信通讯录界面
+http://blog.csdn.net/zxt0601/article/details/53389835
+* 手把手教你快速实现Android底部导航栏
+https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000822&idx=1&sn=985d95f79f2c3694c4b24dabb8117194&chksm=6b4768a85c30e1be1ffefe00e8dec64d07445bb7fceb5ebadeba1e86414654ec384e7e01b715#rd <br>
+http://www.jianshu.com/p/9dc6d7078b5e
+*  Android UI 之 TabLayout动态添加tab实现筛选及自动偏移（全选，单选）
+http://blog.csdn.net/dt235201314/article/details/76528029
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
@@ -175,10 +191,19 @@ https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483833&idx=1&sn=4e2b78
 http://www.jianshu.com/p/38017cfdf270
 * AutoRecycleView一个自动维护下拉刷新和上拉加载的View
 https://github.com/GaoGersy/AutoRecycleView/tree/master
+* 让HeaderView也参与回收机制,自我感觉是优雅的为 RecyclerView 添加 HeaderView (FooterView)的解决方案
+http://blog.csdn.net/zxt0601/article/details/52267325
 
 
 
 # 新特性：
+## NestFullListView
+* 【Android】ListView、RecyclerView、ScrollView里嵌套ListView 相对优雅的解决方案:NestFullListView
+http://blog.csdn.net/zxt0601/article/details/52494665
+
+##  Material Design系列
+* http://blog.csdn.net/yanzhenjie1003/article/category/6316663
+
 ## Flexboxlayout
 * Android Flexboxlayout使用详解
 http://www.jianshu.com/p/d3baa79e3bf8
@@ -190,6 +215,8 @@ http://blog.csdn.net/guolin_blog/article/details/53122387
 http://blog.csdn.net/lmj623565791/article/details/52204039
 * Android 5.X新特性 
 http://blog.csdn.net/lmj623565791/article/category/3147547
+
+
 
 ## 电商APP相关
 * 精仿今日头条
@@ -233,8 +260,6 @@ https://github.com/hexianqiao3755/GoodsInfoPage
 http://blog.csdn.net/lyhhj/article/details/52510844
 * 高级UI特效之酷炫抢红包金币下落动画
 https://juejin.im/post/597fd81a6fb9a03c5d5359cc?utm_source=gold_browser_extension
-* Android仿外卖购物车的实现
-http://blog.csdn.net/w804518214/article/details/51570975
 
 ****
 # 核心知识 
@@ -280,6 +305,8 @@ http://www.jianshu.com/u/c50b715ccaeb
 * AndResGuard https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md<br>
   http://www.jianshu.com/p/7ffea26c9fd8
 
+* Android-Resource-Usage-Count 插件
+http://niorgai.github.io/2017/08/01/Android-Resource-Usage-Count/
 ## 内存泄漏问题分析及解决
 * 使用Android Studio和MAT进行内存泄漏分析 <br>
 https://juejin.im/post/595371d0f265da6c375a7879?utm_source=gold_browser_extension
