@@ -219,6 +219,8 @@ http://blog.csdn.net/lmj623565791/article/category/3147547
 
 
 ## 电商APP相关
+* 一个仿拉手团购的购物App
+https://github.com/myxh/CoolShopping
 * 精仿今日头条
 https://github.com/chaychan/TouTiao
 * LazyWaimai-Android :一个类似于饿了么、美团外卖和百度外卖的APP，采用MVP架构，目前还有部分功能还未实现，但基本的订餐流程已实现。
@@ -260,6 +262,8 @@ https://github.com/hexianqiao3755/GoodsInfoPage
 http://blog.csdn.net/lyhhj/article/details/52510844
 * 高级UI特效之酷炫抢红包金币下落动画
 https://juejin.im/post/597fd81a6fb9a03c5d5359cc?utm_source=gold_browser_extension
+* 项目需求讨论- 自定义圆形排版的ViewGroup来构成动态弹框菜单
+https://juejin.im/post/59842189f265da3e3678bbcf?utm_source=gold_browser_extension
 
 ****
 # 核心知识 
