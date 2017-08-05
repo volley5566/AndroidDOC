@@ -175,7 +175,8 @@ https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000822&idx=1&sn=985d95f
 http://www.jianshu.com/p/9dc6d7078b5e
 *  Android UI 之 TabLayout动态添加tab实现筛选及自动偏移（全选，单选）
 http://blog.csdn.net/dt235201314/article/details/76528029
-
+* Android 自定义圆形旋转进度条，仿微博头像加载效果
+https://juejin.im/post/5985ab7b6fb9a03c376de74d?utm_source=gold_browser_extension
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
