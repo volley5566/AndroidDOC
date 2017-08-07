@@ -5,6 +5,17 @@ http://www.androidchina.net/7182.html
 
 ## Android2017这些技术——你都了解过吗
 https://juejin.im/post/5982766ff265da3e1a376cb2?utm_source=gold_browser_extension
+1. 热修复
+2. ReactNative
+3. Kotlin
+4. Dagger
+5. Material Design
+6. Design Support Library
+7. Sketch3
+8. MVP MVVM
+9. RxJava
+
+
 
 # 动画部分
 * Android 三种动画详解
@@ -68,6 +79,11 @@ http://blog.csdn.net/jiayouwangqiuwangzi/article/details/53485103
 
 ****
 # 自定义View
+## 系列教程
+* 自定义View系列
+https://github.com/GcsSloop/AndroidNote/tree/master/CustomView
+
+
 ## 自定义控件的属性
 * declare-styleable：自定义控件的属性
 http://blog.csdn.net/congqingbin/article/details/7869730
@@ -169,16 +185,24 @@ http://blog.csdn.net/zxt0601/article/details/54018970
 * 仿斗鱼滑动拼图验证码控件
 http://blog.csdn.net/zxt0601/article/details/53315975
 * 快速实现仿美团选择城市界面，微信通讯录界面
-http://blog.csdn.net/zxt0601/article/details/53389835
+http://blog.csdn.net/zxt0601/article/details/53389835****
 * 手把手教你快速实现Android底部导航栏
 https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000822&idx=1&sn=985d95f79f2c3694c4b24dabb8117194&chksm=6b4768a85c30e1be1ffefe00e8dec64d07445bb7fceb5ebadeba1e86414654ec384e7e01b715#rd <br>
 http://www.jianshu.com/p/9dc6d7078b5e
 *  Android UI 之 TabLayout动态添加tab实现筛选及自动偏移（全选，单选）
 http://blog.csdn.net/dt235201314/article/details/76528029
+* 智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。 https://pqpo.me/
+https://github.com/pqpo/SmartCropper
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
+
+* AutoFlowLayout:多功能流式布局与网格布局控件
+https://juejin.im/post/5987aed851882525d45c0046?utm_source=gold_browser_extension
+
+* Android 底部导航栏(底部Tab)最佳实践
+https://mp.weixin.qq.com/s/AqiNI15KK6QfQvaHAQw6Wg
 
 ## RecyclerView
 * 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇 <br>
@@ -194,6 +218,9 @@ https://github.com/GaoGersy/AutoRecycleView/tree/master
 * 让HeaderView也参与回收机制,自我感觉是优雅的为 RecyclerView 添加 HeaderView (FooterView)的解决方案
 http://blog.csdn.net/zxt0601/article/details/52267325
 
+## 弹幕效果
+* EasyBarrage——Android平台轻量级弹幕效果
+https://juejin.im/post/59828fc75188253592278f3f?utm_source=gold_browser_extension
 
 
 # 新特性：
@@ -305,6 +332,9 @@ http://www.jianshu.com/u/c50b715ccaeb
 * AndResGuard https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md<br>
   http://www.jianshu.com/p/7ffea26c9fd8
 
+## 冷启动白屏问题
+http://www.cnblogs.com/liqw/p/4263418.html
+
 * Android-Resource-Usage-Count 插件
 http://niorgai.github.io/2017/08/01/Android-Resource-Usage-Count/
 ## 内存泄漏问题分析及解决
@@ -326,6 +356,8 @@ http://www.jianshu.com/p/e00b5668ee39
 http://www.jianshu.com/p/e99b5e8bd67b
 * Android事件分发机制
 http://blog.csdn.net/u014727709/article/details/74640971
+* 那些你曾不知道的触摸事件—Android分发机制完全解析
+https://juejin.im/post/5987b4016fb9a03c59458510?utm_source=gold_browser_extension
 ****
 # 开源项目
 ## Android智能下拉刷新框架-SmartRefreshLayout
@@ -347,6 +379,8 @@ https://juejin.im/post/5978567d51882517921cdcfd
 ## 一篇好文，助你上手 Glide
 https://juejin.im/post/597fce4051882537e0595bd2
 
+* Google推荐的图片加载库Glide：最新版使用指南（含新特性）
+http://blog.csdn.net/u013005791/article/details/74532091
 
 
 ## 58 同城 Android 端 HTTPS 实践之旅
