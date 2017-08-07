@@ -65,6 +65,14 @@ https://github.com/YuanClouds/SimpleLeopard
 	2. Observer (观察者)、 
 	3. subscribe (订阅)、
 	4. 事件。
+
+* RxJava 几个重要的类：
+	1. **Observable**：在观察者模式中称为“被观察者”；
+	2. **Observer**：观察者模式中的“观察者”，可接收Observable发送的数据；
+	3. **subscribe**：订阅，观察者与被观察者，通过subscribe()方法进行订阅；
+	4. **Subscriber**：也是一种观察者，在2.0中 它与Observer没什么实质的区别，不同的是 Subscriber要与Flowable(也是一种被观察者)联合使用，该部分内容是2.0新增的，后续文章再介绍。Obsesrver用于订阅Observable，而Subscriber用于订阅Flowable。
+
+
 * 逻辑关系： <br>
   **Observable** 和 **Observer** 通过 **subscribe()** 方法实现订阅关系，从而 **Observable** 可以在需要的时候发出事件来通知 **Observer**。
 * 与传统JAVA观察者模式不同：<br>
