@@ -6,6 +6,33 @@ http://blog.csdn.net/qq_28195645/article/details/52564494
 ## 关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭
 http://www.jianshu.com/p/220955eefc1f
 
+## 手把手教你使用 RxJava 2.0
+* 手把手教你使用 RxJava 2.0（一）
+http://www.jianshu.com/p/d149043d103a
+* 手把手教你使用 RxJava 2.0（二）
+http://www.jianshu.com/p/310726a75045
+* 手把手教你使用 RxJava 2.0（三）
+http://www.jianshu.com/p/1f4867ce3c01
+
+
+## 这可能是最好的RxJava 2.x入门教程系列专栏
+* 这可能是最好的RxJava 2.x 入门教程（一）
+http://www.jianshu.com/p/a93c79e9f689
+* 这可能是最好的RxJava 2.x 入门教程（二）
+http://www.jianshu.com/p/b39afa92807e
+* 这可能是最好的RxJava 2.x 入门教程（三）
+http://www.jianshu.com/p/e9c79eacc8e3
+* 这可能是最好的RxJava 2.x 入门教程（四）
+http://www.jianshu.com/p/c08bfc58f4b6
+* 这可能是最好的RxJava 2.x 入门教程（五）
+http://www.jianshu.com/p/81fac37430dd
+* 这可能是最好的RxJava 2.x 教程（完结版）
+http://www.jianshu.com/p/0cd258eecf60
+* GitHub 代码同步更新
+https://github.com/nanchen2251/RxJava2Examples
+* RxJava2 Examples —— 这可能是从 RxJava1 跳到 RxJava2（学习 RxJava2 ）最好的例子 Demo
+https://github.com/nanchen2251/RxJava2Examples
+
 ## 实例应用
 * 基于RxJava打造的下载工具, 支持多线程和断点续传
 https://www.ctolib.com/RxDownload.html
