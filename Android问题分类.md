@@ -191,9 +191,18 @@ https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000822&idx=1&sn=985d95f
 http://www.jianshu.com/p/9dc6d7078b5e
 *  Android UI 之 TabLayout动态添加tab实现筛选及自动偏移（全选，单选）
 http://blog.csdn.net/dt235201314/article/details/76528029
+
+
+
+
+
 * 智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。 https://pqpo.me/
 https://github.com/pqpo/SmartCropper
 
+=======
+* Android 自定义圆形旋转进度条，仿微博头像加载效果
+https://juejin.im/post/5985ab7b6fb9a03c376de74d?utm_source=gold_browser_extension
+>>>>>>> 9dc719095be58899392d043c159ed0ff0d2f316a
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -246,6 +255,8 @@ http://blog.csdn.net/lmj623565791/article/category/3147547
 
 
 ## 电商APP相关
+* 一个仿拉手团购的购物App
+https://github.com/myxh/CoolShopping
 * 精仿今日头条
 https://github.com/chaychan/TouTiao
 * LazyWaimai-Android :一个类似于饿了么、美团外卖和百度外卖的APP，采用MVP架构，目前还有部分功能还未实现，但基本的订餐流程已实现。
@@ -287,6 +298,8 @@ https://github.com/hexianqiao3755/GoodsInfoPage
 http://blog.csdn.net/lyhhj/article/details/52510844
 * 高级UI特效之酷炫抢红包金币下落动画
 https://juejin.im/post/597fd81a6fb9a03c5d5359cc?utm_source=gold_browser_extension
+* 项目需求讨论- 自定义圆形排版的ViewGroup来构成动态弹框菜单
+https://juejin.im/post/59842189f265da3e3678bbcf?utm_source=gold_browser_extension
 
 ****
 # 核心知识 

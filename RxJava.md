@@ -1,10 +1,94 @@
 # RxJava2.0
 
+## Android RxJava第一弹之原理详解、使用详解、常用场景（基于Rxjava2.0）
+http://blog.csdn.net/qq_28195645/article/details/52564494
+
+## 关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭
+http://www.jianshu.com/p/220955eefc1f
+
+## 实例应用
+* 基于RxJava打造的下载工具, 支持多线程和断点续传
+https://www.ctolib.com/RxDownload.html
+* Leopard：基于Retrofit+RxJava网络框架
+https://www.ctolib.com/YuanClouds-Leopard.html <br>
+https://github.com/YuanClouds/SimpleLeopard
+
+
 ## RxJAVA2.0使用环境
 先添加Gradle配置:
 		
 		compile 'io.reactivex.rxjava2:rxjava:2.0.1'
     	compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+
+## JAVA中的观察者模式原理
+在Java中通过  **Observable类** 和 **Observer接口**实现了观察者模式。
+
+* 一个是类  **Observable类**
+* 一个是接口 **Observer接口** <br>
+* 详细描述：<br> 一个**Observer对象**（观察者）监视着**一个Observable对象**（被观察着）的变化
+当**Observable对象**发生变化时，**Observer**得到通知，就可以进行相应的工作。 
+这里**Observable（被观察者）**对象的变化是采用**注册(Register)**或者称为**订阅(Subscribe)**的方式告诉**Observer（观察者）**。 <br>
+* 逻辑结构
+**Observable（被观察者）** --> **订阅(Subscribe)** -->
+**Observer（观察者）**
+
+## RxJava的观察者模式原理
+* RxJava 有四个基本概念：
+	1. Observable (可观察者，即被观察者)、
+	2. Observer (观察者)、 
+	3. subscribe (订阅)、
+	4. 事件。
+* 逻辑关系： <br>
+  **Observable** 和 **Observer** 通过 **subscribe()** 方法实现订阅关系，从而 **Observable** 可以在需要的时候发出事件来通知 **Observer**。
+* 与传统JAVA观察者模式不同：<br>
+   **RxJava 的事件** 回调方法除了普通事件 **onNext()** （相当于 **onClick()** / **onEvent()**）之外，还定义了两个特殊的事件：**onCompleted()** 和 **onError()**。
+* 三个主要回调方法：
+	1. onNext()：**事件发生时** 回调方法
+	2. onCompleted(): **事件队列完结** 回调方法 <br>
+	   RxJava 不仅把每个事件单独处理，还会**把它们看做一个队列**。**RxJava 规定，当不会再有新的 onNext() 发出时，需要触发 onCompleted() 方法作为标志**。
+	3. onError(): **事件队列异常** 回调方法 <br>
+	在事件处理过程中出异常时，**onError() 会被触发，同时队列自动终止，不允许再有事件发出**。 
+	4. RxJava2.0还添加了一个新的回调方法：**onSubscribe()**，这是为了解决RxJava1.0的backpressure问题，后面会讲到
+* RxJava2.0出现了两种观察者模式
+	1. Observable(被观察者)/Observer（观察者）不支持背压
+	2. Flowable(被观察者)/Subscriber(观察者) 支持背压
+* 其他观察者模式
+	1. Single/SingleObserver
+	2. Completable/CompletableObserver
+	3. Maybe/MaybeObserver
+	4. 其实这三者都差不多，Maybe/MaybeObserver可以说是前两者的复合体，因此以Maybe/MaybeObserver为例简单介绍一下这种观察者模式的用法
+## 背压问题 Observable（被观察着）/Observer（观察者）
+* 背压是指在异步场景中，被观察者发送事件速度远快于观察者的处理速度的情况下，一种告诉上游的被观察者降低发送速度的策略
+* 不支持背压：当被观察者快速发送大量数据时，下游不会做其他处理，即使数据大量堆积，调用链也不会报MissingBackpressureException,消耗内存过大只会OOM
+* 在1.0中，关于背压最大的遗憾，就是集中在Observable这个类中，导致有的Observable支持背压，有的不支持。为了解决这种缺憾，新版本把支持背压和不支持背压的Observable区分开来。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## RxJAVA2.0原理
