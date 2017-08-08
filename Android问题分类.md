@@ -15,7 +15,8 @@ https://juejin.im/post/5982766ff265da3e1a376cb2?utm_source=gold_browser_extensio
 8. MVP MVVM
 9. RxJava
 
-
+## AndroidUtilCode 工具集合
+https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
 
 # 动画部分
 * Android 三种动画详解
@@ -55,6 +56,8 @@ https://juejin.im/post/57e8d26d67f3560057a37022
 http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379000&idx=1&sn=e5ef98473ece06b8b00aeace1f80eee4&chksm=84f32876b384a1605f36b4503220b56efa3ae4ed64bc6e5e021a6a28d518059ec657efadfad8&scene=21#wechat_redirect
 * Android开发之贝塞尔曲线进阶篇（仿直播送礼物，饿了么购物车动画）
 https://mp.weixin.qq.com/s/kcTeJwtBKwV0kdICCz03kg
+* 贝塞尔曲线 - 花束直播点赞效果
+https://mp.weixin.qq.com/s/t8iF6mvkh6oqw1Me61qtTg
 
 ## 高级动画系列
 * Android高级动画
@@ -189,20 +192,17 @@ http://blog.csdn.net/zxt0601/article/details/53389835****
 * 手把手教你快速实现Android底部导航栏
 https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=100000822&idx=1&sn=985d95f79f2c3694c4b24dabb8117194&chksm=6b4768a85c30e1be1ffefe00e8dec64d07445bb7fceb5ebadeba1e86414654ec384e7e01b715#rd <br>
 http://www.jianshu.com/p/9dc6d7078b5e
-*  Android UI 之 TabLayout动态添加tab实现筛选及自动偏移（全选，单选）
+* Android UI 之 TabLayout动态添加tab实现筛选及自动偏移（全选，单选）
 http://blog.csdn.net/dt235201314/article/details/76528029
-
-
-
-
-
 * 智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。 https://pqpo.me/
-https://github.com/pqpo/SmartCropper
-
-=======
+https://github.com/pqpo/SmartCropper 
 * Android 自定义圆形旋转进度条，仿微博头像加载效果
 https://juejin.im/post/5985ab7b6fb9a03c376de74d?utm_source=gold_browser_extension
->>>>>>> 9dc719095be58899392d043c159ed0ff0d2f316a
+* EasyPopup:对 PopupWindow 的封装
+https://github.com/zyyoona7/EasyPopup
+* 炫酷ViewPager指示器效果
+https://keep2iron.github.io/2017/07/31/%E7%82%AB%E9%85%B7ViewPager%E6%8C%87%E7%A4%BA%E5%99%A8%E6%95%88%E6%9E%9C/
+
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -306,6 +306,13 @@ https://juejin.im/post/59842189f265da3e3678bbcf?utm_source=gold_browser_extensio
 ## NDK
 * NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
 * NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
+* 你真的了解NDK和jni的区别吗 <br> https://juejin.im/post/5989133ff265da3e2e56ff26?utm_source=gold_browser_extension
+
+
+
+
+
+
 ## 增量更新
 *  Android 增量更新完全解析 是增量不是热修复  <br>
 http://blog.csdn.net/lmj623565791/article/details/52761658 
@@ -326,9 +333,7 @@ https://juejin.im/post/595eefcb5188250da205efbe?utm_source=gold_browser_extensio
 http://www.jianshu.com/p/445bada56d14
 ## WebView重定向的判断
 http://www.jianshu.com/p/7dfb8797f893
-## RxJAVA
-* RxJAVA2.0系列教程： <br>
-http://www.jianshu.com/u/c50b715ccaeb
+
 
 ## APK瘦身
 * 吴小龙 http://wuxiaolong.me/2017/03/19/ReduceAPKSize/
@@ -345,8 +350,25 @@ http://www.jianshu.com/u/c50b715ccaeb
 * AndResGuard https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md<br>
   http://www.jianshu.com/p/7ffea26c9fd8
 
-## 冷启动白屏问题
+## App启动优化 冷启动白屏问题
+* Android App 优化之提升你的 App 启动速度之实例挑战
+https://juejin.im/post/582582678ac247004f3aa609
+* Android冷启动时间优化
+http://mafei.me/2016/03/03/Android-%E5%86%B7%E5%90%AF%E5%8A%A8%E6%97%B6%E9%97%B4%E4%BC%98%E5%8C%96/
+* Android App优化之提升你的App启动速度之实例挑战 
+http://www.jianshu.com/p/4f10c9a10ac9
+* 消灭黑白屏，实现android app“快速启动”
+http://blog.csdn.net/dovar_66/article/details/52692593
+* Android性能优化之App应用启动分析与优化
+http://www.jianshu.com/p/7fa5d1aa1b47
+* 带你重新认识：Android Splash页秒开 Activity白屏 Activity黑屏
+http://blog.csdn.net/yanzhenjie1003/article/details/52201896
+* Android APP启动优化
+http://wuxiaolong.me/2017/03/13/appStart/
+* 冷启动白屏问题
 http://www.cnblogs.com/liqw/p/4263418.html
+* Android冷启动白屏解决方案
+http://www.jianshu.com/p/b6a4edba117a
 
 * Android-Resource-Usage-Count 插件
 http://niorgai.github.io/2017/08/01/Android-Resource-Usage-Count/

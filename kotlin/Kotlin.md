@@ -27,6 +27,10 @@ http://wuxiaolong.me/2017/06/01/kotlin3/
 4. Kotlin for Android（四）Retrofit + RxJava
 http://wuxiaolong.me/2017/06/03/kotlin4/
 
+## RxJAVA
+* RxJAVA2.0系列教程： <br>
+http://www.jianshu.com/u/c50b715ccaeb
+
 
 ## Kotlin实战项目  
 1. 使用Kotlin撸一款Eyepetizer，学习Kotlin语言 <br> https://github.com/LRH1993/Eyepetizer-in-Kotlin

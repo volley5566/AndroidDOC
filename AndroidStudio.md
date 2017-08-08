@@ -44,3 +44,13 @@ https://developer.android.google.cn/studio/intro/studio-config.html
 
 ## Android Studio中架包打包和依赖冲突解决
 https://juejin.im/post/59800568f265da3e26094f71
+
+## 安装预览版 Android Studio 
+https://developer.android.google.cn/studio/preview/install-preview.html
+
+
+## **Android Studio出现Failed to open zip file问题的解决方法**
+http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
+
+* Error:Failed to open zip file. Gradle's dependency cache may be corrupt
+http://blog.csdn.net/qq_31001287/article/details/54629570
