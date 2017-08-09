@@ -213,6 +213,18 @@ https://juejin.im/post/5987aed851882525d45c0046?utm_source=gold_browser_extensio
 * Android 底部导航栏(底部Tab)最佳实践
 https://mp.weixin.qq.com/s/AqiNI15KK6QfQvaHAQw6Wg
 
+* Vlayout来快速构建及扩展复杂界面
+https://juejin.im/post/592415cd128fe1005c3ef95d
+
+* vlayout
+https://github.com/alibaba/vlayout/blob/master/README-ch.md
+
+* Android开源库V - Layout：淘宝、天猫都在用的UI框架，赶紧用起来吧！
+http://www.jianshu.com/p/6b658c8802d1
+* V - Layout的本质原理是：通过自定义一个VirtualLayoutManager（继承自 LayoutManager），用于管理一系列LayoutHelper，将具体的布局能力交给LayoutHelper来完成，从而 快速实现组合布局 的需求。
+
+
+
 ## RecyclerView
 * 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇 <br>
 http://blog.csdn.net/l540675759/article/details/75635290
@@ -300,6 +312,8 @@ http://blog.csdn.net/lyhhj/article/details/52510844
 https://juejin.im/post/597fd81a6fb9a03c5d5359cc?utm_source=gold_browser_extension
 * 项目需求讨论- 自定义圆形排版的ViewGroup来构成动态弹框菜单
 https://juejin.im/post/59842189f265da3e3678bbcf?utm_source=gold_browser_extension
+* ViewPager系列之 仿魅族应用的广告BannerView
+https://juejin.im/post/5933c65d0ce463005717cbe9
 
 ****
 # 核心知识 
@@ -393,6 +407,9 @@ http://www.jianshu.com/p/e99b5e8bd67b
 http://blog.csdn.net/u014727709/article/details/74640971
 * 那些你曾不知道的触摸事件—Android分发机制完全解析
 https://juejin.im/post/5987b4016fb9a03c59458510?utm_source=gold_browser_extension
+
+## Android关于沉浸式状态总结
+https://juejin.im/post/5989ded56fb9a03c3b6c8bde?utm_source=gold_browser_extension
 ****
 # 开源项目
 ## Android智能下拉刷新框架-SmartRefreshLayout
