@@ -365,6 +365,8 @@ http://www.jianshu.com/p/7dfb8797f893
   http://www.jianshu.com/p/7ffea26c9fd8
 
 ## App启动优化 冷启动白屏问题
+* App 冷启动缓慢出现白屏之终极解决方案 — IntentService 高效异步处理
+https://juejin.im/post/598a6f6551882548463931f9
 * Android App 优化之提升你的 App 启动速度之实例挑战
 https://juejin.im/post/582582678ac247004f3aa609
 * Android冷启动时间优化
@@ -442,6 +444,9 @@ http://mp.weixin.qq.com/s/_9R_L9uOzPfcGGNXREA2vA
 # 数据持久化
 * 微信 WCDB 正式开源——高效易用的移动数据库框架
 https://github.com/Tencent/wcdb/wiki/Android%E6%8E%A5%E5%85%A5%E4%B8%8E%E8%BF%81%E7%A7%BB
+
+* Google 在今年的 IO 大会重点介绍了它们最新推出的 Android Architecture Components，其中最重要的一个就是 Room
+http://linshen.me/blog/2017/08/03/android-room-library-tutorial/
 
 
 
