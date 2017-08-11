@@ -249,6 +249,8 @@ http://blog.csdn.net/zxt0601/article/details/52267325
 * EasyBarrage——Android平台轻量级弹幕效果
 https://juejin.im/post/59828fc75188253592278f3f?utm_source=gold_browser_extension
 # 新特性：
+## Android鬼点子-Kotlin+DataBinding+LiveData+Lifecycle的奇妙反应
+https://juejin.im/post/598d2236518825486621c4c7?utm_source=gold_browser_extension
 ## NestFullListView
 * 【Android】ListView、RecyclerView、ScrollView里嵌套ListView 相对优雅的解决方案:NestFullListView
 http://blog.csdn.net/zxt0601/article/details/52494665
