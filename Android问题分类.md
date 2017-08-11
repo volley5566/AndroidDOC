@@ -5,15 +5,15 @@ http://www.androidchina.net/7182.html
 
 ## Android2017这些技术——你都了解过吗
 https://juejin.im/post/5982766ff265da3e1a376cb2?utm_source=gold_browser_extension
-1. 热修复
+1. 热修复 ✔
 2. ReactNative
-3. Kotlin
+3. Kotlin ✔
 4. Dagger
 5. Material Design
 6. Design Support Library
 7. Sketch3
-8. MVP MVVM
-9. RxJava
+8. MVP MVVM 
+9. RxJava  ✔
 
 ## AndroidUtilCode 工具集合
 https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
@@ -202,7 +202,14 @@ https://juejin.im/post/5985ab7b6fb9a03c376de74d?utm_source=gold_browser_extensio
 https://github.com/zyyoona7/EasyPopup
 * 炫酷ViewPager指示器效果
 https://keep2iron.github.io/2017/07/31/%E7%82%AB%E9%85%B7ViewPager%E6%8C%87%E7%A4%BA%E5%99%A8%E6%95%88%E6%9E%9C/
-
+* 自定义view————广告弹窗
+https://juejin.im/post/598c488651882548b31b4676?utm_source=gold_browser_extension
+* 自定义view————码表
+https://juejin.im/post/598aea4ff265da3e161a9392
+* 自定义view————开关button
+https://juejin.im/post/59832f79f265da3e384e854a
+* Android自绘控件开发与性能优化实践——以录音波浪动画为例
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -238,20 +245,15 @@ http://www.jianshu.com/p/38017cfdf270
 https://github.com/GaoGersy/AutoRecycleView/tree/master
 * 让HeaderView也参与回收机制,自我感觉是优雅的为 RecyclerView 添加 HeaderView (FooterView)的解决方案
 http://blog.csdn.net/zxt0601/article/details/52267325
-
 ## 弹幕效果
 * EasyBarrage——Android平台轻量级弹幕效果
 https://juejin.im/post/59828fc75188253592278f3f?utm_source=gold_browser_extension
-
-
 # 新特性：
 ## NestFullListView
 * 【Android】ListView、RecyclerView、ScrollView里嵌套ListView 相对优雅的解决方案:NestFullListView
 http://blog.csdn.net/zxt0601/article/details/52494665
-
 ##  Material Design系列
 * http://blog.csdn.net/yanzhenjie1003/article/category/6316663
-
 ## Flexboxlayout
 * Android Flexboxlayout使用详解
 http://www.jianshu.com/p/d3baa79e3bf8
@@ -263,9 +265,6 @@ http://blog.csdn.net/guolin_blog/article/details/53122387
 http://blog.csdn.net/lmj623565791/article/details/52204039
 * Android 5.X新特性 
 http://blog.csdn.net/lmj623565791/article/category/3147547
-
-
-
 ## 电商APP相关
 * 一个仿拉手团购的购物App
 https://github.com/myxh/CoolShopping
@@ -314,6 +313,8 @@ https://juejin.im/post/597fd81a6fb9a03c5d5359cc?utm_source=gold_browser_extensio
 https://juejin.im/post/59842189f265da3e3678bbcf?utm_source=gold_browser_extension
 * ViewPager系列之 仿魅族应用的广告BannerView
 https://juejin.im/post/5933c65d0ce463005717cbe9
+* FloatingDragButton:炫酷的拖拽浮动按钮
+https://juejin.im/post/598cf68f6fb9a03c4e18c56d?utm_source=gold_browser_extension
 
 ****
 # 核心知识 
@@ -365,6 +366,8 @@ http://www.jianshu.com/p/7dfb8797f893
   http://www.jianshu.com/p/7ffea26c9fd8
 
 ## App启动优化 冷启动白屏问题
+* 5分钟教你打造一个秒开的 Android App  腾讯Bugly
+https://mp.weixin.qq.com/s/a8076txSPIUqGAbe30uEug##
 * App 冷启动缓慢出现白屏之终极解决方案 — IntentService 高效异步处理
 https://juejin.im/post/598a6f6551882548463931f9
 * Android App 优化之提升你的 App 启动速度之实例挑战
@@ -385,7 +388,6 @@ http://wuxiaolong.me/2017/03/13/appStart/
 http://www.cnblogs.com/liqw/p/4263418.html
 * Android冷启动白屏解决方案
 http://www.jianshu.com/p/b6a4edba117a
-
 * Android-Resource-Usage-Count 插件
 http://niorgai.github.io/2017/08/01/Android-Resource-Usage-Count/
 ## 内存泄漏问题分析及解决
