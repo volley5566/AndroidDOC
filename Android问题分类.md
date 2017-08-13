@@ -15,6 +15,26 @@ https://juejin.im/post/5982766ff265da3e1a376cb2?utm_source=gold_browser_extensio
 8. MVP MVVM 
 9. RxJava  ✔
 
+
+## MaterialDesign
+* MaterialDesign学习篇(一)，MatericalDesign的介绍
+http://www.jianshu.com/p/177d1a2abca7?utm_campaign=maleskine&utm_content=note&utm_medium=pc_all_hots&utm_source=recommendation
+* MaterialDesign学习篇(二)，Toolbar、DrawerLayout的使用
+http://www.jianshu.com/p/27e62a974ff1
+* MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用
+http://www.jianshu.com/p/c8d2b94f016f
+* MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用
+http://www.jianshu.com/p/c8d2b94f016f
+* MaterialDesign学习篇(四)，如何使用TabLayout
+http://www.jianshu.com/p/61c3f5638a25
+* MaterialDesign学习篇(五)，使用SearchView的正确姿势
+http://www.jianshu.com/p/16f9e995e454
+* MaterialDesign学习篇(六)，调色板Palette的学习
+http://www.jianshu.com/p/bae9ba0be8f7
+* MaterialDesign学习篇(七)，CardView卡片式布局的使用
+http://www.jianshu.com/p/2617bcd98412
+* MaterialDesign学习篇(八)，掌握RecyclerView和SwipeRefreshLayout
+http://www.jianshu.com/p/aeba6a2bf59d
 ## AndroidUtilCode 工具集合
 https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
 
@@ -210,6 +230,9 @@ https://juejin.im/post/598aea4ff265da3e161a9392
 https://juejin.im/post/59832f79f265da3e384e854a
 * Android自绘控件开发与性能优化实践——以录音波浪动画为例
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html
+* 教你玩转自定义View—手撸一个倒计时控件如此简单
+https://juejin.im/post/598bb2e06fb9a03c367d039b?utm_source=gold_browser_extension
+
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -233,6 +256,8 @@ http://www.jianshu.com/p/6b658c8802d1
 
 
 ## RecyclerView
+* Android 解决切换Tab后RecycleView/ListView自动回滚至顶部条目的Bug(该 bug 不常见，本质是 RecycleView/ListView 抢焦点的问题)
+https://juejin.im/entry/598dd04051882548423f11a4/detail?utm_source=gold_browser_extension
 * 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇 <br>
 http://blog.csdn.net/l540675759/article/details/75635290
 * 学会自己给RecyclerView添加Header、Footer和加载更多回调 <br>
