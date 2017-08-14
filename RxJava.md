@@ -15,6 +15,11 @@ http://www.jianshu.com/p/310726a75045
 http://www.jianshu.com/p/1f4867ce3c01
 
 
+## RxJAVA
+* RxJAVA2.0系列教程： <br>
+http://www.jianshu.com/u/c50b715ccaeb
+
+
 ## 这可能是最好的RxJava 2.x入门教程系列专栏
 * 这可能是最好的RxJava 2.x 入门教程（一）
 http://www.jianshu.com/p/a93c79e9f689

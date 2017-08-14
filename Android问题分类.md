@@ -18,17 +18,15 @@ https://juejin.im/post/5982766ff265da3e1a376cb2?utm_source=gold_browser_extensio
 
 
 ## MaterialDesign
-* MaterialDesign学习篇(一)，MatericalDesign的介绍
+* MaterialDesign学习篇(一)，MatericalDesign的介绍 ✔
 http://www.jianshu.com/p/177d1a2abca7?utm_campaign=maleskine&utm_content=note&utm_medium=pc_all_hots&utm_source=recommendation
-* MaterialDesign学习篇(二)，Toolbar、DrawerLayout的使用
+* MaterialDesign学习篇(二)，Toolbar、DrawerLayout的使用  ✔
 http://www.jianshu.com/p/27e62a974ff1
-* MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用
+* MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用 ✔
 http://www.jianshu.com/p/c8d2b94f016f
-* MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用
-http://www.jianshu.com/p/c8d2b94f016f
-* MaterialDesign学习篇(四)，如何使用TabLayout
+* MaterialDesign学习篇(四)，如何使用TabLayout ✔
 http://www.jianshu.com/p/61c3f5638a25
-* MaterialDesign学习篇(五)，使用SearchView的正确姿势
+* MaterialDesign学习篇(五)，使用SearchView的正确姿势 ✔
 http://www.jianshu.com/p/16f9e995e454
 * MaterialDesign学习篇(六)，调色板Palette的学习
 http://www.jianshu.com/p/bae9ba0be8f7
@@ -36,8 +34,8 @@ http://www.jianshu.com/p/bae9ba0be8f7
 http://www.jianshu.com/p/2617bcd98412
 * MaterialDesign学习篇(八)，掌握RecyclerView和SwipeRefreshLayout
 http://www.jianshu.com/p/aeba6a2bf59d
-## AndroidUtilCode 工具集合
-https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
+* MaterialDesignExercise 对应教程代码
+https://github.com/chaychan/MaterialDesignExercise
 
 
 
@@ -363,8 +361,12 @@ http://blog.csdn.net/guolin_blog/article/details/53122387
 http://blog.csdn.net/lmj623565791/article/details/52204039
 * Android 5.X新特性 
 http://blog.csdn.net/lmj623565791/article/category/3147547
+* NestedScrollView
+http://blog.csdn.net/hangeqq685042/article/details/48129911
 ## Android关于沉浸式状态总结
 https://juejin.im/post/5989ded56fb9a03c3b6c8bde?utm_source=gold_browser_extension
+## Android7.0的适配
+http://blog.csdn.net/chay_chan/article/details/57083383
 
 
 ****
@@ -466,6 +468,9 @@ https://github.com/alibaba/UltraViewPager
 
 ## 小秋魔盒 最近开发的一款应用，我选择了哪些框架 & 第三方库
 http://www.jianshu.com/p/3442a0b2eee1
+
+## AndroidUtilCode 工具集合
+https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
 
 
 ****
