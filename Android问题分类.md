@@ -1,5 +1,6 @@
 # Android技术分类
 ****
+****
 ## 2017 Android GitHub 常用开源框架汇总
 http://www.androidchina.net/7182.html
 
@@ -38,68 +39,9 @@ http://www.jianshu.com/p/aeba6a2bf59d
 ## AndroidUtilCode 工具集合
 https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
 
-# 动画部分
-* Android 三种动画详解
-http://www.cnblogs.com/ldq2016/p/5407061.html
-## 属性动画
-* Android属性动画完全解析(上)，初识属性动画的基本用法 <br> 
-http://blog.csdn.net/guolin_blog/article/details/43536355
-* Android属性动画完全解析(中)，ValueAnimator和ObjectAnimator的高级用法  <br>
-TypeEvaluator的用法:告诉动画系统如何从初始值过度到结束值
-http://blog.csdn.net/guolin_blog/article/details/43816093
-*  Android属性动画完全解析(下)，Interpolator和ViewPropertyAnimator的用法  <br>
-http://blog.csdn.net/guolin_blog/article/details/44171115 
-*  补间动画详解 <br>
-http://blog.csdn.net/ruancoder/article/details/52347243  <br>
-http://www.cnblogs.com/ldq2016/p/5407061.html <br>
-http://www.cnblogs.com/plokmju/p/android_TweenAnimation.html
 
-## Path动画
-* Android 贝塞尔曲线菜鸟起步 
-http://blog.csdn.net/SkipperKevin/article/details/59565584<br>
-http://www.jianshu.com/p/b872b064d369
-* 【Android】 给我一个Path，还你一个酷炫动画
-http://blog.csdn.net/zxt0601/article/details/53040506
-* Path动画的实例
-http://www.ctolib.com/AbnormalExit-WaveView.html
-* Android中moveTo、lineTo、quadTo、cubicTo、arcTo详解 
-https://segmentfault.com/a/1190000000721127
-* Android自定义曲线路径动画框架 
-http://www.jianshu.com/p/f64c3cd25f67
-* 自定义view————搜索动画
-https://madreain.github.io/2017/07/24/20170724/
-* 基于 SurfaceView 的直播点亮心形效果
-http://www.jianshu.com/p/6d2cc30e4687
-* 贝塞尔曲线之购物车动画效果
-https://juejin.im/post/57e8d26d67f3560057a37022
-* 一文解析 Android 贝塞尔曲线
-http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379000&idx=1&sn=e5ef98473ece06b8b00aeace1f80eee4&chksm=84f32876b384a1605f36b4503220b56efa3ae4ed64bc6e5e021a6a28d518059ec657efadfad8&scene=21#wechat_redirect
-* Android开发之贝塞尔曲线进阶篇（仿直播送礼物，饿了么购物车动画）
-https://mp.weixin.qq.com/s/kcTeJwtBKwV0kdICCz03kg
-* 贝塞尔曲线 - 花束直播点赞效果
-https://mp.weixin.qq.com/s/t8iF6mvkh6oqw1Me61qtTg
 
-## 高级动画系列
-* Android高级动画
-http://www.jianshu.com/p/48554844a2db
-* Android高级动画（1）http://www.jianshu.com/p/48554844a2db
-* Android高级动画（2）http://www.jianshu.com/p/89cfd9042b1e
-* Android高级动画（3）http://www.jianshu.com/p/d6cc8d218900
-* Android高级动画（4）http://www.jianshu.com/p/91f8363c3a8c
-
-## Canvas&Paint
-* Android Paint的使用详解 <br>
-http://blog.csdn.net/abcdef314159/article/details/51720686 <br>
-http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2013/0111/798.html
-* Android Canvas绘图详解 <br>
-http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html
-* Android开发之深入理解RectF和Rect之间的区别
-http://teachcourse.cn/2268.html
-* Android--使用Canvas绘图
-http://www.cnblogs.com/plokmju/p/android_Canvas.html
-* Android View的onFinishInflate和onSizeChanged生命周期详解
-http://blog.csdn.net/jiayouwangqiuwangzi/article/details/53485103
-
+****
 ****
 # 自定义View
 ## 系列教程
@@ -232,7 +174,6 @@ https://juejin.im/post/59832f79f265da3e384e854a
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html
 * 教你玩转自定义View—手撸一个倒计时控件如此简单
 https://juejin.im/post/598bb2e06fb9a03c367d039b?utm_source=gold_browser_extension
-
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -252,46 +193,6 @@ https://github.com/alibaba/vlayout/blob/master/README-ch.md
 * Android开源库V - Layout：淘宝、天猫都在用的UI框架，赶紧用起来吧！
 http://www.jianshu.com/p/6b658c8802d1
 * V - Layout的本质原理是：通过自定义一个VirtualLayoutManager（继承自 LayoutManager），用于管理一系列LayoutHelper，将具体的布局能力交给LayoutHelper来完成，从而 快速实现组合布局 的需求。
-
-
-
-## RecyclerView
-* Android 解决切换Tab后RecycleView/ListView自动回滚至顶部条目的Bug(该 bug 不常见，本质是 RecycleView/ListView 抢焦点的问题)
-https://juejin.im/entry/598dd04051882548423f11a4/detail?utm_source=gold_browser_extension
-* 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇 <br>
-http://blog.csdn.net/l540675759/article/details/75635290
-* 学会自己给RecyclerView添加Header、Footer和加载更多回调 <br>
-http://blog.csdn.net/ywl5320/article/details/75949784http://blog.csdn.net/ywl5320/article/details/75949784
-* RecyclerView Item 布局宽高无效问题探究 <br>
-https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483833&idx=1&sn=4e2b78ea2ffbed896166f6f195ff0377&chksm=974f10b2a03899a4496ea5ba4f3fb89c81e256b290abc844695425452eb14810714cbf0cced3#rd
-* Recycleview双列表联动与悬停 <br>
-http://www.jianshu.com/p/38017cfdf270
-* AutoRecycleView一个自动维护下拉刷新和上拉加载的View
-https://github.com/GaoGersy/AutoRecycleView/tree/master
-* 让HeaderView也参与回收机制,自我感觉是优雅的为 RecyclerView 添加 HeaderView (FooterView)的解决方案
-http://blog.csdn.net/zxt0601/article/details/52267325
-## 弹幕效果
-* EasyBarrage——Android平台轻量级弹幕效果
-https://juejin.im/post/59828fc75188253592278f3f?utm_source=gold_browser_extension
-# 新特性：
-## Android鬼点子-Kotlin+DataBinding+LiveData+Lifecycle的奇妙反应
-https://juejin.im/post/598d2236518825486621c4c7?utm_source=gold_browser_extension
-## NestFullListView
-* 【Android】ListView、RecyclerView、ScrollView里嵌套ListView 相对优雅的解决方案:NestFullListView
-http://blog.csdn.net/zxt0601/article/details/52494665
-##  Material Design系列
-* http://blog.csdn.net/yanzhenjie1003/article/category/6316663
-## Flexboxlayout
-* Android Flexboxlayout使用详解
-http://www.jianshu.com/p/d3baa79e3bf8
-* Google 开源的 Android 排版库：FlexboxLayout
-http://www.oschina.net/news/73442/google-flexbox-layout
-* Android新特性介绍，ConstraintLayout完全解析
-http://blog.csdn.net/guolin_blog/article/details/53122387
-* Android NestedScrolling机制完全解析 带你玩转嵌套滑动
-http://blog.csdn.net/lmj623565791/article/details/52204039
-* Android 5.X新特性 
-http://blog.csdn.net/lmj623565791/article/category/3147547
 ## 电商APP相关
 * 一个仿拉手团购的购物App
 https://github.com/myxh/CoolShopping
@@ -342,19 +243,137 @@ https://juejin.im/post/59842189f265da3e3678bbcf?utm_source=gold_browser_extensio
 https://juejin.im/post/5933c65d0ce463005717cbe9
 * FloatingDragButton:炫酷的拖拽浮动按钮
 https://juejin.im/post/598cf68f6fb9a03c4e18c56d?utm_source=gold_browser_extension
+* 自定义GridView实现分割线解析
+https://juejin.im/post/599047eb6fb9a03c493b818b?utm_source=gold_browser_extension
 
+* [Digging] 支付宝首页交互三部曲 1 CoordinatorLayout和Behavior
+https://blog.kyleduo.com/2017/07/14/alipay-home-1-coordinatorlayout/
+* [Digging] 支付宝首页交互三部曲 2 自定义Behavior
+https://blog.kyleduo.com/2017/07/17/alipay-home-2-custom-behavior/
+* [Digging] 支付宝首页交互三部曲 3 实现支付宝首页交互
+https://blog.kyleduo.com/2017/07/21/alipay-home-3-alipay-home/
+## RecyclerView
+* Android 解决切换Tab后RecycleView/ListView自动回滚至顶部条目的Bug(该 bug 不常见，本质是 RecycleView/ListView 抢焦点的问题)
+https://juejin.im/entry/598dd04051882548423f11a4/detail?utm_source=gold_browser_extension
+* 一个有特点的正六边形RecyclerView---HexagonRecyclerView详解篇 <br>
+http://blog.csdn.net/l540675759/article/details/75635290
+* 学会自己给RecyclerView添加Header、Footer和加载更多回调 <br>
+http://blog.csdn.net/ywl5320/article/details/75949784http://blog.csdn.net/ywl5320/article/details/75949784
+* RecyclerView Item 布局宽高无效问题探究 <br>
+https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483833&idx=1&sn=4e2b78ea2ffbed896166f6f195ff0377&chksm=974f10b2a03899a4496ea5ba4f3fb89c81e256b290abc844695425452eb14810714cbf0cced3#rd
+* Recycleview双列表联动与悬停 <br>
+http://www.jianshu.com/p/38017cfdf270
+* AutoRecycleView一个自动维护下拉刷新和上拉加载的View
+https://github.com/GaoGersy/AutoRecycleView/tree/master
+* 让HeaderView也参与回收机制,自我感觉是优雅的为 RecyclerView 添加 HeaderView (FooterView)的解决方案
+http://blog.csdn.net/zxt0601/article/details/52267325
+## 弹幕效果
+* EasyBarrage——Android平台轻量级弹幕效果
+https://juejin.im/post/59828fc75188253592278f3f?utm_source=gold_browser_extension
+
+
+
+
+****
+****
+# 动画部分
+* Android 三种动画详解
+http://www.cnblogs.com/ldq2016/p/5407061.html
+## 在Android中实现复杂动画
+http://www.androidchina.net/7202.html
+## 属性动画
+* Android属性动画完全解析(上)，初识属性动画的基本用法 <br> 
+http://blog.csdn.net/guolin_blog/article/details/43536355
+* Android属性动画完全解析(中)，ValueAnimator和ObjectAnimator的高级用法  <br>
+TypeEvaluator的用法:告诉动画系统如何从初始值过度到结束值
+http://blog.csdn.net/guolin_blog/article/details/43816093
+*  Android属性动画完全解析(下)，Interpolator和ViewPropertyAnimator的用法  <br>
+http://blog.csdn.net/guolin_blog/article/details/44171115 
+*  补间动画详解 <br>
+http://blog.csdn.net/ruancoder/article/details/52347243  <br>
+http://www.cnblogs.com/ldq2016/p/5407061.html <br>
+http://www.cnblogs.com/plokmju/p/android_TweenAnimation.html
+
+## Path动画
+* Android 贝塞尔曲线菜鸟起步 
+http://blog.csdn.net/SkipperKevin/article/details/59565584<br>
+http://www.jianshu.com/p/b872b064d369
+* 【Android】 给我一个Path，还你一个酷炫动画
+http://blog.csdn.net/zxt0601/article/details/53040506
+* Path动画的实例
+http://www.ctolib.com/AbnormalExit-WaveView.html
+* Android中moveTo、lineTo、quadTo、cubicTo、arcTo详解 
+https://segmentfault.com/a/1190000000721127
+* Android自定义曲线路径动画框架 
+http://www.jianshu.com/p/f64c3cd25f67
+* 自定义view————搜索动画
+https://madreain.github.io/2017/07/24/20170724/
+* 基于 SurfaceView 的直播点亮心形效果
+http://www.jianshu.com/p/6d2cc30e4687
+* 贝塞尔曲线之购物车动画效果
+https://juejin.im/post/57e8d26d67f3560057a37022
+* 一文解析 Android 贝塞尔曲线
+http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379000&idx=1&sn=e5ef98473ece06b8b00aeace1f80eee4&chksm=84f32876b384a1605f36b4503220b56efa3ae4ed64bc6e5e021a6a28d518059ec657efadfad8&scene=21#wechat_redirect
+* Android开发之贝塞尔曲线进阶篇（仿直播送礼物，饿了么购物车动画）
+https://mp.weixin.qq.com/s/kcTeJwtBKwV0kdICCz03kg
+* 贝塞尔曲线 - 花束直播点赞效果
+https://mp.weixin.qq.com/s/t8iF6mvkh6oqw1Me61qtTg
+
+## 高级动画系列
+* Android高级动画
+http://www.jianshu.com/p/48554844a2db
+* Android高级动画（1）http://www.jianshu.com/p/48554844a2db
+* Android高级动画（2）http://www.jianshu.com/p/89cfd9042b1e
+* Android高级动画（3）http://www.jianshu.com/p/d6cc8d218900
+* Android高级动画（4）http://www.jianshu.com/p/91f8363c3a8c
+
+## Canvas&Paint
+* Android Paint的使用详解 <br>
+http://blog.csdn.net/abcdef314159/article/details/51720686 <br>
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2013/0111/798.html
+* Android Canvas绘图详解 <br>
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html
+* Android开发之深入理解RectF和Rect之间的区别
+http://teachcourse.cn/2268.html
+* Android--使用Canvas绘图
+http://www.cnblogs.com/plokmju/p/android_Canvas.html
+* Android View的onFinishInflate和onSizeChanged生命周期详解
+http://blog.csdn.net/jiayouwangqiuwangzi/article/details/53485103
+
+
+
+****
+****
+# 新特性：
+## Android鬼点子-Kotlin+DataBinding+LiveData+Lifecycle的奇妙反应
+https://juejin.im/post/598d2236518825486621c4c7?utm_source=gold_browser_extension
+## NestFullListView
+* 【Android】ListView、RecyclerView、ScrollView里嵌套ListView 相对优雅的解决方案:NestFullListView
+http://blog.csdn.net/zxt0601/article/details/52494665
+##  Material Design系列
+* http://blog.csdn.net/yanzhenjie1003/article/category/6316663
+## Flexboxlayout
+* Android Flexboxlayout使用详解
+http://www.jianshu.com/p/d3baa79e3bf8
+* Google 开源的 Android 排版库：FlexboxLayout
+http://www.oschina.net/news/73442/google-flexbox-layout
+* Android新特性介绍，ConstraintLayout完全解析
+http://blog.csdn.net/guolin_blog/article/details/53122387
+* Android NestedScrolling机制完全解析 带你玩转嵌套滑动
+http://blog.csdn.net/lmj623565791/article/details/52204039
+* Android 5.X新特性 
+http://blog.csdn.net/lmj623565791/article/category/3147547
+## Android关于沉浸式状态总结
+https://juejin.im/post/5989ded56fb9a03c3b6c8bde?utm_source=gold_browser_extension
+
+
+****
 ****
 # 核心知识 
 ## NDK
 * NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
 * NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
 * 你真的了解NDK和jni的区别吗 <br> https://juejin.im/post/5989133ff265da3e2e56ff26?utm_source=gold_browser_extension
-
-
-
-
-
-
 ## 增量更新
 *  Android 增量更新完全解析 是增量不是热修复  <br>
 http://blog.csdn.net/lmj623565791/article/details/52761658 
@@ -375,8 +394,6 @@ https://juejin.im/post/595eefcb5188250da205efbe?utm_source=gold_browser_extensio
 http://www.jianshu.com/p/445bada56d14
 ## WebView重定向的判断
 http://www.jianshu.com/p/7dfb8797f893
-
-
 ## APK瘦身
 * 吴小龙 http://wuxiaolong.me/2017/03/19/ReduceAPKSize/
 * Google I/O 2016 笔记：APK 瘦身的正确姿势 https://zhuanlan.zhihu.com/p/21543787
@@ -391,7 +408,6 @@ http://www.jianshu.com/p/7dfb8797f893
 * APK瘦身实践 http://jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/
 * AndResGuard https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md<br>
   http://www.jianshu.com/p/7ffea26c9fd8
-
 ## App启动优化 冷启动白屏问题
 * 5分钟教你打造一个秒开的 Android App  腾讯Bugly
 https://mp.weixin.qq.com/s/a8076txSPIUqGAbe30uEug##
@@ -420,13 +436,11 @@ http://niorgai.github.io/2017/08/01/Android-Resource-Usage-Count/
 ## 内存泄漏问题分析及解决
 * 使用Android Studio和MAT进行内存泄漏分析 <br>
 https://juejin.im/post/595371d0f265da6c375a7879?utm_source=gold_browser_extension
-
 ## 内存管理
 * Android 开发，跳不过的内存管理
 https://juejin.im/post/5952641bf265da6c21533f15?utm_source=gold_browser_extension
 * 大幅减少Android OOM的几个措施
 http://ie8384.com/blog/?p=1566
-
 ## Android触摸事件传递分析与实践
 * 通常而言ViewGroup.onInterceptTouchEvent决定了父View是否拦截该触摸事件，而View.onTouchEvent中则实现了其自身如何处理该触摸事件。
 http://www.jianshu.com/p/e75dd6fba1b7
@@ -439,17 +453,22 @@ http://blog.csdn.net/u014727709/article/details/74640971
 * 那些你曾不知道的触摸事件—Android分发机制完全解析
 https://juejin.im/post/5987b4016fb9a03c59458510?utm_source=gold_browser_extension
 
-## Android关于沉浸式状态总结
-https://juejin.im/post/5989ded56fb9a03c3b6c8bde?utm_source=gold_browser_extension
+
+****
 ****
 # 开源项目
 ## Android智能下拉刷新框架-SmartRefreshLayout
 * https://github.com/scwang90/SmartRefreshLayout/blob/master/README_CN.md
 * https://segmentfault.com/a/1190000010066071
 
-* UltraViewPager 阿里巴巴开源项目
+## UltraViewPager 阿里巴巴开源项目
 https://github.com/alibaba/UltraViewPager
 
+## 小秋魔盒 最近开发的一款应用，我选择了哪些框架 & 第三方库
+http://www.jianshu.com/p/3442a0b2eee1
+
+
+****
 ****
 # 网络框架部分
 * OkGo - 3.0
@@ -462,15 +481,13 @@ https://juejin.im/post/5978567d51882517921cdcfd
 ## 一篇好文，助你上手 Glide
 https://juejin.im/post/597fce4051882537e0595bd2
 
-* Google推荐的图片加载库Glide：最新版使用指南（含新特性）
+## Google推荐的图片加载库Glide：最新版使用指南（含新特性）
 http://blog.csdn.net/u013005791/article/details/74532091
-
 
 ## 58 同城 Android 端 HTTPS 实践之旅
 http://mp.weixin.qq.com/s/_9R_L9uOzPfcGGNXREA2vA
 
-****
-# 数据持久化
+## 数据持久化
 * 微信 WCDB 正式开源——高效易用的移动数据库框架
 https://github.com/Tencent/wcdb/wiki/Android%E6%8E%A5%E5%85%A5%E4%B8%8E%E8%BF%81%E7%A7%BB
 
