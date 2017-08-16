@@ -28,6 +28,9 @@ https://developer.android.google.cn/studio/intro/keyboard-shortcuts.html
 * 全局搜索内容： win ctrl + shift + F
 * 修改文件名车： win shift + F6
 
+### Android Studio NDK开发-环境配置
+http://www.jianshu.com/p/d695020dc08c
+
 ### 快捷操作
 * 如何批量复制文件名称
 https://zhidao.baidu.com/question/152591096.html

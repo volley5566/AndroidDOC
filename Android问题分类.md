@@ -28,11 +28,11 @@ http://www.jianshu.com/p/c8d2b94f016f
 http://www.jianshu.com/p/61c3f5638a25
 * MaterialDesign学习篇(五)，使用SearchView的正确姿势 ✔
 http://www.jianshu.com/p/16f9e995e454
-* MaterialDesign学习篇(六)，调色板Palette的学习
+* MaterialDesign学习篇(六)，调色板Palette的学习 ✔
 http://www.jianshu.com/p/bae9ba0be8f7
-* MaterialDesign学习篇(七)，CardView卡片式布局的使用
+* MaterialDesign学习篇(七)，CardView卡片式布局的使用 ✔
 http://www.jianshu.com/p/2617bcd98412
-* MaterialDesign学习篇(八)，掌握RecyclerView和SwipeRefreshLayout
+* MaterialDesign学习篇(八)，掌握RecyclerView和SwipeRefreshLayout  
 http://www.jianshu.com/p/aeba6a2bf59d
 * MaterialDesignExercise 对应教程代码
 https://github.com/chaychan/MaterialDesignExercise
@@ -58,7 +58,9 @@ http://blog.csdn.net/u011264824/article/details/51917715
 * android 特卖列表倒计时卡顿问题
 http://blog.csdn.net/xiangzhihong8/article/details/52949385
 
-## 自定义View  
+## 自定义View 
+* 2017 我用 5 个月分享了 98 篇优秀博文 
+https://juejin.im/post/599254666fb9a03c48451bad?utm_source=gold_browser_extension
 * 自定义View系列 <br>
 http://www.jianshu.com/p/e404c9421466
 * 仿广东移动App流量条控件
@@ -172,6 +174,15 @@ https://juejin.im/post/59832f79f265da3e384e854a
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html
 * 教你玩转自定义View—手撸一个倒计时控件如此简单
 https://juejin.im/post/598bb2e06fb9a03c367d039b?utm_source=gold_browser_extension
+* Android 录音功能直接拿去用
+https://juejin.im/post/598ecf72f265da3e292a78a8?utm_source=gold_browser_extension <br>
+https://github.com/developerHaoz/SoundRecorderUtils
+* Android自定义EditText：手把手教你做一款含一键删除&自定义样式的SuperEditText
+http://www.jianshu.com/p/99d9dc5bcffc
+* 实用的提示框封装,支持背景颜色,圆角,边框和文字的自定义。
+https://github.com/maning0303/MNProgressHUD/blob/master/README.md
+* 自定义view————卡券
+https://juejin.im/post/5992e9b7518825242725ba58?utm_source=gold_browser_extension
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -243,13 +254,18 @@ https://juejin.im/post/5933c65d0ce463005717cbe9
 https://juejin.im/post/598cf68f6fb9a03c4e18c56d?utm_source=gold_browser_extension
 * 自定义GridView实现分割线解析
 https://juejin.im/post/599047eb6fb9a03c493b818b?utm_source=gold_browser_extension
-
 * [Digging] 支付宝首页交互三部曲 1 CoordinatorLayout和Behavior
 https://blog.kyleduo.com/2017/07/14/alipay-home-1-coordinatorlayout/
 * [Digging] 支付宝首页交互三部曲 2 自定义Behavior
 https://blog.kyleduo.com/2017/07/17/alipay-home-2-custom-behavior/
 * [Digging] 支付宝首页交互三部曲 3 实现支付宝首页交互
 https://blog.kyleduo.com/2017/07/21/alipay-home-3-alipay-home/
+* 商城购物车加减控件的简单封装
+https://juejin.im/post/59915e9d518825486a674b7c?utm_source=gold_browser_extension <br>
+https://github.com/Jmengfei/AddSubUtils <br>
+* 自定义view实现超萌动感天气小太阳
+http://www.jianshu.com/p/2c9dc35f3aad
+
 ## RecyclerView
 * Android 解决切换Tab后RecycleView/ListView自动回滚至顶部条目的Bug(该 bug 不常见，本质是 RecycleView/ListView 抢焦点的问题)
 https://juejin.im/entry/598dd04051882548423f11a4/detail?utm_source=gold_browser_extension
@@ -265,6 +281,9 @@ http://www.jianshu.com/p/38017cfdf270
 https://github.com/GaoGersy/AutoRecycleView/tree/master
 * 让HeaderView也参与回收机制,自我感觉是优雅的为 RecyclerView 添加 HeaderView (FooterView)的解决方案
 http://blog.csdn.net/zxt0601/article/details/52267325
+* RecyclerView优秀文集
+https://github.com/CymChad/CymChad.github.io
+
 ## 弹幕效果
 * EasyBarrage——Android平台轻量级弹幕效果
 https://juejin.im/post/59828fc75188253592278f3f?utm_source=gold_browser_extension
@@ -367,6 +386,8 @@ http://blog.csdn.net/hangeqq685042/article/details/48129911
 https://juejin.im/post/5989ded56fb9a03c3b6c8bde?utm_source=gold_browser_extension
 ## Android7.0的适配
 http://blog.csdn.net/chay_chan/article/details/57083383
+## Android 8.0 运行时权限策略变化和适配方案
+https://juejin.im/post/5991476f5188254898192ab9?utm_source=gold_browser_extension
 
 
 ****
@@ -456,21 +477,7 @@ http://blog.csdn.net/u014727709/article/details/74640971
 https://juejin.im/post/5987b4016fb9a03c59458510?utm_source=gold_browser_extension
 
 
-****
-****
-# 开源项目
-## Android智能下拉刷新框架-SmartRefreshLayout
-* https://github.com/scwang90/SmartRefreshLayout/blob/master/README_CN.md
-* https://segmentfault.com/a/1190000010066071
 
-## UltraViewPager 阿里巴巴开源项目
-https://github.com/alibaba/UltraViewPager
-
-## 小秋魔盒 最近开发的一款应用，我选择了哪些框架 & 第三方库
-http://www.jianshu.com/p/3442a0b2eee1
-
-## AndroidUtilCode 工具集合
-https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
 
 
 ****
@@ -482,6 +489,11 @@ https://github.com/jeasonlzy/okhttp-OkGo
 http://www.jianshu.com/p/5832c776621f
 * 解决 Retrofit 多 BaseUrl 及运行时动态改变 BaseUrl
 https://juejin.im/post/5978567d51882517921cdcfd
+
+## ***BaseRecyclerViewAdapterHelper  BRVAH官方使用指南***
+http://www.jianshu.com/p/b343fcff51b0 <br>
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0417/4154.html <br>
+https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 
 ## 一篇好文，助你上手 Glide
 https://juejin.im/post/597fce4051882537e0595bd2
@@ -501,3 +513,109 @@ http://linshen.me/blog/2017/08/03/android-room-library-tutorial/
 
 
 
+## 视频处理
+* small-video-record 利用FFmpeg视频录制与压缩处理  (重点)
+https://github.com/mabeijianxi/small-video-record
+* FFmpeg
+* MediaCodec
+* TextureView 
+* Telegram
+https://github.com/DrKLO/Telegram
+* Android音视频处理之MediaCodec <br>
+http://www.jianshu.com/p/30e596112015  
+* android MediaCodec解析
+https://wangyantao.github.io/mediacodec/
+* Telegram
+* 很好的Android录制视频代码可设置清晰度大小和时长   
+https://github.com/linglongxin24/VideoCamera
+* Android小视频录制取消及播放
+http://blog.csdn.net/sw5131899/article/details/74390640 <br>
+https://github.com/SingleShu/VideoRecord
+* 基于VCamera二次开发，精简了流程，Java层完全开源，可以自定义UI交互 效果图
+https://github.com/small-dream/VideoRecord
+* 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑
+https://github.com/Zhaoss/WeiXinRecordedDemo
+* 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑(上)
+http://www.jianshu.com/p/5a173841a828
+* 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑(下)
+http://www.jianshu.com/p/df568b7141c5
+* 基于VCamera，仿微信录制短视频
+https://github.com/maimingliang/WxRecoderVideo
+* 基于FFmpeg的短视频编辑工具Cut
+http://www.jianshu.com/p/7e76c1b06933
+* KrGallery，拍照和选择图片,裁剪，录制视频和选择视频靠它了
+http://blog.csdn.net/chengzichen_/article/details/77163751
+* VideoListDemo 视频播放
+https://github.com/w1123440793/VideoListDemo
+* 一个强大图片的选择、裁剪工具—看这一个就够用了
+https://juejin.im/post/5991c27a51882548440bd687?utm_source=gold_browser_extension
+* TakePhoto <br> 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+https://github.com/crazycodeboy/TakePhoto
+* MediaUtils : 一个在 Android 上实现录像和录音功能的小例子
+https://github.com/Werb/MediaUtils
+* ShVideoDemo Android 视频录制Demo 仿微信小视频 视频压缩（FFmpeg）
+https://github.com/hui46226021/ShVideoDemo
+
+  /** 查看视频 **/
+
+* MVideo 模仿微信圈的朋友视频效果，可以拖动和缩放，视频查看
+https://www.ctolib.com/MVideo.html
+* NiceVieoPlayer <br>	 IjkPlayer/MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器
+https://github.com/xiaoyanger0825/NiceVieoPlayer
+* 用MediaPlayer+TextureView封装一个完美实现全屏、小窗口的视频播放器
+http://www.jianshu.com/p/420f7b14d6f6
+
+* JieCaoVideoPlayer-develop <br>真正实现Android的全屏视频播放，支持完全自定义UI、手势修改进度和音量、hls、rtsp，设置http头信息，也能在ListView、ViewPager和ListView、ViewPager和Fragment等多重嵌套模式下全屏工作，占用空间非常小，不到60k<br>   （重点）
+·
+
+
+
+* 客户端短视频拍摄、上传、下载，播放完整方案
+http://blog.csdn.net/yclfdn2004/article/details/51736252
+
+
+****
+****
+# 开源项目
+## Android智能下拉刷新框架-SmartRefreshLayout
+* https://github.com/scwang90/SmartRefreshLayout/blob/master/README_CN.md
+* https://segmentfault.com/a/1190000010066071
+
+## UltraViewPager 阿里巴巴开源项目
+https://github.com/alibaba/UltraViewPager
+
+## 小秋魔盒 最近开发的一款应用，我选择了哪些框架 & 第三方库
+http://www.jianshu.com/p/3442a0b2eee1
+
+## AndroidUtilCode 工具集合
+https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
+
+* 一个强大图片的选择、裁剪工具—看这一个就够用了
+https://juejin.im/post/5991c27a51882548440bd687?utm_source=gold_browser_extension <br>
+https://github.com/crazycodeboy/TakePhoto
+
+
+## ShareSDKUtils，封装的分享工具类，使用默认的GUI或者自定义分享某个平台
+http://www.jianshu.com/p/d7c86033a3b1
+
+## 一些实用的开源炫酷框架—值得你去了解
+https://juejin.im/post/596c16636fb9a06bbb32dce1
+
+* XRefreshView <br>一个万能的android下拉上拉刷新的框架,<br>完美支持recyclerviewRecycleView的上啦刷新和下拉加载
+https://github.com/huxq17/XRefreshView
+
+* CanRefresh可适配所有视图的下拉刷新上拉加载，并支持各种风格。
+https://github.com/canyinghao/CanRefresh
+
+* FileDownloader FileDownLoad下载工具类
+https://github.com/lingochamp/FileDownloader
+
+* CountdownView 一个精美的的计时器效果
+https://github.com/zjutkz/CountdownView
+
+
+*  Pickture <br> A small-scale android widget which provides easy attach to photo selection（拍照、照片选择+照片Gridview展示（拖拽排序、删除）+照片viewpager演示（放大、缩小））
+https://github.com/JmStefanAndroid/Pickture
+
+* 仿网易云音乐安卓版客户端
+https://github.com/aa112901/remusic

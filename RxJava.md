@@ -20,6 +20,10 @@ http://www.jianshu.com/p/1f4867ce3c01
 http://www.jianshu.com/u/c50b715ccaeb
 
 
+##  RxJava 2.x 使用最佳实践
+http://blog.csdn.net/zhaoyanjun6/article/details/76443347
+
+
 ## 这可能是最好的RxJava 2.x入门教程系列专栏
 * 这可能是最好的RxJava 2.x 入门教程（一）
 http://www.jianshu.com/p/a93c79e9f689

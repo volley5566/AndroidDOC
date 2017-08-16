@@ -35,6 +35,15 @@ http://wuxiaolong.me/2017/06/03/kotlin4/
 ## Kotlin实战项目  
 1. 使用Kotlin撸一款Eyepetizer，学习Kotlin语言 <br> https://github.com/LRH1993/Eyepetizer-in-Kotlin
 2. gank.io kotlin实现的干货集中营Android客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3 <br> https://github.com/githubwing/GankClient-Kotlin
+3. Mango-完全使用RxKotlin开发的Dribbble Android App 
+* https://juejin.im/entry/59912ffef265da3e1e5c02c9/detail?utm_source=gold_browser_extension 
+* https://github.com/TonnyL/Mango
+* Mango-完全使用RxKotlin开发的Dribbble Android App 
+* MVP架构, Material Design设计, 支持DeepLink, 使用了Anko, Flexbox Layout, Glide, Gson, Retrofit, Room等开源库.
+*  An Android app for dribbble.com
+
+4. Twobbble Twobbble是一个Android平台的第三方Dribbble客户端，与大多数这类应用一样，他完全基于MaterialDesign设计。而值得一提的是Twobbble完全使用Kotlin开发，并使用了RxJava，Retrofit2，EventBus，Fresco，等多个常用第三方项目，会充分的证明了Kotlin在实际生产中的可靠与Java to Kotlin的过渡之平滑，如果你是初学Kotlin，Twobbble会是一个不错的学习对象。该项目目前实现了Dribbble官方所给出的大多数API，当然还有很多功能未实现，日后也会继续完善，当然如果你有兴趣，欢迎你fork并参与到开发中来。
+https://github.com/550609334/Twobbble
 
 ## Kotlin应用
 * 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
