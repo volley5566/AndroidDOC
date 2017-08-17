@@ -183,6 +183,9 @@ http://www.jianshu.com/p/99d9dc5bcffc
 https://github.com/maning0303/MNProgressHUD/blob/master/README.md
 * 自定义view————卡券
 https://juejin.im/post/5992e9b7518825242725ba58?utm_source=gold_browser_extension
+* 使用ReplacementSpan在TextView中自定义Tag 
+https://tb-yangshu.github.io/2017/08/16/android-ReplacementSpan-use-md/
+
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -559,15 +562,18 @@ https://github.com/hui46226021/ShVideoDemo
   /** 查看视频 **/
 
 * MVideo 模仿微信圈的朋友视频效果，可以拖动和缩放，视频查看
-https://www.ctolib.com/MVideo.html
+https://www.ctolib.com/MVideo.html <br>
+https://github.com/miaoyongjun/MVideo
+* Android库在recyclelerview中自动播放/暂停来自url的视频
+https://www.ctolib.com/AutoplayVideos.html
+
 * NiceVieoPlayer <br>	 IjkPlayer/MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器
 https://github.com/xiaoyanger0825/NiceVieoPlayer
 * 用MediaPlayer+TextureView封装一个完美实现全屏、小窗口的视频播放器
 http://www.jianshu.com/p/420f7b14d6f6
 
 * JieCaoVideoPlayer-develop <br>真正实现Android的全屏视频播放，支持完全自定义UI、手势修改进度和音量、hls、rtsp，设置http头信息，也能在ListView、ViewPager和ListView、ViewPager和Fragment等多重嵌套模式下全屏工作，占用空间非常小，不到60k<br>   （重点）
-·
-
+https://github.com/JasonChow1989/JieCaoVideoPlayer-develop
 
 
 * 客户端短视频拍摄、上传、下载，播放完整方案
