@@ -185,6 +185,8 @@ https://github.com/maning0303/MNProgressHUD/blob/master/README.md
 https://juejin.im/post/5992e9b7518825242725ba58?utm_source=gold_browser_extension
 * 使用ReplacementSpan在TextView中自定义Tag 
 https://tb-yangshu.github.io/2017/08/16/android-ReplacementSpan-use-md/
+* 使用 Circular Reveal 动画让页面跳转更炫酷
+https://juejin.im/post/5994dcf9518825242238bd06?utm_source=gold_browser_extension
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
@@ -286,6 +288,8 @@ https://github.com/GaoGersy/AutoRecycleView/tree/master
 http://blog.csdn.net/zxt0601/article/details/52267325
 * RecyclerView优秀文集
 https://github.com/CymChad/CymChad.github.io
+* RecyclerView 配合 DiffUtil，好用到飞起
+https://juejin.im/post/5995ba616fb9a024747ed8e8?utm_source=gold_browser_extension
 
 ## 弹幕效果
 * EasyBarrage——Android平台轻量级弹幕效果
@@ -519,6 +523,8 @@ http://linshen.me/blog/2017/08/03/android-room-library-tutorial/
 ## 视频处理
 * small-video-record 利用FFmpeg视频录制与压缩处理  (重点)
 https://github.com/mabeijianxi/small-video-record
+* MediaUtils : 一个在 Android 上实现录像和录音功能的小例子  CamcorderProfile
+https://github.com/Werb/MediaUtils
 * FFmpeg
 * MediaCodec
 * TextureView 
@@ -554,8 +560,7 @@ https://github.com/w1123440793/VideoListDemo
 https://juejin.im/post/5991c27a51882548440bd687?utm_source=gold_browser_extension
 * TakePhoto <br> 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
 https://github.com/crazycodeboy/TakePhoto
-* MediaUtils : 一个在 Android 上实现录像和录音功能的小例子
-https://github.com/Werb/MediaUtils
+
 * ShVideoDemo Android 视频录制Demo 仿微信小视频 视频压缩（FFmpeg）
 https://github.com/hui46226021/ShVideoDemo
 
@@ -578,6 +583,19 @@ https://github.com/JasonChow1989/JieCaoVideoPlayer-develop
 
 * 客户端短视频拍摄、上传、下载，播放完整方案
 http://blog.csdn.net/yclfdn2004/article/details/51736252
+
+
+****
+
+
+* BGAPhotoPicker-Android Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件 <br>
+https://github.com/bingoogolapple/BGAPhotoPicker-Android
+* WildmaExpandFoldText   Android仿微信朋友圈全文、收起功能 <br>
+https://github.com/wildma/WildmaExpandFoldText
+* ZoomPreviewPicture 实现了点击小图放大至全屏预览，退出全屏恢复至原来位置这两个过程的动画过渡。 常见应用场景如微信朋友圈照片九宫格和微信聊天图片预览，某些手机系统相册等viewpager图片查看 缩放 拖拽下拉缩小退出（效果同微信图片浏览） <br>
+https://github.com/yangchaojiang/ZoomPreviewPicture
+* NineGridView 类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。<p>
+https://github.com/jeasonlzy/NineGridView
 
 
 ****
