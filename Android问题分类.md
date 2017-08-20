@@ -36,6 +36,8 @@ http://www.jianshu.com/p/2617bcd98412
 http://www.jianshu.com/p/aeba6a2bf59d
 * MaterialDesignExercise 对应教程代码
 https://github.com/chaychan/MaterialDesignExercise
+* 如何制作 Design 的炫酷联动
+https://juejin.im/entry/59964050518825244d202d0e?utm_source=gold_browser_extension
 
 
 
@@ -290,6 +292,8 @@ http://blog.csdn.net/zxt0601/article/details/52267325
 https://github.com/CymChad/CymChad.github.io
 * RecyclerView 配合 DiffUtil，好用到飞起
 https://juejin.im/post/5995ba616fb9a024747ed8e8?utm_source=gold_browser_extension
+* 完全自定义样式的一句话实现RecyclerView的单选多选
+https://juejin.im/entry/599562ef6fb9a024985eeb3d?utm_source=gold_browser_extension
 
 ## 弹幕效果
 * EasyBarrage——Android平台轻量级弹幕效果
@@ -350,6 +354,9 @@ http://www.jianshu.com/p/48554844a2db
 * Android高级动画（2）http://www.jianshu.com/p/89cfd9042b1e
 * Android高级动画（3）http://www.jianshu.com/p/d6cc8d218900
 * Android高级动画（4）http://www.jianshu.com/p/91f8363c3a8c
+
+## Android矢量动画实践
+http://www.jianshu.com/p/4707a4738a51
 
 ## Canvas&Paint
 * Android Paint的使用详解 <br>
@@ -483,6 +490,9 @@ http://blog.csdn.net/u014727709/article/details/74640971
 * 那些你曾不知道的触摸事件—Android分发机制完全解析
 https://juejin.im/post/5987b4016fb9a03c59458510?utm_source=gold_browser_extension
 
+## Android漏洞扫描工具Code Arbiter
+https://tech.meituan.com/Android-Code-Arbiter.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
 
 
 
@@ -564,7 +574,7 @@ https://github.com/crazycodeboy/TakePhoto
 * ShVideoDemo Android 视频录制Demo 仿微信小视频 视频压缩（FFmpeg）
 https://github.com/hui46226021/ShVideoDemo
 
-  /** 查看视频 **/
+/** 查看视频 **/
 
 * MVideo 模仿微信圈的朋友视频效果，可以拖动和缩放，视频查看
 https://www.ctolib.com/MVideo.html <br>
@@ -580,14 +590,11 @@ http://www.jianshu.com/p/420f7b14d6f6
 * JieCaoVideoPlayer-develop <br>真正实现Android的全屏视频播放，支持完全自定义UI、手势修改进度和音量、hls、rtsp，设置http头信息，也能在ListView、ViewPager和ListView、ViewPager和Fragment等多重嵌套模式下全屏工作，占用空间非常小，不到60k<br>   （重点）
 https://github.com/JasonChow1989/JieCaoVideoPlayer-develop
 
-
 * 客户端短视频拍摄、上传、下载，播放完整方案
 http://blog.csdn.net/yclfdn2004/article/details/51736252
 
 
 ****
-
-
 * BGAPhotoPicker-Android Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件 <br>
 https://github.com/bingoogolapple/BGAPhotoPicker-Android
 * WildmaExpandFoldText   Android仿微信朋友圈全文、收起功能 <br>
