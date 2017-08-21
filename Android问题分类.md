@@ -38,7 +38,8 @@ http://www.jianshu.com/p/aeba6a2bf59d
 https://github.com/chaychan/MaterialDesignExercise
 * 如何制作 Design 的炫酷联动
 https://juejin.im/entry/59964050518825244d202d0e?utm_source=gold_browser_extension
-
+* TabLayout+ViewPager使用自定义的布局，实现图文item
+http://www.jianshu.com/p/1bfe615f1016
 
 
 ****
@@ -189,6 +190,10 @@ https://juejin.im/post/5992e9b7518825242725ba58?utm_source=gold_browser_extensio
 https://tb-yangshu.github.io/2017/08/16/android-ReplacementSpan-use-md/
 * 使用 Circular Reveal 动画让页面跳转更炫酷
 https://juejin.im/post/5994dcf9518825242238bd06?utm_source=gold_browser_extension
+* 自定义View之qq气泡拖拽消失效果
+http://www.jianshu.com/p/9ffe31f4afd9
+* 自定义View之直播点赞效果 
+http://www.jianshu.com/p/a5c2f0359d31
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
@@ -271,7 +276,19 @@ https://blog.kyleduo.com/2017/07/21/alipay-home-3-alipay-home/
 https://juejin.im/post/59915e9d518825486a674b7c?utm_source=gold_browser_extension <br>
 https://github.com/Jmengfei/AddSubUtils <br>
 * 自定义view实现超萌动感天气小太阳
-http://www.jianshu.com/p/2c9dc35f3aad
+http://www.jianshu.com/p/2c9dc35f3aad <br>
+https://github.com/MrAllRight/BezierView
+
+
+
+* 自定义View之添加银行卡动画（一）
+http://www.jianshu.com/p/c206bd3c30fe
+* 自定义View之添加银行卡动画（二）
+http://www.jianshu.com/p/610c770d8898
+* 自定义View之添加银行卡动画（三）
+http://www.jianshu.com/p/129ad1935cbd
+
+
 
 ## RecyclerView
 * Android 解决切换Tab后RecycleView/ListView自动回滚至顶部条目的Bug(该 bug 不常见，本质是 RecycleView/ListView 抢焦点的问题)
@@ -493,10 +510,6 @@ https://juejin.im/post/5987b4016fb9a03c59458510?utm_source=gold_browser_extensio
 ## Android漏洞扫描工具Code Arbiter
 https://tech.meituan.com/Android-Code-Arbiter.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
-
-
-
-
 ****
 ****
 # 网络框架部分
@@ -506,6 +519,21 @@ https://github.com/jeasonlzy/okhttp-OkGo
 http://www.jianshu.com/p/5832c776621f
 * 解决 Retrofit 多 BaseUrl 及运行时动态改变 BaseUrl
 https://juejin.im/post/5978567d51882517921cdcfd
+
+* Rxjava2+Retrofit2结合mvp的简单教程OkHttp篇（一）：OkHttp3的基本使用
+http://www.jianshu.com/p/cc2fd41ff116
+* Rxjava2+Retrofit2结合mvp的简单教程OkHttp篇（二）：OkHttp3的https请求
+http://www.jianshu.com/p/2c9659f8ddb9
+
+* Rxjava2+Retrofit2结合mvp的简单教程Retrofit篇（一）：Retrofit2的基本使用
+http://www.jianshu.com/p/351d4a04af2d
+* Rxjava2+Retrofit2结合mvp的简单教程Retrofit篇（二）：Retrofit的简单封装
+http://www.jianshu.com/p/afa7c5292a44
+
+* Rxjava2+Retrofit2结合mvp的简单教程Rxjava篇（一）：Rxjava的基本使用
+http://www.jianshu.com/p/bd0821ef30c4
+* Rxjava2+Retrofit2结合mvp的简单教程Rxjava篇（二）：Rxjava的简单封装
+http://www.jianshu.com/p/d2edf6f51fe7
 
 ## ***BaseRecyclerViewAdapterHelper  BRVAH官方使用指南***
 http://www.jianshu.com/p/b343fcff51b0 <br>
@@ -595,6 +623,15 @@ http://blog.csdn.net/yclfdn2004/article/details/51736252
 
 
 ****
+* android MediaCodec解析
+https://wangyantao.github.io/mediacodec/
+
+* Android: MediaCodec视频文件硬件解码,高效率得到YUV格式帧,快速保存JPEG图片(不使用OpenGL)(附Demo)
+https://www.polarxiong.com/archives/Android-MediaCodec%E8%A7%86%E9%A2%91%E6%96%87%E4%BB%B6%E7%A1%AC%E4%BB%B6%E8%A7%A3%E7%A0%81-%E9%AB%98%E6%95%88%E7%8E%87%E5%BE%97%E5%88%B0YUV%E6%A0%BC%E5%BC%8F%E5%B8%A7-%E5%BF%AB%E9%80%9F%E4%BF%9D%E5%AD%98JPEG%E5%9B%BE%E7%89%87-%E4%B8%8D%E4%BD%BF%E7%94%A8OpenGL.html
+
+
+
+****
 * BGAPhotoPicker-Android Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件 <br>
 https://github.com/bingoogolapple/BGAPhotoPicker-Android
 * WildmaExpandFoldText   Android仿微信朋友圈全文、收起功能 <br>
@@ -603,6 +640,10 @@ https://github.com/wildma/WildmaExpandFoldText
 https://github.com/yangchaojiang/ZoomPreviewPicture
 * NineGridView 类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。<p>
 https://github.com/jeasonlzy/NineGridView
+* 仿微信朋友圈发表图片拖拽和删除功能 
+http://mp.weixin.qq.com/s/nuMOLZHsXae81uZ-zhPzfg <br>
+http://blog.csdn.net/u013231041/article/details/75062688 <br>
+https://github.com/kuyue/WeChatPublishImagesDrag
 
 
 ****
