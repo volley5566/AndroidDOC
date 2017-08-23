@@ -46,6 +46,10 @@ http://wuxiaolong.me/2017/06/03/kotlin4/
 4. Twobbble Twobbble是一个Android平台的第三方Dribbble客户端，与大多数这类应用一样，他完全基于MaterialDesign设计。而值得一提的是Twobbble完全使用Kotlin开发，并使用了RxJava，Retrofit2，EventBus，Fresco，等多个常用第三方项目，会充分的证明了Kotlin在实际生产中的可靠与Java to Kotlin的过渡之平滑，如果你是初学Kotlin，Twobbble会是一个不错的学习对象。该项目目前实现了Dribbble官方所给出的大多数API，当然还有很多功能未实现，日后也会继续完善，当然如果你有兴趣，欢迎你fork并参与到开发中来。
 https://github.com/550609334/Twobbble
 
+5. Kotlin最佳实践
+https://idisfkj.github.io/2017/08/21/Kotlin%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/#Delegated-Properties <br>
+https://github.com/idisfkj/NewsKotlin
+
 ## Kotlin应用
 * 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
 https://github.com/XiaoQiWen/KRefreshLayout
