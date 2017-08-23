@@ -194,6 +194,8 @@ https://juejin.im/post/5994dcf9518825242238bd06?utm_source=gold_browser_extensio
 http://www.jianshu.com/p/9ffe31f4afd9
 * 自定义View之直播点赞效果 
 http://www.jianshu.com/p/a5c2f0359d31
+* 自定义view总结
+https://juejin.im/post/599d2b2e518825242238d4f6
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复

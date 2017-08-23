@@ -54,6 +54,10 @@ https://github.com/idisfkj/NewsKotlin
 * 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
 https://github.com/XiaoQiWen/KRefreshLayout
 
+* KotlinAndroidLib Android开发的扩展
+https://github.com/VictorChow/KotlinAndroidLib
+
+
 
 ## kotlin全套视频教程
 01-课程介绍 <br>
