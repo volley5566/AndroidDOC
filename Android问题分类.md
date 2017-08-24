@@ -187,6 +187,15 @@ https://juejin.im/post/5992e9b7518825242725ba58?utm_source=gold_browser_extensio
 https://tb-yangshu.github.io/2017/08/16/android-ReplacementSpan-use-md/
 * 使用 Circular Reveal 动画让页面跳转更炫酷
 https://juejin.im/post/5994dcf9518825242238bd06?utm_source=gold_browser_extension
+* 一个高仿闲鱼键自定义数字键盘特效
+https://github.com/xuejinwei/NumberKeyboard
+* Android自定义View - 仿淘宝淘抢购进度条
+http://www.jianshu.com/p/18240ea99f6e
+* CityPickerViewV2.0重磅来袭
+https://juejin.im/post/599b6bc66fb9a0247b3b5370?utm_source=gold_browser_extension <br>
+https://github.com/crazyandcoder/citypicker
+* 
+
 
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
@@ -389,14 +398,16 @@ http://blog.csdn.net/lmj623565791/article/details/52204039
 http://blog.csdn.net/lmj623565791/article/category/3147547
 * NestedScrollView
 http://blog.csdn.net/hangeqq685042/article/details/48129911
+* FlexboxLayout
+http://blog.csdn.net/poorkick/article/details/77394663
 ## Android关于沉浸式状态总结
 https://juejin.im/post/5989ded56fb9a03c3b6c8bde?utm_source=gold_browser_extension
 ## Android7.0的适配
 http://blog.csdn.net/chay_chan/article/details/57083383
 ## Android 8.0 运行时权限策略变化和适配方案
 https://juejin.im/post/5991476f5188254898192ab9?utm_source=gold_browser_extension
-
-
+##  Android 7.0脱坑指南
+http://blog.csdn.net/qq_17766199/article/details/77404712
 ****
 ****
 # 核心知识 
@@ -521,6 +532,9 @@ http://linshen.me/blog/2017/08/03/android-room-library-tutorial/
 
 
 ## 视频处理
+*  微信 Android 视频编码爬过的那些坑
+http://blog.csdn.net/byeweiyang/article/details/77453844 <br>
+https://juejin.im/entry/599bd22a6fb9a02487552894?utm_source=gold_browser_extension
 * small-video-record 利用FFmpeg视频录制与压缩处理  (重点)
 https://github.com/mabeijianxi/small-video-record
 * MediaUtils : 一个在 Android 上实现录像和录音功能的小例子  CamcorderProfile
@@ -643,3 +657,4 @@ https://github.com/JmStefanAndroid/Pickture
 
 * 仿网易云音乐安卓版客户端
 https://github.com/aa112901/remusic
+

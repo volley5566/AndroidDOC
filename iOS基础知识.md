@@ -19,6 +19,12 @@ http://www.cnblogs.com/wendingding/tag/OC%E8%AF%AD%E8%A8%80/
 http://www.cnblogs.com/wendingding/tag/Swift%E8%AF%AD%E8%A8%80/
 
 
+* [Swift] 官方教程学习总结01 - Swift初见(附demo)
+http://www.jianshu.com/p/06ea8e2fe6b4
+* [Swift] 官方教程学习总结02 - 基础部分(附demo)
+http://www.jianshu.com/p/e2740ed5038c
+
+
 ## iOS多线程
 * 文顶顶 iOS多线程问题 <br>
 http://www.cnblogs.com/wendingding/tag/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%AF%87/
