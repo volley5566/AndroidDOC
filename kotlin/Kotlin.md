@@ -50,6 +50,9 @@ https://github.com/550609334/Twobbble
 https://idisfkj.github.io/2017/08/21/Kotlin%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/#Delegated-Properties <br>
 https://github.com/idisfkj/NewsKotlin
 
+6. 超简单Kotlin版每日一文
+http://blog.csdn.net/poorkick/article/details/76431670
+
 ## Kotlin应用
 * 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
 https://github.com/XiaoQiWen/KRefreshLayout
@@ -596,3 +599,5 @@ Kotlin并没有new关键字，简单粗暴：
 		Log.d("wxl", "a=" + B(a).print())
 		
 类 B 居然能调用类 A 方法，关键字 by 表示 base 将会在 B 中内部存储, 并且编译器将生成转发给 base 的所有 Base 的方法。
+
+

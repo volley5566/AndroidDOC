@@ -205,8 +205,9 @@ http://www.jianshu.com/p/9ffe31f4afd9
 http://www.jianshu.com/p/a5c2f0359d31
 * 自定义view总结
 https://juejin.im/post/599d2b2e518825242238d4f6
->>>>>>> 1feabec176b785d2c8f4eea2d644811849f50355
-
+* 用 DialogFragment 模仿国际微博评论框
+https://juejin.im/entry/599e6a826fb9a024985f040f?utm_source=gold_browser_extension <br>
+http://showzeng.itscoder.com/android/2017/08/11/the-imitation-of-the-international-weibo-comment-box.html
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
