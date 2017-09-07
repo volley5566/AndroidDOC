@@ -1,4 +1,4 @@
-# 1. Kotlin 学习资源
+# Kotlin 学习资源
 
 
 ## Kotlin文档资源
@@ -22,6 +22,8 @@ http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html
 http://blog.csdn.net/zxc123e/article/details/73368781
 * 五分钟学会 Kotlin 语法
 http://www.jianshu.com/p/1ea733ea197d
+* 从编译层面来了解Kotlin (一)
+http://blog.qianlicao.cn/technology/2017/08/31/kotlin-build-sth/
 ## 吴小龙Kotlin系列
 1. Kotlin for Android（一）准备工作
 http://wuxiaolong.me/2017/05/21/kotlin1/
@@ -53,12 +55,18 @@ https://github.com/idisfkj/NewsKotlin
 6. 超简单Kotlin版每日一文
 http://blog.csdn.net/poorkick/article/details/76431670
 
+7. Kotlin中Retrofit与RxJava的简单封装
+https://juejin.im/post/59afa351f265da247f1c8f19?utm_source=gold_browser_extension
+
 ## Kotlin应用
 * 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
 https://github.com/XiaoQiWen/KRefreshLayout
 
 * KotlinAndroidLib Android开发的扩展
 https://github.com/VictorChow/KotlinAndroidLib
+
+* KExtensions 收集 Android 中常用的 Kotlin 扩展函数，代替 Java 工具类和部分基类代码 <br>
+https://github.com/zyyoona7/KExtensions
 
 
 
@@ -599,5 +607,39 @@ Kotlin并没有new关键字，简单粗暴：
 		Log.d("wxl", "a=" + B(a).print())
 		
 类 B 居然能调用类 A 方法，关键字 by 表示 base 将会在 B 中内部存储, 并且编译器将生成转发给 base 的所有 Base 的方法。
+
+
+
+
+## DSL 领域特定语言
+
+## 协程 没有异步能力
+* 协程与线程的区别
+1. 协程：应用层面的  协助式  挂起 只是占用一块内存
+2. 线程：系统层面的  抢占式  
+
+* 协程的优点
+1. 写异步代码要想同步代码一样直观
+2. 简化异步代码的异常处理
+3. 轻量级并发方案
+
+* Kotlin 对协程的支持
+1. 编译器对suspend函数的编译支持 表示函数会对挂起
+2. 标准库的基本API支持
+3. kotlinx.coroutine应用级支持  （使用）
+
+
+* 线程阻塞 - 协程挂起：协程通过将复杂性放入库来简化异步编程
+
+
+
+
+
+
+
+
+
+
+
 
 
