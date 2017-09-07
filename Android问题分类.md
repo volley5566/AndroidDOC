@@ -511,6 +511,9 @@ https://juejin.im/post/5952641bf265da6c21533f15?utm_source=gold_browser_extensio
 * 大幅减少Android OOM的几个措施
 http://ie8384.com/blog/?p=1566
 ## Android触摸事件传递分析与实践
+* 什么？还没搞定Android View的事件和冲突解决
+https://juejin.im/entry/59a26d26518825244c0cf5df?utm_source=gold_browser_extension <br>
+http://blog.csdn.net/qian520ao/article/details/77429593
 * 通常而言ViewGroup.onInterceptTouchEvent决定了父View是否拦截该触摸事件，而View.onTouchEvent中则实现了其自身如何处理该触摸事件。
 http://www.jianshu.com/p/e75dd6fba1b7
 * Android 事件分发机制总结
@@ -664,6 +667,11 @@ http://blog.csdn.net/u013231041/article/details/75062688 <br>
 https://github.com/kuyue/WeChatPublishImagesDrag
 
 
+* 一个强大的图片压缩算法—近微信压缩机制的Luban
+https://juejin.im/post/59b00d19518825242b039bf1?utm_source=gold_browser_extension  <br>
+https://github.com/Curzibn/Luban
+
+
 ****
 ****
 # 开源项目
@@ -710,3 +718,20 @@ https://github.com/JmStefanAndroid/Pickture
 * 仿网易云音乐安卓版客户端
 https://github.com/aa112901/remusic
 
+
+
+****
+
+## Android组件化
+* Android彻底组件化方案实践 <br>
+https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483911&idx=1&sn=9e327c03580ffe3c9b8eebd3569d3277&chksm=974f130ca0389a1a703a18fcd5a2629dccc7a2a49e261d5b64b3ad0d54ceae4e5022e786b9f8#rd
+* Android彻底组件化demo发布
+http://www.jianshu.com/p/59822a7b2fad
+
+
+
+## Google正面迎战苹果，用ARCore阻击ARKit
+https://www.leiphone.com/news/201708/2WE6jIhArekIryfl.html
+
+## ARCore ——移动AR的浪潮
+http://www.infoq.com/cn/news/2017/09/ARCore-moblie-AR
