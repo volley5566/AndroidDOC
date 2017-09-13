@@ -442,6 +442,13 @@ http://blog.csdn.net/qq_17766199/article/details/77404712
 ****
 ****
 # 核心知识 
+## 性能优化
+* 这可能是最好的性能优化教程（一）
+http://www.jianshu.com/p/17fd325b28f6
+* 这可能是最好的性能优化教程（二）
+http://www.jianshu.com/p/6da0a2595815
+* 这可能是最好的性能优化教程（三）
+http://www.jianshu.com/p/b46870bcafc2
 ## NDK
 * NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
 * NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
