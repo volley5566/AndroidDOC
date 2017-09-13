@@ -4,6 +4,9 @@
 ## 2017 Android GitHub 常用开源框架汇总
 http://www.androidchina.net/7182.html
 
+## 2017上半年技术文章集合【Android】—184篇文章分类汇总
+https://juejin.im/post/59b513075188257e671b6866?utm_source=gold_browser_extension
+
 ## Android2017这些技术——你都了解过吗
 https://juejin.im/post/5982766ff265da3e1a376cb2?utm_source=gold_browser_extension
 1. 热修复 ✔
