@@ -58,6 +58,9 @@ http://blog.csdn.net/poorkick/article/details/76431670
 7. Kotlin中Retrofit与RxJava的简单封装
 https://juejin.im/post/59afa351f265da247f1c8f19?utm_source=gold_browser_extension
 
+8. 使用Kotlin开发Android项目- Kibo
+https://juejin.im/entry/59b761b26fb9a00a571d1370?utm_source=gold_browser_extension
+
 ## Kotlin应用
 * 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
 https://github.com/XiaoQiWen/KRefreshLayout
