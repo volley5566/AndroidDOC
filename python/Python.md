@@ -18,8 +18,41 @@ https://www.zhihu.com/question/20039623
 * Python高效代码实践：性能、内存和可用性
 https://zhuanlan.zhihu.com/p/28675694?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
+## Python发送邮件功能
+* python3使用smtplib通过qq邮箱发送邮件
+http://www.jianshu.com/p/0f8c5e4e7054
+
+## Python文件操作
+* Python文件操作
+http://www.jianshu.com/p/173361e36f63
+
 
 ## Python爬虫及数据分析
+* Mac OS安装Scrapy 
+http://blog.csdn.net/tangch0516/article/details/51378664
+### 爬虫系列教程
+* python爬虫入门 实战（一）---爬糗事百科初窥XPath
+http://www.jianshu.com/p/3a5b22d3e673
+* python爬虫入门 实战（二）---爬百度贴吧
+http://www.jianshu.com/p/8778b144eb3f
+* python爬虫入门 实战（三）---爬网易云音乐热门评论
+http://www.jianshu.com/p/0528f554e5f7
+* python爬虫入门 实战（四）---爬“榜姐”话题微博及热门评论
+http://www.jianshu.com/p/cc72f42ee0cb
+* python爬虫入门 实战（五）---用webdriver实现批量自动发微博
+http://www.jianshu.com/p/9d4ac1b69660
+* python爬虫入门 实战（六）---用webdriver实现微博批量自动关注
+http://www.jianshu.com/p/37ef59c28a18
+* python爬虫入门 实战（七）---爬取并闪存微信群里的百度云资源
+http://www.jianshu.com/p/56f0c07e0ecb
+
+## Python数据分析
+* Python数据分析学习路径图（120天Get新技能）
+http://www.jianshu.com/p/3cfe8b60938f
+* Python数据分析之路| 入门起航篇
+http://www.jianshu.com/p/5cdb021ee85b
+* 零基础学习Python数据分析
+http://www.jianshu.com/p/c6add8dc53d3
 * 江湖二三事：听说你想做数据分析师？（白露篇）
 https://zhuanlan.zhihu.com/p/29141779
 * 国庆不去哪儿:用python爬虫爬取热门景点并生成热力图
@@ -51,21 +84,6 @@ https://sspai.com/post/40669
 * 鹅厂分享会丨如何轻松爬取网页数据？
 https://mp.weixin.qq.com/s/gPw-Dc-MxlssyVu3jub5vA
 
-### 爬虫系列教程
-* python爬虫入门 实战（一）---爬糗事百科初窥XPath
-http://www.jianshu.com/p/3a5b22d3e673
-* python爬虫入门 实战（二）---爬百度贴吧
-http://www.jianshu.com/p/8778b144eb3f
-* python爬虫入门 实战（三）---爬网易云音乐热门评论
-http://www.jianshu.com/p/0528f554e5f7
-* python爬虫入门 实战（四）---爬“榜姐”话题微博及热门评论
-http://www.jianshu.com/p/cc72f42ee0cb
-* python爬虫入门 实战（五）---用webdriver实现批量自动发微博
-http://www.jianshu.com/p/9d4ac1b69660
-* python爬虫入门 实战（六）---用webdriver实现微博批量自动关注
-http://www.jianshu.com/p/37ef59c28a18
-* python爬虫入门 实战（七）---爬取并闪存微信群里的百度云资源
-http://www.jianshu.com/p/56f0c07e0ecb
 
 ## 人工智能相关
 * 基于MXNet的交通标志识别深度神经网络构建
