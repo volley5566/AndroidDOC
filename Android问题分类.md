@@ -535,6 +535,10 @@ http://blog.csdn.net/u014727709/article/details/74640971
 * 那些你曾不知道的触摸事件—Android分发机制完全解析
 https://juejin.im/post/5987b4016fb9a03c59458510?utm_source=gold_browser_extension
 
+## Android优化
+* Android UI 优化
+https://juejin.im/entry/59b8e4276fb9a00a48438403?utm_source=gold_browser_extension
+
 ## Android漏洞扫描工具Code Arbiter
 https://tech.meituan.com/Android-Code-Arbiter.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
@@ -745,3 +749,8 @@ https://www.leiphone.com/news/201708/2WE6jIhArekIryfl.html
 
 ## ARCore ——移动AR的浪潮
 http://www.infoq.com/cn/news/2017/09/ARCore-moblie-AR
+
+
+## 设计模式
+* Android程序员，你应该知道的设计模式
+http://www.jianshu.com/p/fab81503c442
