@@ -1,5 +1,13 @@
 # Python
 
+##  最全Pycharm教程
+http://blog.csdn.net/u013088062/article/details/50158239
+## 【Python数据挖掘课程】
+http://blog.csdn.net/eastmount/article/details/52577215
+
+## 简约而不简单的Django新手图文教程
+http://www.cnblogs.com/feixuelove1009/p/5823135.html
+
 ## Python相关教程
 * 慕课网视频教程
 http://www.imooc.com/course/list?c=python
@@ -56,7 +64,8 @@ http://www.jianshu.com/p/c6add8dc53d3
 * 江湖二三事：听说你想做数据分析师？（白露篇）
 https://zhuanlan.zhihu.com/p/29141779
 * 国庆不去哪儿:用python爬虫爬取热门景点并生成热力图
-http://www.jianshu.com/p/b7627e67b6b9
+http://www.jianshu.com/p/b7627e67b6b9 <br>
+echarts 
 * Python小白如何使用爬虫自动抓取《三生三世十里桃花》豆瓣电影短评
 http://www.jianshu.com/p/07cf37669702?utm_campaign=maleskine&utm_content=note&utm_medium=pc_all_hots&utm_source=recommendation
 * 像开始写小说一样开始编程：用python爬虫整理简书作者文章生成pdf
@@ -90,3 +99,18 @@ https://mp.weixin.qq.com/s/gPw-Dc-MxlssyVu3jub5vA
 http://www.infoq.com/cn/articles/an-introduction-to-customizing-a-neural-network
 *  用python实现QQ机器人 
 http://blog.chinaunix.net/uid-31012107-id-5765857.html
+
+
+## MongoDB 
+* Mac下安装MongoDB 及使用教程
+https://segmentfault.com/a/1190000002547229
+* MongoDB 教程
+http://www.runoob.com/mongodb/mongodb-tutorial.html
+
+
+
+## 数据分析
+* pandas 常用的函数
+http://www.jianshu.com/p/8bf430281a5c
+* 《利用python进行数据分析》读书笔记系列
+http://www.cnblogs.com/batteryhp/p/4868348.html
