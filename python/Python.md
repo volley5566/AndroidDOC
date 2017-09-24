@@ -38,6 +38,8 @@ http://www.jianshu.com/p/173361e36f63
 ## Python爬虫及数据分析
 * Mac OS安装Scrapy 
 http://blog.csdn.net/tangch0516/article/details/51378664
+* 32个Python爬虫项目让你一次吃到撑
+https://www.77169.com/html/170460.html
 ### 爬虫系列教程
 * python爬虫入门 实战（一）---爬糗事百科初窥XPath
 http://www.jianshu.com/p/3a5b22d3e673
