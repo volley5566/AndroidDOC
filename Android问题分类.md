@@ -442,6 +442,8 @@ http://blog.csdn.net/qq_17766199/article/details/77404712
 ****
 ****
 # 核心知识 
+## Android 系统及应用启动流程
+http://zhaidongyan.cn/2017/09/28/Android%20%E7%B3%BB%E7%BB%9F%E5%8F%8A%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/
 ## 性能优化
 * 这可能是最好的性能优化教程（一）
 http://www.jianshu.com/p/17fd325b28f6
@@ -487,6 +489,8 @@ http://www.jianshu.com/p/7dfb8797f893
 * APK瘦身实践 http://jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/
 * AndResGuard https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md<br>
   http://www.jianshu.com/p/7ffea26c9fd8
+* 爱奇艺Android移动客户端app瘦身经验
+https://juejin.im/entry/59cdbbd06fb9a00a59597c4b?utm_source=gold_browser_extension
 ## App启动优化 冷启动白屏问题
 * 5分钟教你打造一个秒开的 Android App  腾讯Bugly
 https://mp.weixin.qq.com/s/a8076txSPIUqGAbe30uEug##
@@ -520,6 +524,9 @@ https://juejin.im/post/595371d0f265da6c375a7879?utm_source=gold_browser_extensio
 https://juejin.im/post/5952641bf265da6c21533f15?utm_source=gold_browser_extension
 * 大幅减少Android OOM的几个措施
 http://ie8384.com/blog/?p=1566
+## 插件化
+* 酷狗 Android App 插件化实施过程
+https://www.diycode.cc/topics/442
 ## Android触摸事件传递分析与实践
 * 什么？还没搞定Android View的事件和冲突解决
 https://juejin.im/entry/59a26d26518825244c0cf5df?utm_source=gold_browser_extension <br>
@@ -741,7 +748,8 @@ https://github.com/aa112901/remusic
 https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483911&idx=1&sn=9e327c03580ffe3c9b8eebd3569d3277&chksm=974f130ca0389a1a703a18fcd5a2629dccc7a2a49e261d5b64b3ad0d54ceae4e5022e786b9f8#rd
 * Android彻底组件化demo发布
 http://www.jianshu.com/p/59822a7b2fad
-
+* 得到 App 彻底组件化方案开源项目
+https://juejin.im/entry/59cd8dd95188257e93499061?utm_source=gold_browser_extension
 
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
