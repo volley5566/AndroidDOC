@@ -294,6 +294,8 @@ https://github.com/Jmengfei/AddSubUtils <br>
 * 自定义view实现超萌动感天气小太阳
 http://www.jianshu.com/p/2c9dc35f3aad <br>
 https://github.com/MrAllRight/BezierView
+* 滴滴、支付宝刷新（怎么让刷新在滚动范围内进行，而不是顶部或底部）
+https://juejin.im/entry/59d0c6406fb9a00a547519fb?utm_source=gold_browser_extension
 
 
 
