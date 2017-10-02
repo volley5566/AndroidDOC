@@ -101,7 +101,8 @@ https://mp.weixin.qq.com/s/gPw-Dc-MxlssyVu3jub5vA
 http://www.infoq.com/cn/articles/an-introduction-to-customizing-a-neural-network
 *  用python实现QQ机器人 
 http://blog.chinaunix.net/uid-31012107-id-5765857.html
-
+* Keras:基于Python的深度学习库
+http://keras-cn.readthedocs.io/en/latest/
 
 ## MongoDB 
 * Mac下安装MongoDB 及使用教程
