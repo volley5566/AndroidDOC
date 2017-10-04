@@ -1,9 +1,38 @@
 # Python数据分析与挖掘
 ## 概述
+
 ### Python数据分析-基础技术篇
 http://www.imooc.com/learn/843
 
+### 可汗学院公开课：统计学
+http://open.163.com/special/Khan/khstatistics.html
 
+### 数据分析必须想清楚的两个概念：指标和维度
+http://www.cnblogs.com/xitingxie/p/5718572.html
+
+
+
+## 缺失值处理
+* python数据分析与挖掘实践—拉格朗日插值法
+http://blog.csdn.net/u012749168/article/details/71036170
+* 拉格朗日插值python实现
+http://blog.csdn.net/lhrsdl/article/details/48035959
+
+## 线性回归模型
+*  用python玩点有趣的数据分析——一元线性回归分析实例
+http://blog.csdn.net/dnxbjyj/article/details/71914943
+* 在Python中使用线性回归预测数据
+http://python.jobbole.com/81215/
+* scikit-learn的线性回归模型 利用pandas处理数据
+http://blog.csdn.net/shulixu/article/details/50924991
+*  Python实现机器学习一（实现一元线性回归）
+http://blog.csdn.net/lulei1217/article/details/49385531
+* Python实现机器学习二（实现多元线性回归）
+http://blog.csdn.net/lulei1217/article/details/49386295
+
+
+
+## 数据分析和挖掘
 #### 数据分析与数据挖掘技术的概念
 * 数据分析：已知的信息 进行统计
 * 数据挖掘: 得到未知的信息预测  
