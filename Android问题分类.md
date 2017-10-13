@@ -745,6 +745,10 @@ https://github.com/aa112901/remusic
 
 ****
 
+## MVVM
+* 如何构建Android MVVM应用程序
+http://www.jianshu.com/p/2fc41a310f79
+
 ## Android组件化
 * Android彻底组件化方案实践 <br>
 https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483911&idx=1&sn=9e327c03580ffe3c9b8eebd3569d3277&chksm=974f130ca0389a1a703a18fcd5a2629dccc7a2a49e261d5b64b3ad0d54ceae4e5022e786b9f8#rd
