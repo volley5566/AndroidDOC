@@ -57,3 +57,10 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 
 * Error:Failed to open zip file. Gradle's dependency cache may be corrupt
 http://blog.csdn.net/qq_31001287/article/details/54629570
+
+
+
+
+## Gradle 
+*  AndroidStudio Gradle第三依赖统一管理
+http://blog.csdn.net/lsyz0021/article/details/54377150
