@@ -64,3 +64,10 @@ http://blog.csdn.net/qq_31001287/article/details/54629570
 ## Gradle 
 *  AndroidStudio Gradle第三依赖统一管理
 http://blog.csdn.net/lsyz0021/article/details/54377150
+* 组件化开发小帮手activityRouter
+http://blog.csdn.net/u011486491/article/details/68925509
+* ActivityRouter
+https://github.com/mzule/ActivityRouter <br>
+http://blog.csdn.net/u014608640/article/details/52812916
+* ARouter  ----- alibaba
+https://github.com/alibaba/ARouter

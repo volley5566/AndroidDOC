@@ -764,6 +764,10 @@ https://juejin.im/entry/59cd8dd95188257e93499061?utm_source=gold_browser_extensi
 http://www.jianshu.com/p/59822a7b2fad
 * Android彻底组件化方案实践
 http://www.jianshu.com/p/1b1d77f58e84
+* Android组件化方案 (重点)
+http://blog.csdn.net/guiying712/article/details/55213884
+* Android组件化之终极方案 (重点)
+http://blog.csdn.net/guiying712/article/details/78057120
 
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
