@@ -768,6 +768,8 @@ http://www.jianshu.com/p/1b1d77f58e84
 http://blog.csdn.net/guiying712/article/details/55213884
 * Android组件化之终极方案 (重点)
 http://blog.csdn.net/guiying712/article/details/78057120
+* Android组件化开发实践 （重点）
+http://www.jianshu.com/p/186fa07fc48a
 
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
@@ -775,6 +777,14 @@ https://www.leiphone.com/news/201708/2WE6jIhArekIryfl.html
 
 ## ARCore ——移动AR的浪潮
 http://www.infoq.com/cn/news/2017/09/ARCore-moblie-AR
+
+
+## Android ----  TensorFlow
+* Hello，Tensorflow（环境搭建）
+http://www.jianshu.com/p/f995f36dc1b4
+* TensorFlow Android demo
+http://www.jianshu.com/p/53410740bc8a
+
 
 
 ## 设计模式
