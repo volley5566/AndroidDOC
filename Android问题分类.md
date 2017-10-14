@@ -745,6 +745,14 @@ https://github.com/aa112901/remusic
 
 ****
 
+## MVVM
+* 如何构建Android MVVM应用程序
+http://www.jianshu.com/p/2fc41a310f79
+
+## DataBinding
+* 完全掌握Android Data Binding
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0603/2992.html
+
 ## Android组件化
 * Android彻底组件化方案实践 <br>
 https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483911&idx=1&sn=9e327c03580ffe3c9b8eebd3569d3277&chksm=974f130ca0389a1a703a18fcd5a2629dccc7a2a49e261d5b64b3ad0d54ceae4e5022e786b9f8#rd
@@ -752,6 +760,16 @@ https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483911&idx=1&sn=9e327c
 http://www.jianshu.com/p/59822a7b2fad
 * 得到 App 彻底组件化方案开源项目
 https://juejin.im/entry/59cd8dd95188257e93499061?utm_source=gold_browser_extension
+* Android彻底组件化demo发布
+http://www.jianshu.com/p/59822a7b2fad
+* Android彻底组件化方案实践
+http://www.jianshu.com/p/1b1d77f58e84
+* Android组件化方案 (重点)
+http://blog.csdn.net/guiying712/article/details/55213884
+* Android组件化之终极方案 (重点)
+http://blog.csdn.net/guiying712/article/details/78057120
+* Android组件化开发实践 （重点）
+http://www.jianshu.com/p/186fa07fc48a
 
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
@@ -759,6 +777,14 @@ https://www.leiphone.com/news/201708/2WE6jIhArekIryfl.html
 
 ## ARCore ——移动AR的浪潮
 http://www.infoq.com/cn/news/2017/09/ARCore-moblie-AR
+
+
+## Android ----  TensorFlow
+* Hello，Tensorflow（环境搭建）
+http://www.jianshu.com/p/f995f36dc1b4
+* TensorFlow Android demo
+http://www.jianshu.com/p/53410740bc8a
+
 
 
 ## 设计模式
