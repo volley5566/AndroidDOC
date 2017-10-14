@@ -752,6 +752,8 @@ http://www.jianshu.com/p/2fc41a310f79
 ## DataBinding
 * 完全掌握Android Data Binding
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0603/2992.html
+* Android官方数据绑定框架DataBinding用法详解+附带DEMO源码
+http://blog.csdn.net/tyhj_sf/article/details/52065093
 
 ## Android组件化
 * Android彻底组件化方案实践 <br>
