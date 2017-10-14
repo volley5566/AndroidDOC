@@ -1,6 +1,9 @@
 # Python数据分析与挖掘
 ## 概述
 
+### Python数据挖掘课程
+http://blog.csdn.net/Eastmount/article/category/6423551/1	
+
 ### Python数据分析-基础技术篇
 http://www.imooc.com/learn/843
 
@@ -165,6 +168,11 @@ http://blog.sina.com.cn/s/blog_6406a7740102v3fc.html
 3. 决策树
 4. 人工神经网络
 5. 支持向量机（SVM）
+
+
+#### 关联规则算法
+1. 关联分析Apriori算法学习笔记-Python
+http://www.jianshu.com/p/1fec92315b17
 
 
   
