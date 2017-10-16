@@ -1,6 +1,12 @@
 # Android技术分类
 ****
 ****
+## 手把手教你写高质量Android技术博客，画图工具，录像工具，Markdown写法
+https://juejin.im/post/59df34a5518825422c0ca6fc?utm_source=gold_browser_extension
+
+## Android学习文档和工具
+https://github.com/foxleezh/AndroidDoc
+
 ## 2017 Android GitHub 常用开源框架汇总
 http://www.androidchina.net/7182.html
 
