@@ -5,11 +5,8 @@
 ## Pytorch快速入门及在线体验
 https://zhuanlan.zhihu.com/p/29779361
 
-
 ## 用 Python 玩转数据分析
 https://www.coursera.org/learn/hipython
-
-
 
 ### Python数据挖掘课程
 http://blog.csdn.net/Eastmount/article/category/6423551/1	
