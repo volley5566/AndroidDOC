@@ -56,6 +56,11 @@ http://www.jianshu.com/p/37ef59c28a18
 * python爬虫入门 实战（七）---爬取并闪存微信群里的百度云资源
 http://www.jianshu.com/p/56f0c07e0ecb
 
+
+## 正则表达式
+* 一张思维导图，让正则表达式不再难懂
+https://my.oschina.net/u/3080373/blog/1550653?from=20171015
+
 ## Python数据分析
 * Python数据分析学习路径图（120天Get新技能）
 http://www.jianshu.com/p/3cfe8b60938f
@@ -95,14 +100,8 @@ https://sspai.com/post/40669
 * 鹅厂分享会丨如何轻松爬取网页数据？
 https://mp.weixin.qq.com/s/gPw-Dc-MxlssyVu3jub5vA
 
-
-
-
 ## MongoDB 
 * Mac下安装MongoDB 及使用教程
 https://segmentfault.com/a/1190000002547229
 * MongoDB 教程
 http://www.runoob.com/mongodb/mongodb-tutorial.html
-
-
-

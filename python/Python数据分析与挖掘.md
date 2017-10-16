@@ -3,7 +3,6 @@
 
 ### Python数据挖掘课程
 http://blog.csdn.net/Eastmount/article/category/6423551/1	
-
 ### Python数据分析-基础技术篇
 http://www.imooc.com/learn/843
 
@@ -13,6 +12,11 @@ http://open.163.com/special/Khan/khstatistics.html
 ### 数据分析必须想清楚的两个概念：指标和维度
 http://www.cnblogs.com/xitingxie/p/5718572.html
 
+## 数据分析
+* pandas 常用的函数
+http://www.jianshu.com/p/8bf430281a5c
+* 《利用python进行数据分析》读书笔记系列
+http://www.cnblogs.com/batteryhp/p/4868348.html
 
 
 ## 缺失值处理
@@ -173,6 +177,17 @@ http://blog.sina.com.cn/s/blog_6406a7740102v3fc.html
 #### 关联规则算法
 1. 关联分析Apriori算法学习笔记-Python
 http://www.jianshu.com/p/1fec92315b17
+
+
+
+
+## 人工智能相关
+* 基于MXNet的交通标志识别深度神经网络构建
+http://www.infoq.com/cn/articles/an-introduction-to-customizing-a-neural-network
+*  用python实现QQ机器人 
+http://blog.chinaunix.net/uid-31012107-id-5765857.html
+* Keras:基于Python的深度学习库
+http://keras-cn.readthedocs.io/en/latest/
 
 
   
