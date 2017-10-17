@@ -815,5 +815,7 @@ http://www.jianshu.com/p/53410740bc8a
 
 
 ## 设计模式
+* JAVA设计模式透析 --- 郭霖的专栏
+http://blog.csdn.net/sinyu890807/article/category/1381137
 * Android程序员，你应该知道的设计模式
 http://www.jianshu.com/p/fab81503c442
