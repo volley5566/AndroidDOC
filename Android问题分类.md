@@ -302,6 +302,10 @@ http://www.jianshu.com/p/2c9dc35f3aad <br>
 https://github.com/MrAllRight/BezierView
 * 滴滴、支付宝刷新（怎么让刷新在滚动范围内进行，而不是顶部或底部）
 https://juejin.im/entry/59d0c6406fb9a00a547519fb?utm_source=gold_browser_extension
+* Android 项目总结(一)：弧形ViewPager 和弧形HeaderView
+https://juejin.im/post/59e363a26fb9a045055d29e6?utm_source=gold_browser_extension
+* Andoid鬼点子-近期项目总结（1）-圆弧背景
+https://juejin.im/post/59e4613a6fb9a0451d40859f?utm_source=gold_browser_extension
 
 
 
@@ -535,6 +539,9 @@ http://ie8384.com/blog/?p=1566
 ## 插件化
 * 酷狗 Android App 插件化实施过程
 https://www.diycode.cc/topics/442
+* 美团 App 插件化实践
+https://juejin.im/entry/59e479ca6fb9a0450406ed31?utm_source=gold_browser_extension
+
 ## Android触摸事件传递分析与实践
 * 什么？还没搞定Android View的事件和冲突解决
 https://juejin.im/entry/59a26d26518825244c0cf5df?utm_source=gold_browser_extension <br>
