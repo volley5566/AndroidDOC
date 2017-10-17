@@ -182,7 +182,10 @@ https://juejin.im/post/598c488651882548b31b4676?utm_source=gold_browser_extensio
 https://juejin.im/post/598aea4ff265da3e161a9392
 * 自定义view————开关button
 https://juejin.im/post/59832f79f265da3e384e854a
-* Android自绘控件开发与性能优化实践——以录音波浪动画为例
+* Android自绘控件开发与
+* 
+* 
+* 优化实践——以录音波浪动画为例
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html
 * 教你玩转自定义View—手撸一个倒计时控件如此简单
 https://juejin.im/post/598bb2e06fb9a03c367d039b?utm_source=gold_browser_extension
@@ -463,6 +466,10 @@ http://www.jianshu.com/p/17fd325b28f6
 http://www.jianshu.com/p/6da0a2595815
 * 这可能是最好的性能优化教程（三）
 http://www.jianshu.com/p/b46870bcafc2
+* Android App性能优化全方面解析
+https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247484413&idx=1&sn=a3c9ab8051b7eef4f76d8a4087442205&chksm=e82c3adadf5bb3cc390fa7d7ee0088c07c342e532fcf350ef9d1d27de6c4f3f74d93fc8068cb&mpshare=1&scene=1&srcid=1010LJRBZ4NC6lWE72HVF7zX&key=cf181d33ef94b
+* Android性能优化全方面解析
+http://blog.csdn.net/sw950729/article/details/72124008
 ## NDK
 * NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
 * NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
@@ -677,6 +684,12 @@ https://github.com/JasonChow1989/JieCaoVideoPlayer-develop
 
 * 客户端短视频拍摄、上传、下载，播放完整方案
 http://blog.csdn.net/yclfdn2004/article/details/51736252
+
+
+* 一款开源Android在线音乐播放器
+
+
+https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247485280&idx=1&sn=819a266762941670776c7c846a13bd7b&chksm=eae1f232dd967b2471b5b12a2a3665b81db7a0611409758a4db19d65b78ede47b7c97f54a324#rd
 
 
 ****
