@@ -785,6 +785,18 @@ http://blog.csdn.net/guiying712/article/details/55213884
 http://blog.csdn.net/guiying712/article/details/78057120
 * Android组件化开发实践 （重点）
 http://www.jianshu.com/p/186fa07fc48a
+* ActivityRouter 组件化路由
+https://github.com/mzule/ActivityRouter <br>
+http://blog.csdn.net/u014608640/article/details/52812916
+* 组件化开发小帮手activityRouter
+http://blog.csdn.net/u011486491/article/details/68925509
+* [Alibaba-ARouter] 简单好用的Android页面路由框架
+http://www.jianshu.com/p/7cb2cc9b726a?from=groupmessage
+* ARouter --  A android router middleware that help app navigating to activities and custom services.
+https://github.com/alibaba/ARouter
+
+
+
 
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
