@@ -8,7 +8,9 @@ https://juejin.im/post/59df34a5518825422c0ca6fc?utm_source=gold_browser_extensio
 https://github.com/foxleezh/AndroidDoc
 
 ## 2017 Android GitHub 常用开源框架汇总
-http://www.androidchina.net/7182.html
+* http://www.androidchina.net/7182.html
+*  2017 早期 25 个 Android 开源库
+https://juejin.im/post/59e5fc92f265da43283fee89?utm_source=gold_browser_extension
 
 ## 2017上半年技术文章集合【Android】—184篇文章分类汇总
 https://juejin.im/post/59b513075188257e671b6866?utm_source=gold_browser_extension
@@ -209,6 +211,9 @@ http://www.jianshu.com/p/18240ea99f6e
 * CityPickerViewV2.0重磅来袭
 https://juejin.im/post/599b6bc66fb9a0247b3b5370?utm_source=gold_browser_extension <br>
 https://github.com/crazyandcoder/citypicker
+* 自定义View之Dota2能力雷达图
+https://juejin.im/entry/59e69b41f265da43283fef74?utm_source=gold_browser_extension
+
 
 =======
 * 自定义View之qq气泡拖拽消失效果
