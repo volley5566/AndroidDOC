@@ -24,6 +24,8 @@ http://blog.csdn.net/zxc123e/article/details/73368781
 http://www.jianshu.com/p/1ea733ea197d
 * 从编译层面来了解Kotlin (一)
 http://blog.qianlicao.cn/technology/2017/08/31/kotlin-build-sth/
+* Kotlin如何成为我们Android开发的主要语言
+http://www.infoq.com/cn/articles/how-kotlin-become-our-android-develop-language
 ## 吴小龙Kotlin系列
 1. Kotlin for Android（一）准备工作
 http://wuxiaolong.me/2017/05/21/kotlin1/
