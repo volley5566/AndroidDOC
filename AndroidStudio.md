@@ -59,6 +59,13 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 http://blog.csdn.net/qq_31001287/article/details/54629570
 
 
+## Android studio & SVN
+* SVN在Android Studio中的配置
+http://www.cnblogs.com/songmeng/p/4389446.html
+
+
+
+
 
 
 ## Gradle 
