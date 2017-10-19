@@ -63,6 +63,14 @@ http://www.jianshu.com/p/1bfe615f1016
 * 自定义View系列
 https://github.com/GcsSloop/AndroidNote/tree/master/CustomView
 
+## Fragment
+* 如何避免fragment重复加载
+http://blog.csdn.net/qq_31715429/article/details/51013003
+*  彻底解决Fragment重复加载问题，杜绝一切卡顿现象
+http://blog.csdn.net/qq_29282475/article/details/50733615
+* Android中ViewPager配合Fragment使用避免重复加载
+http://blog.csdn.net/wenxiang423/article/details/50463983
+
 
 ## 自定义控件的属性
 * declare-styleable：自定义控件的属性
