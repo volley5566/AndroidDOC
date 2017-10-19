@@ -12,6 +12,9 @@ https://github.com/foxleezh/AndroidDoc
 *  2017 早期 25 个 Android 开源库
 https://juejin.im/post/59e5fc92f265da43283fee89?utm_source=gold_browser_extension
 
+## 最全收集整理GitHub上受欢迎的Android UI Library
+https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649550567&idx=1&sn=de637d0eeae54b452f4dc245645378ee&chksm=f118059ac66f8c8c25041a981f5ad0d97fdd1bf93a04187090216f862d255d24e17752afff25#rd
+
 ## 2017上半年技术文章集合【Android】—184篇文章分类汇总
 https://juejin.im/post/59b513075188257e671b6866?utm_source=gold_browser_extension
 
@@ -184,10 +187,7 @@ https://juejin.im/post/598c488651882548b31b4676?utm_source=gold_browser_extensio
 https://juejin.im/post/598aea4ff265da3e161a9392
 * 自定义view————开关button
 https://juejin.im/post/59832f79f265da3e384e854a
-* Android自绘控件开发与
-* 
-* 
-* 优化实践——以录音波浪动画为例
+* Android自绘控件开发与优化实践——以录音波浪动画为例
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html
 * 教你玩转自定义View—手撸一个倒计时控件如此简单
 https://juejin.im/post/598bb2e06fb9a03c367d039b?utm_source=gold_browser_extension
@@ -213,9 +213,6 @@ https://juejin.im/post/599b6bc66fb9a0247b3b5370?utm_source=gold_browser_extensio
 https://github.com/crazyandcoder/citypicker
 * 自定义View之Dota2能力雷达图
 https://juejin.im/entry/59e69b41f265da43283fef74?utm_source=gold_browser_extension
-
-
-=======
 * 自定义View之qq气泡拖拽消失效果
 http://www.jianshu.com/p/9ffe31f4afd9
 * 自定义View之直播点赞效果 
@@ -225,6 +222,8 @@ https://juejin.im/post/599d2b2e518825242238d4f6
 * 用 DialogFragment 模仿国际微博评论框
 https://juejin.im/entry/599e6a826fb9a024985f040f?utm_source=gold_browser_extension <br>
 http://showzeng.itscoder.com/android/2017/08/11/the-imitation-of-the-international-weibo-comment-box.html
+*  Android 自定义View之中国地图热点区域分布
+http://blog.csdn.net/dt235201314/article/details/78133932
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
