@@ -58,11 +58,15 @@ http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2017/0317/7691.html
 * Error:Failed to open zip file. Gradle's dependency cache may be corrupt
 http://blog.csdn.net/qq_31001287/article/details/54629570
 
-## Android studio & SVN
+### Android studio & SVN
 * SVN在Android Studio中的配置
 http://www.cnblogs.com/songmeng/p/4389446.html
 
-## Gradle 
+### Android Studio 打正式包
+http://blog.csdn.net/qq_27280457/article/details/53992061
+
+
+### Gradle 
 *  AndroidStudio Gradle第三依赖统一管理
 http://blog.csdn.net/lsyz0021/article/details/54377150
 * 组件化开发小帮手activityRouter
