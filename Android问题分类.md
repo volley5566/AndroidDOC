@@ -486,6 +486,10 @@ http://blog.csdn.net/lmj623565791/article/details/52761658
 ## Android 高级混淆和代码保护技术
 * Android 高级混淆和代码保护技术
 https://juejin.im/post/596eae75518825413c1f1bfa?utm_source=gold_browser_extension
+
+* Android 代码混淆语法讲解及常用模板
+http://blog.csdn.net/gdutxiaoxu/article/details/78253651
+
 ## Tinker热修复集成总结
 https://juejin.im/post/597155136fb9a06ba82d4e01?utm_source=gold_browser_extension
 ## Android 中高效执行Schedule 任务
@@ -689,21 +693,14 @@ https://github.com/JasonChow1989/JieCaoVideoPlayer-develop
 * 客户端短视频拍摄、上传、下载，播放完整方案
 http://blog.csdn.net/yclfdn2004/article/details/51736252
 
-
 * 一款开源Android在线音乐播放器
-
-
 https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247485280&idx=1&sn=819a266762941670776c7c846a13bd7b&chksm=eae1f232dd967b2471b5b12a2a3665b81db7a0611409758a4db19d65b78ede47b7c97f54a324#rd
-
-
 ****
 * android MediaCodec解析
 https://wangyantao.github.io/mediacodec/
 
 * Android: MediaCodec视频文件硬件解码,高效率得到YUV格式帧,快速保存JPEG图片(不使用OpenGL)(附Demo)
 https://www.polarxiong.com/archives/Android-MediaCodec%E8%A7%86%E9%A2%91%E6%96%87%E4%BB%B6%E7%A1%AC%E4%BB%B6%E8%A7%A3%E7%A0%81-%E9%AB%98%E6%95%88%E7%8E%87%E5%BE%97%E5%88%B0YUV%E6%A0%BC%E5%BC%8F%E5%B8%A7-%E5%BF%AB%E9%80%9F%E4%BF%9D%E5%AD%98JPEG%E5%9B%BE%E7%89%87-%E4%B8%8D%E4%BD%BF%E7%94%A8OpenGL.html
-
-
 
 ****
 * BGAPhotoPicker-Android Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件 <br>
@@ -811,10 +808,8 @@ http://blog.csdn.net/u011486491/article/details/68925509
 http://www.jianshu.com/p/7cb2cc9b726a?from=groupmessage
 * ARouter --  A android router middleware that help app navigating to activities and custom services.
 https://github.com/alibaba/ARouter
-
-
-
-
+* 我的Android组件化实践
+http://www.jianshu.com/p/2f3ad005c902
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
 https://www.leiphone.com/news/201708/2WE6jIhArekIryfl.html
