@@ -823,6 +823,11 @@ http://www.jianshu.com/p/7cb2cc9b726a?from=groupmessage
 https://github.com/alibaba/ARouter
 * 我的Android组件化实践
 http://www.jianshu.com/p/2f3ad005c902
+* RxJava+Realm+MVP+ARouter+Retrofit框架搭建
+http://www.jianshu.com/p/6d5702ca5e01
+* 「AS 插件实战」让 AS 识别你的路由框架，建立页面索引（一）
+https://juejin.im/entry/59e8e88f6fb9a0450670bde6?utm_source=gold_browser_extension <br>
+https://github.com/fashare2015/SmallHelper-IDEA-Plugin/blob/master/learning-to-develop-plugin/env-setup.md
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
 https://www.leiphone.com/news/201708/2WE6jIhArekIryfl.html
