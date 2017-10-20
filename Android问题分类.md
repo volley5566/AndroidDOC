@@ -70,7 +70,8 @@ http://blog.csdn.net/qq_31715429/article/details/51013003
 http://blog.csdn.net/qq_29282475/article/details/50733615
 * Android中ViewPager配合Fragment使用避免重复加载
 http://blog.csdn.net/wenxiang423/article/details/50463983
-
+* Android基础：Fragment，看这篇就够了
+https://juejin.im/entry/59e88d70f265da43346f07cc?utm_source=gold_browser_extension
 
 ## 自定义控件的属性
 * declare-styleable：自定义控件的属性
@@ -82,6 +83,10 @@ http://blog.csdn.net/congqingbin/article/details/7869730
 http://blog.csdn.net/u011264824/article/details/51917715
 * android 特卖列表倒计时卡顿问题
 http://blog.csdn.net/xiangzhihong8/article/details/52949385
+* listview中的item重复问题
+http://www.cnblogs.com/childhooding/p/4379116.html
+* Android ListView滑动过程中图片显示重复错位闪烁问题解决
+http://www.trinea.cn/android/android-listview-display-error-image-when-scroll/
 
 ## 自定义View 
 * 2017 我用 5 个月分享了 98 篇优秀博文 
@@ -832,7 +837,9 @@ http://www.jianshu.com/p/f995f36dc1b4
 * TensorFlow Android demo
 http://www.jianshu.com/p/53410740bc8a
 
-
+## Android lifecycle components
+* Android Architecture Component -- Lifecycle 浅析
+http://www.jianshu.com/p/bd800c5dae30
 
 ## 设计模式
 * JAVA设计模式透析 --- 郭霖的专栏
