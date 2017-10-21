@@ -1,8 +1,19 @@
 # Android技术分类
 ****
 ****
+## 手把手教你写高质量Android技术博客，画图工具，录像工具，Markdown写法
+https://juejin.im/post/59df34a5518825422c0ca6fc?utm_source=gold_browser_extension
+
+## Android学习文档和工具
+https://github.com/foxleezh/AndroidDoc
+
 ## 2017 Android GitHub 常用开源框架汇总
-http://www.androidchina.net/7182.html
+* http://www.androidchina.net/7182.html
+*  2017 早期 25 个 Android 开源库
+https://juejin.im/post/59e5fc92f265da43283fee89?utm_source=gold_browser_extension
+
+## 最全收集整理GitHub上受欢迎的Android UI Library
+https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649550567&idx=1&sn=de637d0eeae54b452f4dc245645378ee&chksm=f118059ac66f8c8c25041a981f5ad0d97fdd1bf93a04187090216f862d255d24e17752afff25#rd
 
 ## 2017上半年技术文章集合【Android】—184篇文章分类汇总
 https://juejin.im/post/59b513075188257e671b6866?utm_source=gold_browser_extension
@@ -52,6 +63,15 @@ http://www.jianshu.com/p/1bfe615f1016
 * 自定义View系列
 https://github.com/GcsSloop/AndroidNote/tree/master/CustomView
 
+## Fragment
+* 如何避免fragment重复加载
+http://blog.csdn.net/qq_31715429/article/details/51013003
+*  彻底解决Fragment重复加载问题，杜绝一切卡顿现象
+http://blog.csdn.net/qq_29282475/article/details/50733615
+* Android中ViewPager配合Fragment使用避免重复加载
+http://blog.csdn.net/wenxiang423/article/details/50463983
+* Android基础：Fragment，看这篇就够了
+https://juejin.im/entry/59e88d70f265da43346f07cc?utm_source=gold_browser_extension
 
 ## 自定义控件的属性
 * declare-styleable：自定义控件的属性
@@ -63,6 +83,10 @@ http://blog.csdn.net/congqingbin/article/details/7869730
 http://blog.csdn.net/u011264824/article/details/51917715
 * android 特卖列表倒计时卡顿问题
 http://blog.csdn.net/xiangzhihong8/article/details/52949385
+* listview中的item重复问题
+http://www.cnblogs.com/childhooding/p/4379116.html
+* Android ListView滑动过程中图片显示重复错位闪烁问题解决
+http://www.trinea.cn/android/android-listview-display-error-image-when-scroll/
 
 ## 自定义View 
 * 2017 我用 5 个月分享了 98 篇优秀博文 
@@ -176,7 +200,7 @@ https://juejin.im/post/598c488651882548b31b4676?utm_source=gold_browser_extensio
 https://juejin.im/post/598aea4ff265da3e161a9392
 * 自定义view————开关button
 https://juejin.im/post/59832f79f265da3e384e854a
-* Android自绘控件开发与性能优化实践——以录音波浪动画为例
+* Android自绘控件开发与优化实践——以录音波浪动画为例
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0808/8357.html
 * 教你玩转自定义View—手撸一个倒计时控件如此简单
 https://juejin.im/post/598bb2e06fb9a03c367d039b?utm_source=gold_browser_extension
@@ -200,8 +224,8 @@ http://www.jianshu.com/p/18240ea99f6e
 * CityPickerViewV2.0重磅来袭
 https://juejin.im/post/599b6bc66fb9a0247b3b5370?utm_source=gold_browser_extension <br>
 https://github.com/crazyandcoder/citypicker
-
-=======
+* 自定义View之Dota2能力雷达图
+https://juejin.im/entry/59e69b41f265da43283fef74?utm_source=gold_browser_extension
 * 自定义View之qq气泡拖拽消失效果
 http://www.jianshu.com/p/9ffe31f4afd9
 * 自定义View之直播点赞效果 
@@ -211,6 +235,8 @@ https://juejin.im/post/599d2b2e518825242238d4f6
 * 用 DialogFragment 模仿国际微博评论框
 https://juejin.im/entry/599e6a826fb9a024985f040f?utm_source=gold_browser_extension <br>
 http://showzeng.itscoder.com/android/2017/08/11/the-imitation-of-the-international-weibo-comment-box.html
+*  Android 自定义View之中国地图热点区域分布
+http://blog.csdn.net/dt235201314/article/details/78133932
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
@@ -296,6 +322,10 @@ http://www.jianshu.com/p/2c9dc35f3aad <br>
 https://github.com/MrAllRight/BezierView
 * 滴滴、支付宝刷新（怎么让刷新在滚动范围内进行，而不是顶部或底部）
 https://juejin.im/entry/59d0c6406fb9a00a547519fb?utm_source=gold_browser_extension
+* Android 项目总结(一)：弧形ViewPager 和弧形HeaderView
+https://juejin.im/post/59e363a26fb9a045055d29e6?utm_source=gold_browser_extension
+* Andoid鬼点子-近期项目总结（1）-圆弧背景
+https://juejin.im/post/59e4613a6fb9a0451d40859f?utm_source=gold_browser_extension
 
 
 
@@ -453,6 +483,10 @@ http://www.jianshu.com/p/17fd325b28f6
 http://www.jianshu.com/p/6da0a2595815
 * 这可能是最好的性能优化教程（三）
 http://www.jianshu.com/p/b46870bcafc2
+* Android App性能优化全方面解析
+https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247484413&idx=1&sn=a3c9ab8051b7eef4f76d8a4087442205&chksm=e82c3adadf5bb3cc390fa7d7ee0088c07c342e532fcf350ef9d1d27de6c4f3f74d93fc8068cb&mpshare=1&scene=1&srcid=1010LJRBZ4NC6lWE72HVF7zX&key=cf181d33ef94b
+* Android性能优化全方面解析
+http://blog.csdn.net/sw950729/article/details/72124008
 ## NDK
 * NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
 * NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
@@ -465,6 +499,10 @@ http://blog.csdn.net/lmj623565791/article/details/52761658
 ## Android 高级混淆和代码保护技术
 * Android 高级混淆和代码保护技术
 https://juejin.im/post/596eae75518825413c1f1bfa?utm_source=gold_browser_extension
+
+* Android 代码混淆语法讲解及常用模板
+http://blog.csdn.net/gdutxiaoxu/article/details/78253651
+
 ## Tinker热修复集成总结
 https://juejin.im/post/597155136fb9a06ba82d4e01?utm_source=gold_browser_extension
 ## Android 中高效执行Schedule 任务
@@ -529,6 +567,9 @@ http://ie8384.com/blog/?p=1566
 ## 插件化
 * 酷狗 Android App 插件化实施过程
 https://www.diycode.cc/topics/442
+* 美团 App 插件化实践
+https://juejin.im/entry/59e479ca6fb9a0450406ed31?utm_source=gold_browser_extension
+
 ## Android触摸事件传递分析与实践
 * 什么？还没搞定Android View的事件和冲突解决
 https://juejin.im/entry/59a26d26518825244c0cf5df?utm_source=gold_browser_extension <br>
@@ -665,15 +706,14 @@ https://github.com/JasonChow1989/JieCaoVideoPlayer-develop
 * 客户端短视频拍摄、上传、下载，播放完整方案
 http://blog.csdn.net/yclfdn2004/article/details/51736252
 
-
+* 一款开源Android在线音乐播放器
+https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247485280&idx=1&sn=819a266762941670776c7c846a13bd7b&chksm=eae1f232dd967b2471b5b12a2a3665b81db7a0611409758a4db19d65b78ede47b7c97f54a324#rd
 ****
 * android MediaCodec解析
 https://wangyantao.github.io/mediacodec/
 
 * Android: MediaCodec视频文件硬件解码,高效率得到YUV格式帧,快速保存JPEG图片(不使用OpenGL)(附Demo)
 https://www.polarxiong.com/archives/Android-MediaCodec%E8%A7%86%E9%A2%91%E6%96%87%E4%BB%B6%E7%A1%AC%E4%BB%B6%E8%A7%A3%E7%A0%81-%E9%AB%98%E6%95%88%E7%8E%87%E5%BE%97%E5%88%B0YUV%E6%A0%BC%E5%BC%8F%E5%B8%A7-%E5%BF%AB%E9%80%9F%E4%BF%9D%E5%AD%98JPEG%E5%9B%BE%E7%89%87-%E4%B8%8D%E4%BD%BF%E7%94%A8OpenGL.html
-
-
 
 ****
 * BGAPhotoPicker-Android Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件 <br>
@@ -772,7 +812,22 @@ http://blog.csdn.net/guiying712/article/details/55213884
 http://blog.csdn.net/guiying712/article/details/78057120
 * Android组件化开发实践 （重点）
 http://www.jianshu.com/p/186fa07fc48a
-
+* ActivityRouter 组件化路由
+https://github.com/mzule/ActivityRouter <br>
+http://blog.csdn.net/u014608640/article/details/52812916
+* 组件化开发小帮手activityRouter
+http://blog.csdn.net/u011486491/article/details/68925509
+* [Alibaba-ARouter] 简单好用的Android页面路由框架
+http://www.jianshu.com/p/7cb2cc9b726a?from=groupmessage
+* ARouter --  A android router middleware that help app navigating to activities and custom services.
+https://github.com/alibaba/ARouter
+* 我的Android组件化实践
+http://www.jianshu.com/p/2f3ad005c902
+* RxJava+Realm+MVP+ARouter+Retrofit框架搭建
+http://www.jianshu.com/p/6d5702ca5e01
+* 「AS 插件实战」让 AS 识别你的路由框架，建立页面索引（一）
+https://juejin.im/entry/59e8e88f6fb9a0450670bde6?utm_source=gold_browser_extension <br>
+https://github.com/fashare2015/SmallHelper-IDEA-Plugin/blob/master/learning-to-develop-plugin/env-setup.md
 
 ## Google正面迎战苹果，用ARCore阻击ARKit
 https://www.leiphone.com/news/201708/2WE6jIhArekIryfl.html
@@ -787,9 +842,13 @@ http://www.jianshu.com/p/f995f36dc1b4
 * TensorFlow Android demo
 http://www.jianshu.com/p/53410740bc8a
 
-
+## Android lifecycle components
+* Android Architecture Component -- Lifecycle 浅析
+http://www.jianshu.com/p/bd800c5dae30
 
 ## 设计模式
+* JAVA设计模式透析 --- 郭霖的专栏
+http://blog.csdn.net/sinyu890807/article/category/1381137
 * Android程序员，你应该知道的设计模式
 http://www.jianshu.com/p/fab81503c442
 
