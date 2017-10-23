@@ -855,3 +855,11 @@ http://www.jianshu.com/p/bd800c5dae30
 http://blog.csdn.net/sinyu890807/article/category/1381137
 * Android程序员，你应该知道的设计模式
 http://www.jianshu.com/p/fab81503c442
+
+
+
+## 反编译
+* 手把手教你搞懂Android反编译
+http://www.jianshu.com/p/049022e138ed
+* 腾讯加固脱壳
+https://bbs.pediy.com/thread-210532.htm
