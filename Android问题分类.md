@@ -12,6 +12,10 @@ https://github.com/foxleezh/AndroidDoc
 *  2017 早期 25 个 Android 开源库
 https://juejin.im/post/59e5fc92f265da43283fee89?utm_source=gold_browser_extension
 
+## 一个老程序猿的焦虑
+* https://juejin.im/post/59df8d5751882578d5037ed9
+* https://juejin.im/post/59e22239f265da430f31205c?utm_source=gold_browser_extension
+
 ## 最全收集整理GitHub上受欢迎的Android UI Library
 https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649550567&idx=1&sn=de637d0eeae54b452f4dc245645378ee&chksm=f118059ac66f8c8c25041a981f5ad0d97fdd1bf93a04187090216f862d255d24e17752afff25#rd
 
