@@ -12,6 +12,10 @@ https://github.com/foxleezh/AndroidDoc
 *  2017 早期 25 个 Android 开源库
 https://juejin.im/post/59e5fc92f265da43283fee89?utm_source=gold_browser_extension
 
+
+## Android 能让你少走弯路的干货整理
+https://juejin.im/post/59ec4d866fb9a0451d409e95?utm_source=gold_browser_extension
+
 ## 一个老程序猿的焦虑
 * https://juejin.im/post/59df8d5751882578d5037ed9
 * https://juejin.im/post/59e22239f265da430f31205c?utm_source=gold_browser_extension
@@ -535,6 +539,8 @@ http://www.jianshu.com/p/7dfb8797f893
   http://www.jianshu.com/p/7ffea26c9fd8
 * 爱奇艺Android移动客户端app瘦身经验
 https://juejin.im/entry/59cdbbd06fb9a00a59597c4b?utm_source=gold_browser_extension
+* 玩转APK：实现Android APK瘦身99.99%
+https://juejin.im/entry/59edd03f6fb9a0452b4865bb?utm_source=gold_browser_extension
 ## App启动优化 冷启动白屏问题
 * 5分钟教你打造一个秒开的 Android App  腾讯Bugly
 https://mp.weixin.qq.com/s/a8076txSPIUqGAbe30uEug##
@@ -792,6 +798,24 @@ https://github.com/aa112901/remusic
 ## MVVM
 * 如何构建Android MVVM应用程序
 http://www.jianshu.com/p/2fc41a310f79
+* 《安卓-深入浅出MVVM教程》原理篇-01 MyLiveData（最简单的LiveData）
+http://www.jianshu.com/p/74190725cf9c
+* 《安卓-深入浅出MVVM教程》应用篇-01Hello MVVM (快速入门)
+http://www.jianshu.com/p/bcdb7c2a07eb
+* 《安卓-深入浅出MVVM教程》应用篇-02 Repository （数据仓库）
+http://www.jianshu.com/p/6a1e32206dfc
+* 《安卓-深入浅出MVVM教程》应用篇-03 Cache （本地缓存）
+http://www.jianshu.com/p/cf9482d71241
+* 《安卓-深入浅出MVVM教程》应用篇-04 State Lcee （加载/空/错误/内容视图）
+http://www.jianshu.com/p/26de1ad0a423
+* 《安卓-深入浅出MVVM教程》应用篇-05 Simple Data Source （简单的数据源）
+http://www.jianshu.com/p/246b54237e5d
+* 《安卓-深入浅出MVVM教程》应用篇-06 Load More （加载更多）
+http://www.jianshu.com/p/7ace2a416587
+* 《安卓-深入浅出MVVM教程》应用篇-07 DataBinding （数据与视图绑定）
+http://www.jianshu.com/p/dba2023b07e3
+* 《安卓-深入浅出MVVM教程》应用篇-08 RxJava2
+http://www.jianshu.com/p/fcee079651d6
 
 ## DataBinding
 * 完全掌握Android Data Binding
