@@ -19,6 +19,8 @@ http://blog.csdn.net/hp910315/article/details/70159593
 ### Android Studio的插件 
 * https://www.zhihu.com/question/28026027
 * http://jingyan.baidu.com/article/f54ae2fc0b1acb1e92b849fe.html
+* 阿里发布的规约插件，细节都在这里 <br> 
+  https://segmentfault.com/a/1190000011560013
 
 ### AS常用快捷键
 * 键盘快捷键 <br>
