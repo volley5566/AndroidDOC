@@ -21,6 +21,8 @@ http://blog.csdn.net/hp910315/article/details/70159593
 * http://jingyan.baidu.com/article/f54ae2fc0b1acb1e92b849fe.html
 * 阿里发布的规约插件，细节都在这里 <br> 
   https://segmentfault.com/a/1190000011560013
+* 堪比阿里插件的Android Studio插件集合(IDE通用)（下）
+https://juejin.im/entry/59f13a1af265da4315232058?utm_source=gold_browser_extension
 
 ### AS常用快捷键
 * 键盘快捷键 <br>
