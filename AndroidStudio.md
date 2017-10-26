@@ -1,5 +1,8 @@
 # Android Studio 
 
+###  Android Studio 3.0 发行说明
+http://blog.csdn.net/guiying712/article/details/78352062
+
 ###  解决AS第一次打开项目慢的问题
 
 1. 问题的原因就是：AS第一次打开项目的时候会去Gradle官网下载相应的gardle版本包，但由于速度过于缓慢就一直显示在加载当中。
