@@ -71,6 +71,8 @@ http://blog.csdn.net/qq_27280457/article/details/53992061
 
 
 ### Gradle 
+* Gradle官方下载链接
+https://services.gradle.org/distributions/
 *  AndroidStudio Gradle第三依赖统一管理
 http://blog.csdn.net/lsyz0021/article/details/54377150
 * 组件化开发小帮手activityRouter
