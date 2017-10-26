@@ -504,6 +504,14 @@ http://blog.csdn.net/sw950729/article/details/72124008
 http://blog.csdn.net/lmj623565791/article/details/52761658 
 * https://github.com/cundong/SmartAppUpdates
 * 增量更新小记 http://www.jianshu.com/p/df81af1ea5f3
+* Android增量更新（一）-差分文件（Windows-part1）
+http://blog.csdn.net/ywl5320/article/details/78318648
+* Android增量更新（二）-差分文件（Windows-part2）-dll动态库和jar包
+http://blog.csdn.net/ywl5320/article/details/78324601
+* Android增量更新（三）-差分文件（Linux）-生成jar和.so库
+http://blog.csdn.net/ywl5320/article/details/78329205
+* Android增量更新（四）-客户端合并差分包生成新的apk安装包
+http://blog.csdn.net/ywl5320/article/details/78338149
 ## Android 高级混淆和代码保护技术
 * Android 高级混淆和代码保护技术
 https://juejin.im/post/596eae75518825413c1f1bfa?utm_source=gold_browser_extension
