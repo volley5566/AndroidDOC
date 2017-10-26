@@ -1,5 +1,18 @@
 # Kotlin 学习资源
 
+## Kotlin知识梳理
+* Kotlin 知识梳理(1) - Kotlin 基础
+http://www.jianshu.com/p/f9e78d6c54bd
+* Kotlin 知识梳理(2) - 函数的定义与调用
+http://www.jianshu.com/p/22b92a506db5
+* Kotlin 知识梳理(3) - 类、对象和接口
+http://www.jianshu.com/p/c2463a6140c5
+* Kotlin 知识梳理(4) - 数据类、类委托 及 object 关键字
+http://www.jianshu.com/p/5f03cb52a040
+* Kotlin 知识梳理(5) - lambda 表达式和成员引用
+http://www.jianshu.com/p/c2463a6140c5
+* Kotlin 知识梳理(6) - Kotlin 的可空性
+http://www.jianshu.com/p/a1a1a79ae4e1
 
 ## Kotlin文档资源
 * Kotlin官方网站
