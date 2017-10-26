@@ -751,7 +751,6 @@ http://mp.weixin.qq.com/s/nuMOLZHsXae81uZ-zhPzfg <br>
 http://blog.csdn.net/u013231041/article/details/75062688 <br>
 https://github.com/kuyue/WeChatPublishImagesDrag
 
-
 * 一个强大的图片压缩算法—近微信压缩机制的Luban
 https://juejin.im/post/59b00d19518825242b039bf1?utm_source=gold_browser_extension  <br>
 https://github.com/Curzibn/Luban
@@ -760,6 +759,12 @@ https://github.com/Curzibn/Luban
 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。简书: http://www.jianshu.com/p/9fe377dd9750
 https://github.com/CarGuo/GSYVideoPlayer
 
+* 安卓直播详细教程（一）-----bilibili开源播放器
+http://blog.csdn.net/github_33304260/article/details/52909504
+* 安卓直播详细教程（二）-----ijkplayer集成及基本使用
+http://blog.csdn.net/github_33304260/article/details/77126761
+* 安卓直播详细教程（三）-----ijkplayer打造个性化控制界面
+http://blog.csdn.net/github_33304260/article/details/78297914
 
 ****
 ****
