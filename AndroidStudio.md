@@ -1,7 +1,10 @@
 # Android Studio 
 
-###  Android Studio 3.0 发行说明
-http://blog.csdn.net/guiying712/article/details/78352062
+###  Android Studio 3.0 
+* http://blog.csdn.net/guiying712/article/details/78352062
+* AndroidStudio3 支持 Java8 了，就问你敢用吗
+https://kymjs.com/code/2017/10/26/01/
+
 
 ###  解决AS第一次打开项目慢的问题
 
