@@ -495,6 +495,13 @@ http://www.jianshu.com/p/b46870bcafc2
 https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247484413&idx=1&sn=a3c9ab8051b7eef4f76d8a4087442205&chksm=e82c3adadf5bb3cc390fa7d7ee0088c07c342e532fcf350ef9d1d27de6c4f3f74d93fc8068cb&mpshare=1&scene=1&srcid=1010LJRBZ4NC6lWE72HVF7zX&key=cf181d33ef94b
 * Android性能优化全方面解析
 http://blog.csdn.net/sw950729/article/details/72124008
+
+* Android中UI性能分析原理
+http://blog.csdn.net/Neacy_Zz/article/details/78354411
+* Android Performance Monitor 性能分析工具
+https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md
+
+
 ## NDK
 * NDK开发基础 <br> http://www.jianshu.com/p/f1b8b97d2ef8
 * NDK探究之旅 <br> http://blog.csdn.net/androidstarjack/article/details/71156474
