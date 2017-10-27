@@ -1,5 +1,14 @@
 # Kotlin 学习资源
 
+* Kotlin 使用 Anko 构建布局的那些事
+http://www.glumes.com/kotlin-anko-usage/
+* Kotlin 函数魔法 - 双冒号
+https://juejin.im/post/59f17e916fb9a0450b659cdb?utm_source=gold_browser_extension
+* Kotlin 函数魔法 - lambda 表达式
+https://juejin.im/post/59f17f07f265da431d3be7f2?utm_source=gold_browser_extension
+
+
+
 ## Kotlin知识梳理
 * Kotlin 知识梳理(1) - Kotlin 基础
 http://www.jianshu.com/p/f9e78d6c54bd
