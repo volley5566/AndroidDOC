@@ -921,3 +921,8 @@ https://bbs.pediy.com/thread-210532.htm
 ## RESTful
 * 深入理解什么是RESTful API ？
 http://www.jianshu.com/p/84568e364ee8
+
+
+## AIDL
+* Android单个app的aidl跨进程调用
+http://blog.csdn.net/adam_ling/article/details/52507048
