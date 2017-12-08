@@ -245,6 +245,8 @@ https://juejin.im/entry/599e6a826fb9a024985f040f?utm_source=gold_browser_extensi
 http://showzeng.itscoder.com/android/2017/08/11/the-imitation-of-the-international-weibo-comment-box.html
 *  Android 自定义View之中国地图热点区域分布
 http://blog.csdn.net/dt235201314/article/details/78133932
+* 自定义Span
+http://www.jianshu.com/p/deb28c22852a
 ## 布局类自定义
 * Android 自定义多状态切换布局，一句代码执行状态切换，自带状态缓存和恢复
 http://www.jianshu.com/p/c61a8b1af340
