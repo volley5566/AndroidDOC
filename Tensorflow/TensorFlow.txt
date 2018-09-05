@@ -1,0 +1,9 @@
+深度学习VS机器学习——到底什么区别
+https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc
+
+图解十大经典机器学习算法入门
+https://blog.csdn.net/jrunw/article/details/79205322
+
+
+tensorflow 1.0专栏
+https://www.cnblogs.com/denny402/tag/tensorflow/

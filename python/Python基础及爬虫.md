@@ -104,6 +104,12 @@ https://sspai.com/post/40669
 * 鹅厂分享会丨如何轻松爬取网页数据？
 https://mp.weixin.qq.com/s/gPw-Dc-MxlssyVu3jub5vA
 
+
+
+
+* 如何用Python做词云？
+https://www.jianshu.com/p/e4b24a734ccc
+
 ## MongoDB 
 * Mac下安装MongoDB 及使用教程
 https://segmentfault.com/a/1190000002547229
