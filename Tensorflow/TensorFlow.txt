@@ -7,3 +7,7 @@ https://blog.csdn.net/jrunw/article/details/79205322
 
 tensorflow 1.0专栏
 https://www.cnblogs.com/denny402/tag/tensorflow/
+
+
+机器学习专栏
+https://blog.csdn.net/jiangjunshow
