@@ -13,3 +13,7 @@ https://www.cnblogs.com/denny402/tag/tensorflow/
 https://blog.csdn.net/jiangjunshow
 
 https://blog.csdn.net/jiangjunshow/article/details/77711593
+
+
+导数、微分、偏导数、全微分、方向导数、梯度的定义与关系
+https://blog.csdn.net/czmacd/article/details/81178650
