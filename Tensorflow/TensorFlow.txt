@@ -1,3 +1,6 @@
+基于mtcnn和facenet的实时人脸检测与识别系统开发
+https://zhuanlan.zhihu.com/p/25025596
+
 深度学习VS机器学习——到底什么区别
 https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc
 
