@@ -42,6 +42,12 @@ https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82731488
 PaddlePaddle  百度机器学习平台
 http://www.paddlepaddle.org/
 
+百度机器学习 BML
+https://cloud.baidu.com/product/bml.html
+
+百度深度学习
+https://cloud.baidu.com/product/bdl.html
+
 
 【TensorFlow】Windows10 64 位下安装 TensorFlow - 官方原生支持
 https://blog.csdn.net/u010099080/article/details/53418159
