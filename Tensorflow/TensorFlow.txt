@@ -35,3 +35,7 @@ https://me.csdn.net/AdamShan
 https://blog.csdn.net/hy13684802853/article/details/80589182
 
 
+喜大普奔！TensorFlow终于支持A卡了
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82731488
+
+
