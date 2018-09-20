@@ -1,3 +1,20 @@
+
+Keras|基于深度学习的人脸表情识别系统
+https://blog.csdn.net/shillyshally/article/details/80912854
+
+Tensorflow实现卷积神经网络，用于人脸关键点识别
+https://blog.csdn.net/thriving_fcl/article/details/50909109
+
+tensorflow机器学习之利用CNN卷积神经网络进行面部表情识别的实例代码
+https://blog.csdn.net/sqh4587/article/details/74507010
+
+手把手教你用深度学习检测面部特征
+http://www.360doc.com/content/17/0901/20/16619343_684000038.shtml
+
+
+深度学习面部特征学习
+http://www.360doc.com/content/17/0901/20/16619343_684000038.shtml
+
 基于mtcnn和facenet的实时人脸检测与识别系统开发
 https://zhuanlan.zhihu.com/p/25025596
 
