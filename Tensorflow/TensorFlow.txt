@@ -3,6 +3,12 @@ https://www.jianshu.com/p/863ee9beef18
 Win10下用Anaconda安装TensorFlow
 https://blog.csdn.net/u010858605/article/details/64128466
 
+OpenCV+TensorFlow 入门人工智能图像处理
+https://www.jianshu.com/nb/23766728
+
+Tensorflow Lite之Android实践
+https://blog.csdn.net/wu__di/article/details/78570303
+
 
 人脸检测发展：从VJ到深度学习（上）
 https://www.leiphone.com/news/201608/MPXlWtGaJLPYL7NB.html?type=preview
