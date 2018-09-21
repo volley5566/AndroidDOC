@@ -1,4 +1,24 @@
 
+
+Win10下用Anaconda安装TensorFlow
+https://blog.csdn.net/u010858605/article/details/64128466
+
+
+
+
+
+
+人脸检测发展：从VJ到深度学习（上）
+https://www.leiphone.com/news/201608/MPXlWtGaJLPYL7NB.html?type=preview
+人脸检测发展：从VJ到深度学习（下）
+https://www.leiphone.com/news/201608/IUpGIV33MWwH0x3Y.html?type=preview
+解密：面部特征点检测的关键技术
+https://www.leiphone.com/news/201608/MFDbG6TghCWDDOHq.html
+
+边框回归(Bounding Box Regression)详解
+https://blog.csdn.net/zijin0802034/article/details/77685438/
+
+
 Keras|基于深度学习的人脸表情识别系统
 https://blog.csdn.net/shillyshally/article/details/80912854
 
