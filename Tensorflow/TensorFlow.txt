@@ -1,3 +1,9 @@
+TensorFlow框架做实时人脸识别小项目（一）
+https://blog.csdn.net/Goerge_L/article/details/80208297
+
+IoT: Win10+Tensorflow+OpenCV+IPCamera 实时视频物体检测
+https://blog.csdn.net/github_38705794/article/details/77776522
+
 opencv+tensorflow+cnn实现人脸识别
 https://www.jianshu.com/p/f4344669c694
 
