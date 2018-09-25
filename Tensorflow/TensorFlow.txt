@@ -1,3 +1,9 @@
+
+
+一款入门级的人脸、视频、文字检测以及识别的项目.
+https://github.com/vipstone/faceai
+
+
 TensorFlow框架做实时人脸识别小项目（一）
 https://blog.csdn.net/Goerge_L/article/details/80208297
 
