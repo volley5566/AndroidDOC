@@ -1,4 +1,10 @@
 
+opencv+mtcnn+facenet+python+tensorflow 实现实时人脸识别
+https://segmentfault.com/a/1190000015917420
+
+使用OpenCV，Python和dlib进行眨眼检测
+https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+
 python+OpenCv+dlib实现人脸68个关键点检测并标注
 
 https://blog.csdn.net/qq_39438636/article/details/79304130
