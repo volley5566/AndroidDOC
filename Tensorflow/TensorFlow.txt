@@ -1,9 +1,32 @@
 
+Openface人脸识别的原理与过程
+https://blog.csdn.net/zzyy0929/article/details/78333441
+
+深度学习是怎么识别人脸的
+属性识别
+https://www.jianshu.com/p/27b0b4a12d89
+
+
+
 opencv+mtcnn+facenet+python+tensorflow 实现实时人脸识别
 https://segmentfault.com/a/1190000015917420
 
+dlib 基于摄像流检测眨眼次数
+https://blog.csdn.net/ctwy291314/article/details/81665328
+
+
+python dlib学习(专题)
+https://blog.csdn.net/column/details/18527.html
+
+使用dlib，OpenCV和Python检测眼睛，鼻子，嘴唇和下巴
+https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+
+使用OpenCV，Python和dlib进行实时面部标志检测
+https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
+
 使用OpenCV，Python和dlib进行眨眼检测
 https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+https://www.jianshu.com/p/d7671274a2aa
 
 python+OpenCv+dlib实现人脸68个关键点检测并标注
 
