@@ -18,6 +18,45 @@ https://blog.csdn.net/ctwy291314/article/details/81665328
 python dlib学习(专题)
 https://blog.csdn.net/column/details/18527.html
 
+
+（重点）
+
+=======================================对象跟踪统计=========================================================================
+
+使用OpenCV进行简单的对象跟踪
+https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+
+OpenCV对象跟踪
+https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/
+
+使用OpenCV跟踪多个对象
+https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/
+
+使用Python的OpenCV人员计数器(重点)
+https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
+
+======================================人脸识别==========================================================================
+
+
+重点开源项目Openface
+https://cmusatyalab.github.io/openface/
+
+使用Python，TensorFlow和Keras进行深度学习的macOS
+https://www.pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/
+
+如何构建自定义面部识别数据集
+https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/
+
+使用OpenCV，Python和深度学习进行人脸识别
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+
+面部识别安全性
+https://gurus.pyimagesearch.com/lesson-sample-face-recognition-for-security/
+
+OpenCV人脸识别 （识别出哪个人物姓名）
+https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+
+
 使用dlib，OpenCV和Python检测眼睛，鼻子，嘴唇和下巴
 https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
 
