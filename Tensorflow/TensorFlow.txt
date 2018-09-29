@@ -20,6 +20,69 @@ https://blog.csdn.net/column/details/18527.html
 
 
 （重点）
+主页： https://www.pyimagesearch.com/
+==========================================基础=====================================
+完美的计算机视觉环境：PyCharm，OpenCV和Python虚拟环境
+https://www.pyimagesearch.com/2015/08/17/the-perfect-computer-vision-environment-pycharm-opencv-and-python-virtual-environments/
+
+
+使用Python和OpenCV查找从相机到对象/标记的距离
+https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
+
+使用OpenCV和Python访问Raspberry Pi相机
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+
+使用OpenCV将picamera和cv2.VideoCapture统一到一个类中
+https://www.pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv/
+
+用于物体检测的联合交叉（IoU）
+https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/
+
+Python的梯度下降
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
+
+Python的随机梯度下降（SGD）
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/
+
+=============================特定====================================================
+获得目标：使用Python和OpenCV在无人机和四轴飞行器视频流中查找目标
+https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/
+
+
+使用OpenCV写入视频
+https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
+
+使用OpenCV保存关键事件视频剪辑
+https://www.pyimagesearch.com/2016/02/29/saving-key-event-video-clips-with-opencv/
+
+使用cv2.VideoCapture和OpenCV加快视频文件FPS
+https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/
+
+
+=======================================基本运动检测和跟踪===================================================================
+使用OpenCV测量图像中对象之间的距离
+https://www.pyimagesearch.com/2016/04/04/measuring-distance-between-objects-in-an-image-with-opencv/
+
+使用OpenCV测量图像中对象的大小
+https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+
+使用OpenCV进行球跟踪
+https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+OpenCV跟踪对象移动
+https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/
+
+OpenCV对象跟踪
+https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/
+
+使用OpenCV进行简单的对象跟踪
+https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+
+使用Python和OpenCV进行基本运动检测和跟踪
+https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
+
+使用Raspberry Pi，Python，OpenCV和Dropbox进行家庭监控和运动检测
+https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
+
 
 =======================================对象跟踪统计=========================================================================
 
@@ -35,11 +98,47 @@ https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/
 使用Python的OpenCV人员计数器(重点)
 https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 
+
+行人检测OpenCV
+https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
+
+=======================================疲劳驾驶===============================================================================
+使用OpenCV进行困倦检测
+https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+
+使用OpenCV，Python和dlib进行眨眼检测
+https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+
+使用OpenCV，Python和dlib进行实时面部标志检测
+https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
+
+使用dlib，OpenCV和Python检测眼睛，鼻子，嘴唇和下巴
+https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+
+
+使用OpenCV深入学习Raspberry Pi
+https://www.pyimagesearch.com/2017/10/02/deep-learning-on-the-raspberry-pi-with-opencv/
+
+在Raspberry Pi上优化OpenCV
+https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
+
+
+Raspberry Pi：使用OpenCV进行深度学习对象检测
+https://www.pyimagesearch.com/2017/10/16/raspberry-pi-deep-learning-object-detection-with-opencv/
+
+Raspberry Pi：使用OpenCV和dlib进行面部标志+嗜睡检测
+https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
+
+
+
 ======================================人脸识别==========================================================================
 
 
 重点开源项目Openface
 https://cmusatyalab.github.io/openface/
+
+使用dlib，OpenCV和Python的面部地标
+https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 
 使用Python，TensorFlow和Keras进行深度学习的macOS
 https://www.pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/
@@ -90,6 +189,8 @@ https://www.jianshu.com/p/f4344669c694
 
 教程 | 如何使用Docker、TensorFlow目标检测API和OpenCV实现实时目标检测和视频处理
 https://www.sohu.com/a/228884122_129720
+========================================================================================================
+
 
 人工智能资源总结分享
 https://zhoushuo.net/2018/07/22/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%B5%84%E6%BA%90%E6%80%BB%E7%BB%93%E5%88%86%E4%BA%AB/#more
