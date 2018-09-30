@@ -260,6 +260,8 @@ https://www.pyimagesearch.com/2017/10/16/raspberry-pi-deep-learning-object-detec
 Raspberry Pi：使用OpenCV和dlib进行面部标志+嗜睡检测
 https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
 
+Keras和Raspberry Pi的深度学习
+https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 
 
 
