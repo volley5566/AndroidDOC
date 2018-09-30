@@ -20,6 +20,44 @@ https://blog.csdn.net/column/details/18527.html
 
 
 （重点）
+
+=================================Android移植=========================================
+在android平台编译并使用dlib人脸识别库
+https://blog.csdn.net/u013620235/article/details/78836824
+
+Android Studio NDK + OpenCV2
+https://blog.csdn.net/nia305/article/details/79200014
+
+移植Dlib 到 Android (Dlib + OpenCV2）以及可能会遇到的一些问题
+https://blog.csdn.net/nia305/article/details/79297842
+
+
+Android端的基于OpenCV和Dlib的图片、视频人脸检测和人脸识别 FaceDlibOpencv
+https://github.com/dengly/FaceDlibOpencv
+
+Android下使用jni实现基于opencv与dlib的68关键点检测
+https://blog.csdn.net/u011045727/article/details/73719116
+
+
+Android开发——Android Studio下使用Cmake在NDK环境下移植Dlib库
+https://blog.csdn.net/u012525096/article/details/78950979
+
+
+（重点）
+ dlib-android-app
+ Android应用程序演示dlib-android
+ https://github.com/tzutalin/dlib-android-app
+ 
+ dlib-android
+ 将dlib移植到Android
+ https://github.com/tzutalin/dlib-android
+ 
+
+
+=====================================================================================
+
+
+
 主页： https://www.pyimagesearch.com/
 ==========================================基础=====================================
 完美的计算机视觉环境：PyCharm，OpenCV和Python虚拟环境
@@ -44,6 +82,23 @@ https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
 Python的随机梯度下降（SGD）
 https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =============================特定====================================================
 获得目标：使用Python和OpenCV在无人机和四轴飞行器视频流中查找目标
 https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/
@@ -57,6 +112,26 @@ https://www.pyimagesearch.com/2016/02/29/saving-key-event-video-clips-with-openc
 
 使用cv2.VideoCapture和OpenCV加快视频文件FPS
 https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 =======================================基本运动检测和跟踪===================================================================
@@ -84,6 +159,20 @@ https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-wit
 https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =======================================对象跟踪统计=========================================================================
 
 使用OpenCV进行简单的对象跟踪
@@ -102,19 +191,35 @@ https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 行人检测OpenCV
 https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =======================================疲劳驾驶===============================================================================
 (1)如何安装dlib
 https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
 
-
 (2)
-面向梯度直方图和目标检测
+面向梯度直方图和目标检测   （基于深度学习的实时目标检测和人体行为识别；CVPR2016 作者详细讲解YOLO (目标检测 深度学习)；无人机目标识别跟踪）
 https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
 使用dlib，OpenCV和Python的面部地标
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+OpenCV透明叠加
+https://www.pyimagesearch.com/2016/03/07/transparent-overlays-with-opencv/
 使用OpenCV，Python和dlib进行实时面部标志检测
 https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
-
 
 (3)使用dlib，OpenCV和Python检测眼睛，鼻子，嘴唇和下巴
 https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
@@ -126,6 +231,12 @@ https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
 (5)使用OpenCV进行困倦检测
 https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
+（重点）
+使用OpenCV和Dlib进行人头姿态估计
+https://blog.csdn.net/u012525096/article/details/78348765
+使用OpenCV和Dlib进行头部姿势估计
+https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
+
 
 使用OpenCV，Python和dlib进行实时面部标志检测
 https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
@@ -134,18 +245,37 @@ https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-ope
 https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
 
 
+
+（================移动硬件 树莓派=====================）
+
 使用OpenCV深入学习Raspberry Pi
 https://www.pyimagesearch.com/2017/10/02/deep-learning-on-the-raspberry-pi-with-opencv/
 
 在Raspberry Pi上优化OpenCV
 https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
 
-
 Raspberry Pi：使用OpenCV进行深度学习对象检测
 https://www.pyimagesearch.com/2017/10/16/raspberry-pi-deep-learning-object-detection-with-opencv/
 
 Raspberry Pi：使用OpenCV和dlib进行面部标志+嗜睡检测
 https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
