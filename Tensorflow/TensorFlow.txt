@@ -103,11 +103,29 @@ https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 
 =======================================疲劳驾驶===============================================================================
-使用OpenCV进行困倦检测
+(1)如何安装dlib
+https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
+
+
+(2)
+面向梯度直方图和目标检测
+https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
+使用dlib，OpenCV和Python的面部地标
+https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+使用OpenCV，Python和dlib进行实时面部标志检测
+https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
+
+
+(3)使用dlib，OpenCV和Python检测眼睛，鼻子，嘴唇和下巴
+https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+
+(4)使用OpenCV，Python和dlib进行眨眼检测
+https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+
+
+(5)使用OpenCV进行困倦检测
 https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
-使用OpenCV，Python和dlib进行眨眼检测
-https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
 
 使用OpenCV，Python和dlib进行实时面部标志检测
 https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
