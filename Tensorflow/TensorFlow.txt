@@ -1,85 +1,148 @@
+Pythonå’Œå‘½ä»¤è¡Œçš„ä¸–ç•Œä¸Šæœ€ç®€å•çš„é¢éƒ¨è¯†åˆ«API  face_recognition
+https://github.com/ageitgey/face_recognition
 
-OpenfaceÈËÁ³Ê¶±ğµÄÔ­ÀíÓë¹ı³Ì
+ä½¿ç”¨tensorflow.jsåœ¨æµè§ˆå™¨ä¸­è¿›è¡Œé¢éƒ¨æ£€æµ‹å’Œé¢éƒ¨è¯†åˆ«çš„JavaScript API
+https://github.com/justadudewhohacks/face-api.js
+
+ä½¿ç”¨å¸¦æœ‰keras CNNæ¨¡å‹å’ŒopenCVçš„fer2013 / imdbæ•°æ®é›†è¿›è¡Œå®æ—¶äººè„¸æ£€æµ‹å’Œæƒ…æ„Ÿ/æ€§åˆ«åˆ†ç±»ã€‚
+https://github.com/oarriaga/face_classification
+
+ä½¿ç”¨CNN + TPEæ¼”ç¤ºè¿›è¡Œäººè„¸è¯†åˆ«
+https://github.com/meownoid/face-identification-tpe
+
+ä½¿ç”¨Kerasï¼ŒDlibå’ŒOpenCVè¿›è¡Œæ·±åº¦è¯†åˆ«
+https://github.com/krasserm/face-recognition
+
+
+facenet
+https://github.com/davidsandberg/facenet
+FaceRecognition-tensorflow
+https://github.com/seathiefwang/FaceRecognition-tensorflow
+
+
+å†™ä¸ªç¥ç»ç½‘ç»œï¼Œè®©å¥¹è®¤å¾—æˆ‘`(à¹‘â€¢á´—â€¢à¹‘)(Tensorflow,opencv,dlib,cnn,äººè„¸è¯†åˆ«)
+http://tumumu.cn/2017/05/02/deep-learning-face/
+
+ä½¿ç”¨TensorFlowè¿›è¡Œå¹´é¾„å’Œæ€§åˆ«æ·±åº¦å­¦ä¹ 
+https://github.com/dpressel/rude-carnie
+
+
+Openfaceäººè„¸è¯†åˆ«çš„åŸç†ä¸è¿‡ç¨‹
 https://blog.csdn.net/zzyy0929/article/details/78333441
 
-Éî¶ÈÑ§Ï°ÊÇÔõÃ´Ê¶±ğÈËÁ³µÄ
-ÊôĞÔÊ¶±ğ
+æ·±åº¦å­¦ä¹ æ˜¯æ€ä¹ˆè¯†åˆ«äººè„¸çš„
+å±æ€§è¯†åˆ«
 https://www.jianshu.com/p/27b0b4a12d89
 
 
 
-opencv+mtcnn+facenet+python+tensorflow ÊµÏÖÊµÊ±ÈËÁ³Ê¶±ğ
+opencv+mtcnn+facenet+python+tensorflow å®ç°å®æ—¶äººè„¸è¯†åˆ«
 https://segmentfault.com/a/1190000015917420
 
-dlib »ùÓÚÉãÏñÁ÷¼ì²âÕ£ÑÛ´ÎÊı
+dlib åŸºäºæ‘„åƒæµæ£€æµ‹çœ¨çœ¼æ¬¡æ•°
 https://blog.csdn.net/ctwy291314/article/details/81665328
 
 
-python dlibÑ§Ï°(×¨Ìâ)
+python dlibå­¦ä¹ (ä¸“é¢˜)
 https://blog.csdn.net/column/details/18527.html
 
 
-£¨ÖØµã£©
+ï¼ˆé‡ç‚¹ï¼‰
 
-=================================AndroidÒÆÖ²=========================================
-ÔÚandroidÆ½Ì¨±àÒë²¢Ê¹ÓÃdlibÈËÁ³Ê¶±ğ¿â
+=================================Androidç§»æ¤=========================================
+åœ¨androidå¹³å°ç¼–è¯‘å¹¶ä½¿ç”¨dlibäººè„¸è¯†åˆ«åº“
 https://blog.csdn.net/u013620235/article/details/78836824
 
 Android Studio NDK + OpenCV2
 https://blog.csdn.net/nia305/article/details/79200014
 
-ÒÆÖ²Dlib µ½ Android (Dlib + OpenCV2£©ÒÔ¼°¿ÉÄÜ»áÓöµ½µÄÒ»Ğ©ÎÊÌâ
+ç§»æ¤Dlib åˆ° Android (Dlib + OpenCV2ï¼‰ä»¥åŠå¯èƒ½ä¼šé‡åˆ°çš„ä¸€äº›é—®é¢˜
 https://blog.csdn.net/nia305/article/details/79297842
 
 
-Android¶ËµÄ»ùÓÚOpenCVºÍDlibµÄÍ¼Æ¬¡¢ÊÓÆµÈËÁ³¼ì²âºÍÈËÁ³Ê¶±ğ FaceDlibOpencv
+Androidç«¯çš„åŸºäºOpenCVå’ŒDlibçš„å›¾ç‰‡ã€è§†é¢‘äººè„¸æ£€æµ‹å’Œäººè„¸è¯†åˆ« FaceDlibOpencv
 https://github.com/dengly/FaceDlibOpencv
 
-AndroidÏÂÊ¹ÓÃjniÊµÏÖ»ùÓÚopencvÓëdlibµÄ68¹Ø¼üµã¼ì²â
+Androidä¸‹ä½¿ç”¨jniå®ç°åŸºäºopencvä¸dlibçš„68å…³é”®ç‚¹æ£€æµ‹
 https://blog.csdn.net/u011045727/article/details/73719116
 
 
-Android¿ª·¢¡ª¡ªAndroid StudioÏÂÊ¹ÓÃCmakeÔÚNDK»·¾³ÏÂÒÆÖ²Dlib¿â
+Androidå¼€å‘â€”â€”Android Studioä¸‹ä½¿ç”¨Cmakeåœ¨NDKç¯å¢ƒä¸‹ç§»æ¤Dlibåº“
 https://blog.csdn.net/u012525096/article/details/78950979
 
 
-£¨ÖØµã£©
+ï¼ˆé‡ç‚¹ï¼‰
  dlib-android-app
- AndroidÓ¦ÓÃ³ÌĞòÑİÊ¾dlib-android
+ Androidåº”ç”¨ç¨‹åºæ¼”ç¤ºdlib-android
  https://github.com/tzutalin/dlib-android-app
  
  dlib-android
- ½«dlibÒÆÖ²µ½Android
+ å°†dlibç§»æ¤åˆ°Android
  https://github.com/tzutalin/dlib-android
- 
 
+
+
+
+
+äººè„¸è¯†åˆ«Android App  FaceRecognitionApp
+https://github.com/Lauszus/FaceRecognitionApp
+
+
+é€‚ç”¨äºAndroidåº”ç”¨çš„è„¸éƒ¨æ£€æµ‹ FaceDetector
+ https://github.com/RedApparat/FaceDetector
+
+Fast-Faceï¼šç”¨äºå®æ—¶é¢éƒ¨åœ°æ ‡æ£€æµ‹çš„Androidåº”ç”¨ç¨‹åºã€‚æ‚¨å¯ä»¥åœ¨60mså†…æŸ¥çœ‹æ‚¨çš„åœ°æ ‡ fast-face-android
+https://github.com/gicheonkang/fast-face-android
+
+ä¸€ä¸ªé¡¹ç›®æ¼”ç¤ºä»Cameraæˆ–Imageè¿›è¡Œäººè„¸æ£€æµ‹ï¼Œä½¿ç”¨ç±»media.FaceDetector androidã€‚
+https://github.com/betri28/FaceDetectCamera
+
+
+Face Capture (é‡ç‚¹)
+äººè„¸çš„å§¿åŠ¿æ•æ‰å’Œæ¨¡æ‹Ÿã€‚å®ç°äº†äººè„¸è¯†åˆ«ä»¥åŠäººè„¸ç‰¹å¾ç‚¹çš„æ£€æµ‹ã€‚æ ¹æ®äººè„¸ç‰¹å¾ç‚¹çš„äºŒç»´ä¿¡æ¯ï¼Œè¿˜åŸå‡ºäººè„¸å§¿åŠ¿çš„æ—‹è½¬è§’ã€‚æ§åˆ¶æ¨¡å‹ï¼Œè®©æ¨¡å‹åšå‡ºç›¸åŒçš„å§¿åŠ¿ã€‚
+https://github.com/Li-Shang/faceCapture
+
+
+ä¸€ä¸ªå®æ—¶äººè„¸æ£€æµ‹Androidåº“
+https://github.com/husaynhakeem/android-face-detector
+
+Zeusee äººè„¸å•ç›®é…åˆå‹æ´»ä½“æ£€æµ‹
+https://github.com/zeusees/Zeusee-Face-Anti-spoofing
+
+
+å¼€æºäººè„¸æ´»ä½“æ£€æµ‹Open Source Face Anti-spoofing http://www.zeusee.com
+https://github.com/zeusees/Zeusee-Face-Anti-spoofing
+
+
+ Android-Face-Recognition-with-Deep-Learning-Library
+https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library
 
 =====================================================================================
 
 
 
-Ö÷Ò³£º https://www.pyimagesearch.com/
-==========================================»ù´¡=====================================
-ÍêÃÀµÄ¼ÆËã»úÊÓ¾õ»·¾³£ºPyCharm£¬OpenCVºÍPythonĞéÄâ»·¾³
+ä¸»é¡µï¼š https://www.pyimagesearch.com/
+==========================================åŸºç¡€=====================================
+å®Œç¾çš„è®¡ç®—æœºè§†è§‰ç¯å¢ƒï¼šPyCharmï¼ŒOpenCVå’ŒPythonè™šæ‹Ÿç¯å¢ƒ
 https://www.pyimagesearch.com/2015/08/17/the-perfect-computer-vision-environment-pycharm-opencv-and-python-virtual-environments/
 
 
-Ê¹ÓÃPythonºÍOpenCV²éÕÒ´ÓÏà»úµ½¶ÔÏó/±ê¼ÇµÄ¾àÀë
+ä½¿ç”¨Pythonå’ŒOpenCVæŸ¥æ‰¾ä»ç›¸æœºåˆ°å¯¹è±¡/æ ‡è®°çš„è·ç¦»
 https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
 
-Ê¹ÓÃOpenCVºÍPython·ÃÎÊRaspberry PiÏà»ú
+ä½¿ç”¨OpenCVå’ŒPythonè®¿é—®Raspberry Piç›¸æœº
 https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 
-Ê¹ÓÃOpenCV½«picameraºÍcv2.VideoCaptureÍ³Ò»µ½Ò»¸öÀàÖĞ
+ä½¿ç”¨OpenCVå°†picameraå’Œcv2.VideoCaptureç»Ÿä¸€åˆ°ä¸€ä¸ªç±»ä¸­
 https://www.pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv/
 
-ÓÃÓÚÎïÌå¼ì²âµÄÁªºÏ½»²æ£¨IoU£©
+ç”¨äºç‰©ä½“æ£€æµ‹çš„è”åˆäº¤å‰ï¼ˆIoUï¼‰
 https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/
 
-PythonµÄÌİ¶ÈÏÂ½µ
+Pythonçš„æ¢¯åº¦ä¸‹é™
 https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
 
-PythonµÄËæ»úÌİ¶ÈÏÂ½µ£¨SGD£©
+Pythonçš„éšæœºæ¢¯åº¦ä¸‹é™ï¼ˆSGDï¼‰
 https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/
 
 
@@ -99,18 +162,18 @@ https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-py
 
 
 
-=============================ÌØ¶¨====================================================
-»ñµÃÄ¿±ê£ºÊ¹ÓÃPythonºÍOpenCVÔÚÎŞÈË»úºÍËÄÖá·ÉĞĞÆ÷ÊÓÆµÁ÷ÖĞ²éÕÒÄ¿±ê
+=============================ç‰¹å®š====================================================
+è·å¾—ç›®æ ‡ï¼šä½¿ç”¨Pythonå’ŒOpenCVåœ¨æ— äººæœºå’Œå››è½´é£è¡Œå™¨è§†é¢‘æµä¸­æŸ¥æ‰¾ç›®æ ‡
 https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/
 
 
-Ê¹ÓÃOpenCVĞ´ÈëÊÓÆµ
+ä½¿ç”¨OpenCVå†™å…¥è§†é¢‘
 https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
 
-Ê¹ÓÃOpenCV±£´æ¹Ø¼üÊÂ¼şÊÓÆµ¼ô¼­
+ä½¿ç”¨OpenCVä¿å­˜å…³é”®äº‹ä»¶è§†é¢‘å‰ªè¾‘
 https://www.pyimagesearch.com/2016/02/29/saving-key-event-video-clips-with-opencv/
 
-Ê¹ÓÃcv2.VideoCaptureºÍOpenCV¼Ó¿ìÊÓÆµÎÄ¼şFPS
+ä½¿ç”¨cv2.VideoCaptureå’ŒOpenCVåŠ å¿«è§†é¢‘æ–‡ä»¶FPS
 https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/
 
 
@@ -134,28 +197,28 @@ https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocap
 
 
 
-=======================================»ù±¾ÔË¶¯¼ì²âºÍ¸ú×Ù===================================================================
-Ê¹ÓÃOpenCV²âÁ¿Í¼ÏñÖĞ¶ÔÏóÖ®¼äµÄ¾àÀë
+=======================================åŸºæœ¬è¿åŠ¨æ£€æµ‹å’Œè·Ÿè¸ª===================================================================
+ä½¿ç”¨OpenCVæµ‹é‡å›¾åƒä¸­å¯¹è±¡ä¹‹é—´çš„è·ç¦»
 https://www.pyimagesearch.com/2016/04/04/measuring-distance-between-objects-in-an-image-with-opencv/
 
-Ê¹ÓÃOpenCV²âÁ¿Í¼ÏñÖĞ¶ÔÏóµÄ´óĞ¡
+ä½¿ç”¨OpenCVæµ‹é‡å›¾åƒä¸­å¯¹è±¡çš„å¤§å°
 https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
 
-Ê¹ÓÃOpenCV½øĞĞÇò¸ú×Ù
+ä½¿ç”¨OpenCVè¿›è¡Œçƒè·Ÿè¸ª
 https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
-OpenCV¸ú×Ù¶ÔÏóÒÆ¶¯
+OpenCVè·Ÿè¸ªå¯¹è±¡ç§»åŠ¨
 https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/
 
-OpenCV¶ÔÏó¸ú×Ù
+OpenCVå¯¹è±¡è·Ÿè¸ª
 https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/
 
-Ê¹ÓÃOpenCV½øĞĞ¼òµ¥µÄ¶ÔÏó¸ú×Ù
+ä½¿ç”¨OpenCVè¿›è¡Œç®€å•çš„å¯¹è±¡è·Ÿè¸ª
 https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 
-Ê¹ÓÃPythonºÍOpenCV½øĞĞ»ù±¾ÔË¶¯¼ì²âºÍ¸ú×Ù
+ä½¿ç”¨Pythonå’ŒOpenCVè¿›è¡ŒåŸºæœ¬è¿åŠ¨æ£€æµ‹å’Œè·Ÿè¸ª
 https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 
-Ê¹ÓÃRaspberry Pi£¬Python£¬OpenCVºÍDropbox½øĞĞ¼ÒÍ¥¼à¿ØºÍÔË¶¯¼ì²â
+ä½¿ç”¨Raspberry Piï¼ŒPythonï¼ŒOpenCVå’ŒDropboxè¿›è¡Œå®¶åº­ç›‘æ§å’Œè¿åŠ¨æ£€æµ‹
 https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
 
 
@@ -173,22 +236,22 @@ https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-
 
 
 
-=======================================¶ÔÏó¸ú×ÙÍ³¼Æ=========================================================================
+=======================================å¯¹è±¡è·Ÿè¸ªç»Ÿè®¡=========================================================================
 
-Ê¹ÓÃOpenCV½øĞĞ¼òµ¥µÄ¶ÔÏó¸ú×Ù
+ä½¿ç”¨OpenCVè¿›è¡Œç®€å•çš„å¯¹è±¡è·Ÿè¸ª
 https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 
-OpenCV¶ÔÏó¸ú×Ù
+OpenCVå¯¹è±¡è·Ÿè¸ª
 https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/
 
-Ê¹ÓÃOpenCV¸ú×Ù¶à¸ö¶ÔÏó
+ä½¿ç”¨OpenCVè·Ÿè¸ªå¤šä¸ªå¯¹è±¡
 https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/
 
-Ê¹ÓÃPythonµÄOpenCVÈËÔ±¼ÆÊıÆ÷(ÖØµã)
+ä½¿ç”¨Pythonçš„OpenCVäººå‘˜è®¡æ•°å™¨(é‡ç‚¹)
 https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 
 
-ĞĞÈË¼ì²âOpenCV
+è¡Œäººæ£€æµ‹OpenCV
 https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 
 
@@ -207,60 +270,60 @@ https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 
 
 
-=======================================Æ£ÀÍ¼İÊ»===============================================================================
-(1)ÈçºÎ°²×°dlib
+=======================================ç–²åŠ³é©¾é©¶===============================================================================
+(1)å¦‚ä½•å®‰è£…dlib
 https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
 
 (2)
-ÃæÏòÌİ¶ÈÖ±·½Í¼ºÍÄ¿±ê¼ì²â   £¨»ùÓÚÉî¶ÈÑ§Ï°µÄÊµÊ±Ä¿±ê¼ì²âºÍÈËÌåĞĞÎªÊ¶±ğ£»CVPR2016 ×÷ÕßÏêÏ¸½²½âYOLO (Ä¿±ê¼ì²â Éî¶ÈÑ§Ï°)£»ÎŞÈË»úÄ¿±êÊ¶±ğ¸ú×Ù£©
+é¢å‘æ¢¯åº¦ç›´æ–¹å›¾å’Œç›®æ ‡æ£€æµ‹   ï¼ˆåŸºäºæ·±åº¦å­¦ä¹ çš„å®æ—¶ç›®æ ‡æ£€æµ‹å’Œäººä½“è¡Œä¸ºè¯†åˆ«ï¼›CVPR2016 ä½œè€…è¯¦ç»†è®²è§£YOLO (ç›®æ ‡æ£€æµ‹ æ·±åº¦å­¦ä¹ )ï¼›æ— äººæœºç›®æ ‡è¯†åˆ«è·Ÿè¸ªï¼‰
 https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
-Ê¹ÓÃdlib£¬OpenCVºÍPythonµÄÃæ²¿µØ±ê
+ä½¿ç”¨dlibï¼ŒOpenCVå’ŒPythonçš„é¢éƒ¨åœ°æ ‡
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
-OpenCVÍ¸Ã÷µş¼Ó
+OpenCVé€æ˜å åŠ 
 https://www.pyimagesearch.com/2016/03/07/transparent-overlays-with-opencv/
-Ê¹ÓÃOpenCV£¬PythonºÍdlib½øĞĞÊµÊ±Ãæ²¿±êÖ¾¼ì²â
+ä½¿ç”¨OpenCVï¼ŒPythonå’Œdlibè¿›è¡Œå®æ—¶é¢éƒ¨æ ‡å¿—æ£€æµ‹
 https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
 
-(3)Ê¹ÓÃdlib£¬OpenCVºÍPython¼ì²âÑÛ¾¦£¬±Ç×Ó£¬×ì´½ºÍÏÂ°Í
+(3)ä½¿ç”¨dlibï¼ŒOpenCVå’ŒPythonæ£€æµ‹çœ¼ç›ï¼Œé¼»å­ï¼Œå˜´å”‡å’Œä¸‹å·´
 https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
 
-(4)Ê¹ÓÃOpenCV£¬PythonºÍdlib½øĞĞÕ£ÑÛ¼ì²â
+(4)ä½¿ç”¨OpenCVï¼ŒPythonå’Œdlibè¿›è¡Œçœ¨çœ¼æ£€æµ‹
 https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
 
 
-(5)Ê¹ÓÃOpenCV½øĞĞÀ§¾ë¼ì²â
+(5)ä½¿ç”¨OpenCVè¿›è¡Œå›°å€¦æ£€æµ‹
 https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
-£¨ÖØµã£©
-Ê¹ÓÃOpenCVºÍDlib½øĞĞÈËÍ·×ËÌ¬¹À¼Æ
+ï¼ˆé‡ç‚¹ï¼‰
+ä½¿ç”¨OpenCVå’ŒDlibè¿›è¡Œäººå¤´å§¿æ€ä¼°è®¡
 https://blog.csdn.net/u012525096/article/details/78348765
-Ê¹ÓÃOpenCVºÍDlib½øĞĞÍ·²¿×ËÊÆ¹À¼Æ
+ä½¿ç”¨OpenCVå’ŒDlibè¿›è¡Œå¤´éƒ¨å§¿åŠ¿ä¼°è®¡
 https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
 
 
-Ê¹ÓÃOpenCV£¬PythonºÍdlib½øĞĞÊµÊ±Ãæ²¿±êÖ¾¼ì²â
+ä½¿ç”¨OpenCVï¼ŒPythonå’Œdlibè¿›è¡Œå®æ—¶é¢éƒ¨æ ‡å¿—æ£€æµ‹
 https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
 
-Ê¹ÓÃdlib£¬OpenCVºÍPython¼ì²âÑÛ¾¦£¬±Ç×Ó£¬×ì´½ºÍÏÂ°Í
+ä½¿ç”¨dlibï¼ŒOpenCVå’ŒPythonæ£€æµ‹çœ¼ç›ï¼Œé¼»å­ï¼Œå˜´å”‡å’Œä¸‹å·´
 https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
 
 
 
-£¨================ÒÆ¶¯Ó²¼ş Ê÷İ®ÅÉ=====================£©
+ï¼ˆ================ç§»åŠ¨ç¡¬ä»¶ æ ‘è“æ´¾=====================ï¼‰
 
-Ê¹ÓÃOpenCVÉîÈëÑ§Ï°Raspberry Pi
+ä½¿ç”¨OpenCVæ·±å…¥å­¦ä¹ Raspberry Pi
 https://www.pyimagesearch.com/2017/10/02/deep-learning-on-the-raspberry-pi-with-opencv/
 
-ÔÚRaspberry PiÉÏÓÅ»¯OpenCV
+åœ¨Raspberry Piä¸Šä¼˜åŒ–OpenCV
 https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
 
-Raspberry Pi£ºÊ¹ÓÃOpenCV½øĞĞÉî¶ÈÑ§Ï°¶ÔÏó¼ì²â
+Raspberry Piï¼šä½¿ç”¨OpenCVè¿›è¡Œæ·±åº¦å­¦ä¹ å¯¹è±¡æ£€æµ‹
 https://www.pyimagesearch.com/2017/10/16/raspberry-pi-deep-learning-object-detection-with-opencv/
 
-Raspberry Pi£ºÊ¹ÓÃOpenCVºÍdlib½øĞĞÃæ²¿±êÖ¾+ÊÈË¯¼ì²â
+Raspberry Piï¼šä½¿ç”¨OpenCVå’Œdlibè¿›è¡Œé¢éƒ¨æ ‡å¿—+å—œç¡æ£€æµ‹
 https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
 
-KerasºÍRaspberry PiµÄÉî¶ÈÑ§Ï°
+Keraså’ŒRaspberry Piçš„æ·±åº¦å­¦ä¹ 
 https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 
 
@@ -281,165 +344,165 @@ https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 
 
 
-======================================ÈËÁ³Ê¶±ğ==========================================================================
+======================================äººè„¸è¯†åˆ«==========================================================================
 
 
-ÖØµã¿ªÔ´ÏîÄ¿Openface
+é‡ç‚¹å¼€æºé¡¹ç›®Openface
 https://cmusatyalab.github.io/openface/
 
-Ê¹ÓÃdlib£¬OpenCVºÍPythonµÄÃæ²¿µØ±ê
+ä½¿ç”¨dlibï¼ŒOpenCVå’ŒPythonçš„é¢éƒ¨åœ°æ ‡
 https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 
-Ê¹ÓÃPython£¬TensorFlowºÍKeras½øĞĞÉî¶ÈÑ§Ï°µÄmacOS
+ä½¿ç”¨Pythonï¼ŒTensorFlowå’ŒKerasè¿›è¡Œæ·±åº¦å­¦ä¹ çš„macOS
 https://www.pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/
 
-ÈçºÎ¹¹½¨×Ô¶¨ÒåÃæ²¿Ê¶±ğÊı¾İ¼¯
+å¦‚ä½•æ„å»ºè‡ªå®šä¹‰é¢éƒ¨è¯†åˆ«æ•°æ®é›†
 https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/
 
-Ê¹ÓÃOpenCV£¬PythonºÍÉî¶ÈÑ§Ï°½øĞĞÈËÁ³Ê¶±ğ
+ä½¿ç”¨OpenCVï¼ŒPythonå’Œæ·±åº¦å­¦ä¹ è¿›è¡Œäººè„¸è¯†åˆ«
 https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
 
-Ãæ²¿Ê¶±ğ°²È«ĞÔ
+é¢éƒ¨è¯†åˆ«å®‰å…¨æ€§
 https://gurus.pyimagesearch.com/lesson-sample-face-recognition-for-security/
 
-OpenCVÈËÁ³Ê¶±ğ £¨Ê¶±ğ³öÄÄ¸öÈËÎïĞÕÃû£©
+OpenCVäººè„¸è¯†åˆ« ï¼ˆè¯†åˆ«å‡ºå“ªä¸ªäººç‰©å§“åï¼‰
 https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 
 
-Ê¹ÓÃdlib£¬OpenCVºÍPython¼ì²âÑÛ¾¦£¬±Ç×Ó£¬×ì´½ºÍÏÂ°Í
+ä½¿ç”¨dlibï¼ŒOpenCVå’ŒPythonæ£€æµ‹çœ¼ç›ï¼Œé¼»å­ï¼Œå˜´å”‡å’Œä¸‹å·´
 https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
 
-Ê¹ÓÃOpenCV£¬PythonºÍdlib½øĞĞÊµÊ±Ãæ²¿±êÖ¾¼ì²â
+ä½¿ç”¨OpenCVï¼ŒPythonå’Œdlibè¿›è¡Œå®æ—¶é¢éƒ¨æ ‡å¿—æ£€æµ‹
 https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
 
-Ê¹ÓÃOpenCV£¬PythonºÍdlib½øĞĞÕ£ÑÛ¼ì²â
+ä½¿ç”¨OpenCVï¼ŒPythonå’Œdlibè¿›è¡Œçœ¨çœ¼æ£€æµ‹
 https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
 https://www.jianshu.com/p/d7671274a2aa
 
-python+OpenCv+dlibÊµÏÖÈËÁ³68¸ö¹Ø¼üµã¼ì²â²¢±ê×¢
+python+OpenCv+dlibå®ç°äººè„¸68ä¸ªå…³é”®ç‚¹æ£€æµ‹å¹¶æ ‡æ³¨
 
 https://blog.csdn.net/qq_39438636/article/details/79304130
 
 
 
-Ò»¿îÈëÃÅ¼¶µÄÈËÁ³¡¢ÊÓÆµ¡¢ÎÄ×Ö¼ì²âÒÔ¼°Ê¶±ğµÄÏîÄ¿.
+ä¸€æ¬¾å…¥é—¨çº§çš„äººè„¸ã€è§†é¢‘ã€æ–‡å­—æ£€æµ‹ä»¥åŠè¯†åˆ«çš„é¡¹ç›®.
 https://github.com/vipstone/faceai
 
 https://www.cnblogs.com/vipstone/
 
 
-TensorFlow¿ò¼Ü×öÊµÊ±ÈËÁ³Ê¶±ğĞ¡ÏîÄ¿£¨Ò»£©
+TensorFlowæ¡†æ¶åšå®æ—¶äººè„¸è¯†åˆ«å°é¡¹ç›®ï¼ˆä¸€ï¼‰
 https://blog.csdn.net/Goerge_L/article/details/80208297
 
-IoT: Win10+Tensorflow+OpenCV+IPCamera ÊµÊ±ÊÓÆµÎïÌå¼ì²â
+IoT: Win10+Tensorflow+OpenCV+IPCamera å®æ—¶è§†é¢‘ç‰©ä½“æ£€æµ‹
 https://blog.csdn.net/github_38705794/article/details/77776522
 
-opencv+tensorflow+cnnÊµÏÖÈËÁ³Ê¶±ğ
+opencv+tensorflow+cnnå®ç°äººè„¸è¯†åˆ«
 https://www.jianshu.com/p/f4344669c694
 
-½Ì³Ì | ÈçºÎÊ¹ÓÃDocker¡¢TensorFlowÄ¿±ê¼ì²âAPIºÍOpenCVÊµÏÖÊµÊ±Ä¿±ê¼ì²âºÍÊÓÆµ´¦Àí
+æ•™ç¨‹ | å¦‚ä½•ä½¿ç”¨Dockerã€TensorFlowç›®æ ‡æ£€æµ‹APIå’ŒOpenCVå®ç°å®æ—¶ç›®æ ‡æ£€æµ‹å’Œè§†é¢‘å¤„ç†
 https://www.sohu.com/a/228884122_129720
 ========================================================================================================
 
 
-ÈË¹¤ÖÇÄÜ×ÊÔ´×Ü½á·ÖÏí
+äººå·¥æ™ºèƒ½èµ„æºæ€»ç»“åˆ†äº«
 https://zhoushuo.net/2018/07/22/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%B5%84%E6%BA%90%E6%80%BB%E7%BB%93%E5%88%86%E4%BA%AB/#more
 
 
 mac 
 https://www.jianshu.com/p/863ee9beef18
-Win10ÏÂÓÃAnaconda°²×°TensorFlow
+Win10ä¸‹ç”¨Anacondaå®‰è£…TensorFlow
 https://blog.csdn.net/u010858605/article/details/64128466
 
-OpenCV+TensorFlow ÈëÃÅÈË¹¤ÖÇÄÜÍ¼Ïñ´¦Àí
+OpenCV+TensorFlow å…¥é—¨äººå·¥æ™ºèƒ½å›¾åƒå¤„ç†
 https://www.jianshu.com/nb/23766728
 
-Tensorflow LiteÖ®AndroidÊµ¼ù
+Tensorflow Liteä¹‹Androidå®è·µ
 https://blog.csdn.net/wu__di/article/details/78570303
 
 
-ÈËÁ³¼ì²â·¢Õ¹£º´ÓVJµ½Éî¶ÈÑ§Ï°£¨ÉÏ£©
+äººè„¸æ£€æµ‹å‘å±•ï¼šä»VJåˆ°æ·±åº¦å­¦ä¹ ï¼ˆä¸Šï¼‰
 https://www.leiphone.com/news/201608/MPXlWtGaJLPYL7NB.html?type=preview
-ÈËÁ³¼ì²â·¢Õ¹£º´ÓVJµ½Éî¶ÈÑ§Ï°£¨ÏÂ£©
+äººè„¸æ£€æµ‹å‘å±•ï¼šä»VJåˆ°æ·±åº¦å­¦ä¹ ï¼ˆä¸‹ï¼‰
 https://www.leiphone.com/news/201608/IUpGIV33MWwH0x3Y.html?type=preview
-½âÃÜ£ºÃæ²¿ÌØÕ÷µã¼ì²âµÄ¹Ø¼ü¼¼Êõ
+è§£å¯†ï¼šé¢éƒ¨ç‰¹å¾ç‚¹æ£€æµ‹çš„å…³é”®æŠ€æœ¯
 https://www.leiphone.com/news/201608/MFDbG6TghCWDDOHq.html
 
-±ß¿ò»Ø¹é(Bounding Box Regression)Ïê½â
+è¾¹æ¡†å›å½’(Bounding Box Regression)è¯¦è§£
 https://blog.csdn.net/zijin0802034/article/details/77685438/
 
 
-Keras|»ùÓÚÉî¶ÈÑ§Ï°µÄÈËÁ³±íÇéÊ¶±ğÏµÍ³
+Keras|åŸºäºæ·±åº¦å­¦ä¹ çš„äººè„¸è¡¨æƒ…è¯†åˆ«ç³»ç»Ÿ
 https://blog.csdn.net/shillyshally/article/details/80912854
 
-TensorflowÊµÏÖ¾í»ıÉñ¾­ÍøÂç£¬ÓÃÓÚÈËÁ³¹Ø¼üµãÊ¶±ğ
+Tensorflowå®ç°å·ç§¯ç¥ç»ç½‘ç»œï¼Œç”¨äºäººè„¸å…³é”®ç‚¹è¯†åˆ«
 https://blog.csdn.net/thriving_fcl/article/details/50909109
 
-tensorflow»úÆ÷Ñ§Ï°Ö®ÀûÓÃCNN¾í»ıÉñ¾­ÍøÂç½øĞĞÃæ²¿±íÇéÊ¶±ğµÄÊµÀı´úÂë
+tensorflowæœºå™¨å­¦ä¹ ä¹‹åˆ©ç”¨CNNå·ç§¯ç¥ç»ç½‘ç»œè¿›è¡Œé¢éƒ¨è¡¨æƒ…è¯†åˆ«çš„å®ä¾‹ä»£ç 
 https://blog.csdn.net/sqh4587/article/details/74507010
 
-ÊÖ°ÑÊÖ½ÌÄãÓÃÉî¶ÈÑ§Ï°¼ì²âÃæ²¿ÌØÕ÷
+æ‰‹æŠŠæ‰‹æ•™ä½ ç”¨æ·±åº¦å­¦ä¹ æ£€æµ‹é¢éƒ¨ç‰¹å¾
 http://www.360doc.com/content/17/0901/20/16619343_684000038.shtml
 
 
-Éî¶ÈÑ§Ï°Ãæ²¿ÌØÕ÷Ñ§Ï°
+æ·±åº¦å­¦ä¹ é¢éƒ¨ç‰¹å¾å­¦ä¹ 
 http://www.360doc.com/content/17/0901/20/16619343_684000038.shtml
 
-»ùÓÚmtcnnºÍfacenetµÄÊµÊ±ÈËÁ³¼ì²âÓëÊ¶±ğÏµÍ³¿ª·¢
+åŸºäºmtcnnå’Œfacenetçš„å®æ—¶äººè„¸æ£€æµ‹ä¸è¯†åˆ«ç³»ç»Ÿå¼€å‘
 https://zhuanlan.zhihu.com/p/25025596
 
-Éî¶ÈÑ§Ï°VS»úÆ÷Ñ§Ï°¡ª¡ªµ½µ×Ê²Ã´Çø±ğ
+æ·±åº¦å­¦ä¹ VSæœºå™¨å­¦ä¹ â€”â€”åˆ°åº•ä»€ä¹ˆåŒºåˆ«
 https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc
 
-Í¼½âÊ®´ó¾­µä»úÆ÷Ñ§Ï°Ëã·¨ÈëÃÅ
+å›¾è§£åå¤§ç»å…¸æœºå™¨å­¦ä¹ ç®—æ³•å…¥é—¨
 https://blog.csdn.net/jrunw/article/details/79205322
 
 
-tensorflow 1.0×¨À¸
+tensorflow 1.0ä¸“æ 
 https://www.cnblogs.com/denny402/tag/tensorflow/
 
 
-»úÆ÷Ñ§Ï°×¨À¸
+æœºå™¨å­¦ä¹ ä¸“æ 
 https://blog.csdn.net/jiangjunshow
 
 https://blog.csdn.net/jiangjunshow/article/details/77711593
 
 
-µ¼Êı¡¢Î¢·Ö¡¢Æ«µ¼Êı¡¢È«Î¢·Ö¡¢·½Ïòµ¼Êı¡¢Ìİ¶ÈµÄ¶¨ÒåÓë¹ØÏµ
+å¯¼æ•°ã€å¾®åˆ†ã€åå¯¼æ•°ã€å…¨å¾®åˆ†ã€æ–¹å‘å¯¼æ•°ã€æ¢¯åº¦çš„å®šä¹‰ä¸å…³ç³»
 https://blog.csdn.net/czmacd/article/details/81178650
 
 
-Éî¶ÈÑ§Ï°ÄÚÈİ
+æ·±åº¦å­¦ä¹ å†…å®¹
 https://blog.csdn.net/Julialove102123
 https://blog.csdn.net/jiangjunshow
 
 
-ÈË¹¤ÖÇÄÜ½Ì³Ì - Ä¿Â¼
+äººå·¥æ™ºèƒ½æ•™ç¨‹ - ç›®å½•
 https://blog.csdn.net/jiangjunshow/article/details/77711593#comments
 
-ÎŞÈË¼İÊ»Æû³µÏµÍ³ÈëÃÅ
+æ— äººé©¾é©¶æ±½è½¦ç³»ç»Ÿå…¥é—¨
 https://me.csdn.net/AdamShan
 
 
-ÏßĞÔ»Ø¹éÓÚÂß¼­»Ø¹éµÄÇø±ğ
+çº¿æ€§å›å½’äºé€»è¾‘å›å½’çš„åŒºåˆ«
 https://blog.csdn.net/hy13684802853/article/details/80589182
 
 
-Ï²´óÆÕ±¼£¡TensorFlowÖÕÓÚÖ§³ÖA¿¨ÁË
+å–œå¤§æ™®å¥”ï¼TensorFlowç»ˆäºæ”¯æŒAå¡äº†
 https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82731488
 
 
-PaddlePaddle  °Ù¶È»úÆ÷Ñ§Ï°Æ½Ì¨
+PaddlePaddle  ç™¾åº¦æœºå™¨å­¦ä¹ å¹³å°
 http://www.paddlepaddle.org/
 
-°Ù¶È»úÆ÷Ñ§Ï° BML
+ç™¾åº¦æœºå™¨å­¦ä¹  BML
 https://cloud.baidu.com/product/bml.html
 
-°Ù¶ÈÉî¶ÈÑ§Ï°
+ç™¾åº¦æ·±åº¦å­¦ä¹ 
 https://cloud.baidu.com/product/bdl.html
 
 
-¡¾TensorFlow¡¿Windows10 64 Î»ÏÂ°²×° TensorFlow - ¹Ù·½Ô­ÉúÖ§³Ö
+ã€TensorFlowã€‘Windows10 64 ä½ä¸‹å®‰è£… TensorFlow - å®˜æ–¹åŸç”Ÿæ”¯æŒ
 https://blog.csdn.net/u010099080/article/details/53418159
 
 
