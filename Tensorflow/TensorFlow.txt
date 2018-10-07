@@ -1,3 +1,13 @@
+
+
+
+吴恩达机器学习 和 深度学习内容
+https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/80054762
+
+
+==========================================================
+
+
 Python和命令行的世界上最简单的面部识别API  face_recognition
 https://github.com/ageitgey/face_recognition
 
@@ -50,6 +60,69 @@ https://blog.csdn.net/column/details/18527.html
 （重点）
 
 =================================Android移植=========================================
+Android 平台进行人脸检测的几种方案
+https://github.com/lchad/AndroidFaceDetection
+
+
+
+===================================================
+Reatime Face Recognizer on Android  可运行
+face-recognizer-android
+https://github.com/pillarpond/face-recognizer-android
+
+
+
+Face Capture (重点)   可运行
+人脸的姿势捕捉和模拟。实现了人脸识别以及人脸特征点的检测。根据人脸特征点的二维信息，还原出人脸姿势的旋转角。控制模型，让模型做出相同的姿势。
+https://github.com/Li-Shang/faceCapture
+
+
+=======================================
+Tensorflow Lite初探
+https://blog.csdn.net/qq_35559358/article/details/79428963
+
+Tensorflow Lite之Android实践
+https://blog.csdn.net/wu__di/article/details/78570303
+
+TF标准模型TensorFlow Mobile for Android
+https://blog.csdn.net/leifengpeng/article/details/78754405
+
+
+Android_FacialExpressionRecognition
+在Tesorflow上训练神经网络模型后，基于该神经网络模型和opencv在Android上实现了面部表情识别
+https://github.com/A1exy/Android_FacialExpressionRecognition
+
+
+TensorFlowAndroidDemo(z重点)
+https://github.com/yuxitong/TensorFlowAndroidDemo
+https://github.com/yuxitong/TensorFlowAndroidDemo
+https://www.jianshu.com/p/119a0a4e0096
+
+
+====================opencv=======================
+
+Android Studio 接入OpenCV 3.2.0 并不使用OpenCV_Manager_3.2.0的APK包来进行图像处理
+https://blog.csdn.net/waww116529/article/details/56833114
+
+Android中使用OpenCV检测人脸（Android studio版）android端不需要Manager
+https://blog.csdn.net/qq_35952946/article/details/79036909
+
+关于opencv的人脸识别的Demo配置(android端不需要Manager)
+https://www.jianshu.com/p/3a9f6921e3d7
+
+OpenCVForAndroid
+目标检测&目标追踪&人脸检测&人脸识别 
+https://github.com/kongqw/OpenCVForAndroid
+
+Android使用OpenCV实现「人脸检测」和「人脸识别」
+https://blog.csdn.net/q4878802/article/details/51841793
+
+
+Android使用OpenCV实现「人脸检测」和「人脸识别」
+http://lib.csdn.net/article/opencv/28927
+
+
+=========================================================
 在android平台编译并使用dlib人脸识别库
 https://blog.csdn.net/u013620235/article/details/78836824
 
@@ -69,8 +142,6 @@ https://blog.csdn.net/u011045727/article/details/73719116
 
 Android开发——Android Studio下使用Cmake在NDK环境下移植Dlib库
 https://blog.csdn.net/u012525096/article/details/78950979
-
-
 （重点）
  dlib-android-app
  Android应用程序演示dlib-android
@@ -94,13 +165,26 @@ https://github.com/Lauszus/FaceRecognitionApp
 Fast-Face：用于实时面部地标检测的Android应用程序。您可以在60ms内查看您的地标 fast-face-android
 https://github.com/gicheonkang/fast-face-android
 
+
+=======================FaceDetector android =======================
+（使用的是android 原生类来进行检测）
+Android FaceDetector进行人脸检测
+https://blog.csdn.net/janecer/article/details/79092212
+FaceDetectDemo
+https://github.com/janecer/FaceDetectDemo
+
+
+FaceRecognitionLib 用于计算C ++中特征脸和Fisherfaces的库
+https://github.com/Lauszus/FaceRecognitionLib
+
+Android 人脸检测 非人脸识别
+https://www.jianshu.com/p/08b1bdbf7a20?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
+
 一个项目演示从Camera或Image进行人脸检测，使用类media.FaceDetector android。
 https://github.com/betri28/FaceDetectCamera
 
 
-Face Capture (重点)
-人脸的姿势捕捉和模拟。实现了人脸识别以及人脸特征点的检测。根据人脸特征点的二维信息，还原出人脸姿势的旋转角。控制模型，让模型做出相同的姿势。
-https://github.com/Li-Shang/faceCapture
 
 
 一个实时人脸检测Android库
@@ -345,6 +429,9 @@ https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 
 
 ======================================人脸识别==========================================================================
+opencv+tensorflow+cnn实现人脸识别（身份识别）
+https://www.jianshu.com/p/f4344669c694
+
 
 
 重点开源项目Openface
@@ -397,11 +484,14 @@ https://blog.csdn.net/Goerge_L/article/details/80208297
 IoT: Win10+Tensorflow+OpenCV+IPCamera 实时视频物体检测
 https://blog.csdn.net/github_38705794/article/details/77776522
 
-opencv+tensorflow+cnn实现人脸识别
-https://www.jianshu.com/p/f4344669c694
+
 
 教程 | 如何使用Docker、TensorFlow目标检测API和OpenCV实现实时目标检测和视频处理
 https://www.sohu.com/a/228884122_129720
+
+
+用OpenCV和Dlib进行人脸颜值预测
+https://www.jianshu.com/p/89685ec8e7d6
 ========================================================================================================
 
 
