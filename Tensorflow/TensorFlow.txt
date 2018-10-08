@@ -1,8 +1,31 @@
-
-
+﻿
 
 吴恩达机器学习 和 深度学习内容
 https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/80054762
+
+
+机器学习课程地址：
+  
+  
+https://www.coursera.org/course/ml
+  
+  
+笔记地址：
+  
+  
+http://www.ai-start.com/ml2014/
+  
+  
+深度学习课程地址：
+  
+  
+https://mooc.study.163.com/university/deeplearning_ai#/c
+  
+  
+笔记地址：
+  
+  http://www.ai-start.com/dl2017/
+
 
 
 ==========================================================
