@@ -1,4 +1,4 @@
-二分类(Binary Classification)
+﻿二分类(Binary Classification)
 
 
 
@@ -44,8 +44,10 @@ L成本函数 =  单个样本的损失函数之和  / M
 ( L成本函数 =  单个样本的损失函数之和  / M)   计算各个修正值后 需要 for循环遍历所有样本的 成本函数  ，如果数据量巨大的话 就会出现问题
 
 
+所以引出：
 
- 
+
+ 向量化(Vectorization)  向量化是非常基础的去除代码中for循环的艺术
  
  
  
@@ -55,6 +57,54 @@ L成本函数 =  单个样本的损失函数之和  / M
 (1)前向暂停(forward pause)或叫做前向传播(foward propagation)
 
 (2)反向暂停(backward pause) 或叫做反向传播(backward propagation)
+
+
+
+
+
+神经网络的表示（Neural Network Representation）
+
+
+a 代表激活值  ：
+输入层的激活值位  a[0]   
+
+隐藏层的激活值  a[1]    a1[1]  a2[1]....... 不同节点的激活值    
+
+输出层将产生某个数值a，它只是一个单独的实数 y^值将取为 a[2]
+
+
+
+
+隐藏层 ：拥有W  和  b  参数   w[1]b[1]  w 4*3  b 4*1
+输出层： 拥有w  和  b  参数   w[2]b[2]  w 1*4  b 1*1
+
+
+
+
+计算一个神经网络的输出（Computing a Neural Network's output）
+x表示输入特征，
+a表示每个神经元的输出，
+W表示特征的权重，
+上标表示神经网络的层数（隐藏层为1），
+下标表示该层的第几个神经元
+
+
+
+
+多样本向量化（Vectorizing across multiple examples）
+
+向量化实现的解释（Justification for vectorized implementation）
+矩阵乘以列向量得到列向量
+
+
+
+
+ 
+
+
+
+
+
 
 
 

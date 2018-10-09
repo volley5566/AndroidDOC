@@ -27,7 +27,25 @@ https://mooc.study.163.com/university/deeplearning_ai#/c
   http://www.ai-start.com/dl2017/
 
 
+=====================姿态估计=======================================
+TF-姿态估计
+https://github.com/ildoonet/tf-pose-estimation
 
+PoseEstimationForMobile  （可运行）
+https://github.com/edvardHua/PoseEstimationForMobile
+
+hand_finger_recognition_android
+https://github.com/h3ct0r/hand_finger_recognition_android
+
+监督下降法应用于面部对齐和线性回归的头部姿态估计。它是跨平台的，可以在windows，ubuntu中轻松编译，甚至可以在Android和iOS中编译。
+https://github.com/chengzhengxin/sdm
+
+Android原生应用程序，使用来自前置摄像头的图像执行头部姿势估计。
+https://github.com/beraldofilippo/android-hpe
+
+
+hand_finger_recognition_android
+https://github.com/h3ct0r/hand_finger_recognition_android/tree/master/hand-pose-estimation
 ==========================================================
 
 
