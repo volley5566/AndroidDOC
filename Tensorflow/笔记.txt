@@ -1,4 +1,11 @@
-﻿二分类(Binary Classification)
+﻿深度学习 常用符号
+http://www.ai-start.com/dl2017/html/notation.html
+
+
+
+
+
+二分类(Binary Classification)
 
 
 
@@ -95,6 +102,42 @@ W表示特征的权重，
 
 向量化实现的解释（Justification for vectorized implementation）
 矩阵乘以列向量得到列向量
+
+
+
+深层神经网络（Deep L-layer neural network）
+
+
+前向传播和反向传播（Forward and backward propagation）
+
+每一层都有前向传播步骤以及一个相反的反向传播步骤
+
+
+深层网络中的前向传播（Forward propagation in a Deep Network）
+
+核对矩阵的维数（Getting your matrix dimensions right）
+在你做深度神经网络的反向传播时，一定要确认所有的矩阵维数是前后一致的
+
+
+
+
+为什么使用深层表示？（Why deep representations?）
+
+
+深度网络在计算什么：
+如果你在建一个人脸识别或是人脸检测系统，深度神经网络所做的事就是，当你输入一张脸部的照片，
+然后你可以把深度神经网络的第一层，当成一个特征探测器或者边缘探测器。
+
+
+
+偏差，方差（Bias /Variance）
+
+可以看出训练集设置得非常好，而验证集设置相对较差，我们可能过度拟合了训练集，在某种程度上，验证集并没有充分利用交叉验证集的作用，像这种情况，我们称之为“高方差”。
+
+
+
+正则化（Regularization）： 解决正则化
+
 
 
 

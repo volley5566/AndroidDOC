@@ -27,6 +27,14 @@ https://mooc.study.163.com/university/deeplearning_ai#/c
   http://www.ai-start.com/dl2017/
 
 
+====================================================================
+基于TensorFlow的MNIST手写数字识别与Android移植
+https://www.jianshu.com/p/1168384edc1e?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
+
+将TensorFlow训练好的模型迁移到Android APP上（TensorFlowLite）
+https://blog.csdn.net/u012328159/article/details/81101074?utm_source=blogxgwz1
+
 =====================姿态估计=======================================
 TF-姿态估计
 https://github.com/ildoonet/tf-pose-estimation
