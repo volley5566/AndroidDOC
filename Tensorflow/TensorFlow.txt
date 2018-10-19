@@ -407,6 +407,9 @@ https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 (1)如何安装dlib
 https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
 
+dlib 基于摄像流检测眨眼次数
+https://blog.csdn.net/ctwy291314/article/details/81665328
+
 (2)
 面向梯度直方图和目标检测   （基于深度学习的实时目标检测和人体行为识别；CVPR2016 作者详细讲解YOLO (目标检测 深度学习)；无人机目标识别跟踪）
 https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
