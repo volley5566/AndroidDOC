@@ -35,7 +35,18 @@ https://www.jianshu.com/p/1168384edc1e?utm_campaign=maleskine&utm_content=note&u
 将TensorFlow训练好的模型迁移到Android APP上（TensorFlowLite）
 https://blog.csdn.net/u012328159/article/details/81101074?utm_source=blogxgwz1
 
+详解如何将TensorFlow训练的模型移植到Android手机
+https://blog.csdn.net/masa_fish/article/details/56049710
+
+
+基于卷积神经网络的数字手势识别APP（安卓）
+https://github.com/tz28/Chinese-number-gestures-recognition
+
 =====================姿态估计=======================================
+基于手机传感器数据使用 CNN 识别用户行为的 Tensroflow 实现
+https://www.jianshu.com/p/707223b8d319
+
+
 TF-姿态估计
 https://github.com/ildoonet/tf-pose-estimation
 
