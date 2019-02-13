@@ -1,4 +1,37 @@
-﻿
+﻿人工智能产品体系
+https://www.jianshu.com/p/a07519e7ecaf
+AI基础知识 | 基础设施有哪些?
+https://www.jianshu.com/p/8a60a5540478
+AI基础知识 | AI数据哪里来？如何评判数据质量？
+https://www.jianshu.com/p/fce0baa28f47
+AI基础知识 | 机器“大脑”处理过程：理解、推理和决策
+https://www.jianshu.com/p/43c89103f348
+AI基础知识 | 资源配置统筹的关键环节：系统协调
+https://www.jianshu.com/p/02c03012be26
+AI基础知识 | 不可逾越的安全、隐私
+https://www.jianshu.com/p/32ba6faa3e23
+AI基础知识 | 运维管理
+https://www.jianshu.com/p/6f7c91943d67
+
+
+
+AI基础知识 | 什么是机器学习？
+https://www.jianshu.com/p/85f766df46be
+AI基础知识 | 机器学习流程拆解
+https://www.jianshu.com/p/f067de10db09
+AI基础知识 | AI常用算法有哪些?分别有哪些适用场景？
+https://www.jianshu.com/p/170f746b2e06
+AI基础知识 | AI产品经理的工作流程是怎样的？
+https://www.jianshu.com/p/9793fc99352f
+
+
+
+AI基础知识 | 一图看懂人脸识别产业链
+https://www.jianshu.com/p/faaf4986693c
+AI 基础知识 | 谷歌解决计算机回答复杂问题的一个思路
+https://www.jianshu.com/p/4ae655737d5c
+
+
 TensorFlow
 https://tensorflow.google.cn/tutorials/?hl=zh-cn
 
