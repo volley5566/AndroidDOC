@@ -1,4 +1,18 @@
-﻿人工智能产品体系
+﻿Tensorflow 训练过程
+
+手把手教你图片打标
+https://blog.csdn.net/chenmaolin88/article/details/79357502
+
+用TensorFlow训练一个物体检测器（手把手教学版）
+https://blog.csdn.net/chenmaolin88/article/details/79357263
+
+A stand-alone Android app from Tensorflow TF detect with Yolo V2 coco
+https://github.com/nicolefinnie/TFdetect
+
+
+
+
+人工智能产品体系
 https://www.jianshu.com/p/a07519e7ecaf
 AI基础知识 | 基础设施有哪些?
 https://www.jianshu.com/p/8a60a5540478
@@ -28,6 +42,10 @@ https://www.jianshu.com/p/9793fc99352f
 
 AI基础知识 | 一图看懂人脸识别产业链
 https://www.jianshu.com/p/faaf4986693c
+人脸识别长篇研究
+https://www.jianshu.com/p/639e3f8b7253?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
+
 AI 基础知识 | 谷歌解决计算机回答复杂问题的一个思路
 https://www.jianshu.com/p/4ae655737d5c
 
