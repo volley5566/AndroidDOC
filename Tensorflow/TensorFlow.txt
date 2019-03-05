@@ -52,6 +52,10 @@ https://www.bilibili.com/video/av38637646/?spm_id_from=333.788.videocard.1
 https://www.bilibili.com/video/av26140347/?spm_id_from=333.788.videocard.0
 
 
+通俗理解word2vec
+https://www.jianshu.com/p/471d9bfbd72f
+
+
 
 人工智能产品体系
 https://www.jianshu.com/p/a07519e7ecaf
