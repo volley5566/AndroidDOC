@@ -1,4 +1,12 @@
-﻿Tensorflow 训练过程
+﻿深度学习之单目深度估计 (Chapter.1)：基础篇
+
+https://zhuanlan.zhihu.com/p/29864012
+
+
+===========================================================
+
+
+Tensorflow 训练过程
 
 手把手教你图片打标
 https://blog.csdn.net/chenmaolin88/article/details/79357502
@@ -13,7 +21,7 @@ yolo v2 android ok（源码）
 https://blog.csdn.net/wuzuyu365/article/details/71512185
 
 
-
+============================================================
 
 Android JNI(一)——NDK与JNI基础
 https://www.jianshu.com/p/87ce6f565d37
@@ -55,7 +63,7 @@ https://www.bilibili.com/video/av26140347/?spm_id_from=333.788.videocard.0
 通俗理解word2vec
 https://www.jianshu.com/p/471d9bfbd72f
 
-
+======================================================================
 
 人工智能产品体系
 https://www.jianshu.com/p/a07519e7ecaf
