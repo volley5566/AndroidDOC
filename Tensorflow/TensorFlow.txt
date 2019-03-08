@@ -1,4 +1,19 @@
-﻿深度学习之单目深度估计 (Chapter.1)：基础篇
+﻿吴恩达
+http://www.ai-start.com/
+
+
+
+
+
+
+
+求导——链式法则
+https://blog.csdn.net/Neil_001/article/details/81944811
+导数、微分、偏导数、全微分、方向导数、梯度的定义与关系
+https://blog.csdn.net/czmacd/article/details/81178650
+
+
+深度学习之单目深度估计 (Chapter.1)：基础篇
 
 https://zhuanlan.zhihu.com/p/29864012
 
