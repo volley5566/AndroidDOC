@@ -1,6 +1,8 @@
 ﻿吴恩达
 http://www.ai-start.com/
 
+exacity/deeplearningbook-chinese
+https://github.com/exacity/deeplearningbook-chinese
 
 Machine Learning Yearning 中文版
 https://accepteddoge.com/machine-learning-yearning-cn/
