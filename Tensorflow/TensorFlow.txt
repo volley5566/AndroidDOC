@@ -7,6 +7,11 @@ https://github.com/exacity/deeplearningbook-chinese
 Machine Learning Yearning 中文版
 https://accepteddoge.com/machine-learning-yearning-cn/
 
+
+TensorFlow object detection API应用
+http://www.cnblogs.com/zongfa/p/9663649.html
+
+
 阿里云大学
 https://edu.aliyun.com/course/explore/ai?spm=5176.8764728.aliyun-edu-course-header.2.13f75498K3e8uh
 
@@ -17,6 +22,22 @@ https://edu.aliyun.com/course/explore/ai?spm=5176.8764728.aliyun-edu-course-head
 https://blog.csdn.net/Neil_001/article/details/81944811
 导数、微分、偏导数、全微分、方向导数、梯度的定义与关系
 https://blog.csdn.net/czmacd/article/details/81178650
+什么是全导数？
+https://www.zhihu.com/question/26966355/answer/154857139
+如何直观形象的理解方向导数与梯度以及它们之间的关系？
+https://www.zhihu.com/question/36301367
+
+向量基础知识
+https://blog.csdn.net/u010700066/article/details/80931451
+我的机器学习线性代数篇
+https://www.jianshu.com/p/be6683c33b66
+我的机器学习概率论篇
+https://www.jianshu.com/p/8636f182a648
+我的机器学习微积分篇
+https://www.jianshu.com/p/cd7110333d75
+
+机器学习理论篇:机器学习的数学基础
+https://www.cnblogs.com/jialin0421/p/8988824.html
 
 
 深度学习之单目深度估计 (Chapter.1)：基础篇
