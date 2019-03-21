@@ -39,6 +39,10 @@ https://www.jianshu.com/p/cd7110333d75
 机器学习理论篇:机器学习的数学基础
 https://www.cnblogs.com/jialin0421/p/8988824.html
 
+“微积分7天搞定”学习记录
+https://blog.csdn.net/u012067766/article/details/80929951
+
+
 
 深度学习之单目深度估计 (Chapter.1)：基础篇
 

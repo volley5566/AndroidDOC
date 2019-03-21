@@ -1,0 +1,32 @@
+深度学习岗位面试问题整理笔记
+https://zhuanlan.zhihu.com/p/25005808
+
+视觉计算/深度学习/人工智能 笔试面试 汇总（腾讯、网易、yy、美图等）
+https://blog.csdn.net/u014722627/article/details/77938703
+
+
+
+计算机视觉（深度学习）校招记录（三）backward推导(simple)
+https://blog.csdn.net/weixin_41527196/article/details/81450288
+
+
+深度学习面试题
+https://blog.csdn.net/gdmmzmj/article/details/77149643
+
+
+深度学习笔试、面试题 二
+https://blog.csdn.net/abc_138/article/details/83347236
+
+
+
+面试笔试整理3：深度学习机器学习面试问题准备（必会）
+https://blog.csdn.net/woaidapaopao/article/details/77806273
+
+面试笔试整理4：机器学习面试问题准备（进阶）
+https://blog.csdn.net/woaidapaopao/article/details/77869840
+
+
+
+
+深度学习笔试知识点及面试常考题
+https://blog.csdn.net/yu_tsl/article/details/81557541
