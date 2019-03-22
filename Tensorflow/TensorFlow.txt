@@ -42,6 +42,12 @@ https://www.cnblogs.com/jialin0421/p/8988824.html
 “微积分7天搞定”学习记录
 https://blog.csdn.net/u012067766/article/details/80929951
 
+Win10系统Anaconda+TensorFlow+Keras 环境搭建教程
+https://redstonewill.com/1842/
+
+我整理了 50 页 PPT 来解释 SVM
+https://redstonewill.com/1750/
+
 
 
 深度学习之单目深度估计 (Chapter.1)：基础篇

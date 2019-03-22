@@ -1,3 +1,16 @@
+DeepLearning-500-questions  重点
+https://github.com/scutan90/DeepLearning-500-questions
+
+https://redstonewill.com/category/written-interview/
+
+
+机器学习/深度学习 问题总结及解答_笔经面经_牛客网
+https://www.nowcoder.com/discuss/71482?type=2&order=3&pos=24&page=2
+
+机器学习笔试题解析
+https://zhuanlan.zhihu.com/p/39402112
+
+
 深度学习岗位面试问题整理笔记
 https://zhuanlan.zhihu.com/p/25005808
 
