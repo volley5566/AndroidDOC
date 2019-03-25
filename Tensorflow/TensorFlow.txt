@@ -48,6 +48,12 @@ https://redstonewill.com/1842/
 我整理了 50 页 PPT 来解释 SVM
 https://redstonewill.com/1750/
 
+[机器学习笔记]奇异值分解SVD简介及其在推荐系统中的简单应用
+https://www.cnblogs.com/lzllovesyl/p/5243370.html
+奇异值分解(SVD)原理与在降维中的应用
+https://www.cnblogs.com/pinard/p/6251584.html
+
+
 
 
 深度学习之单目深度估计 (Chapter.1)：基础篇
