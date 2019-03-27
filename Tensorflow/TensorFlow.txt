@@ -16,6 +16,8 @@ http://www.cnblogs.com/zongfa/p/9663649.html
 https://edu.aliyun.com/course/explore/ai?spm=5176.8764728.aliyun-edu-course-header.2.13f75498K3e8uh
 
 
+SVM清晰讲解——线性可分问题  -----------------------------
+https://www.cnblogs.com/fuqia/p/8963429.html
 
 
 求导——链式法则
