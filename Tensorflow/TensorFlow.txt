@@ -18,6 +18,8 @@ https://edu.aliyun.com/course/explore/ai?spm=5176.8764728.aliyun-edu-course-head
 
 SVM清晰讲解——线性可分问题  -----------------------------
 https://www.cnblogs.com/fuqia/p/8963429.html
+第三部分：SMO算法的个人理解 
+https://www.cnblogs.com/xxrxxr/p/7538430.html
 
 
 求导——链式法则
