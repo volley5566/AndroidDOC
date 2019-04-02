@@ -20,6 +20,11 @@ L1正则化与L2正则化的理解
 https://www.cnblogs.com/lliuye/p/9354972.html
 
 
+十分钟学习极大似然估计
+https://endlesslethe.com/easy-to-learn-mle.html
+半小时学习最小二乘法
+https://blog.csdn.net/u011893609/article/details/80016915
+
 
 SVM清晰讲解——线性可分问题  -----------------------------
 https://www.cnblogs.com/fuqia/p/8963429.html
