@@ -1,4 +1,21 @@
-﻿吴恩达
+﻿自动驾驶
+
+自动驾驶
+https://www.cnblogs.com/alantu2018/p/9223974.html
+
+车道检测 zhihu_material   
+https://github.com/feixia586/zhihu_material
+
+
+无人驾驶之车道线检测简易版
+https://blog.csdn.net/Young_Gy/article/details/75194914
+
+
+深度学习：人工智能在自动驾驶中的应用
+https://baijiahao.baidu.com/s?id=1606707037958720590&wfr=spider&for=pc
+
+================================================================================================
+吴恩达
 http://www.ai-start.com/
 
 exacity/deeplearningbook-chinese
