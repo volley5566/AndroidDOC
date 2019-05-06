@@ -1,4 +1,8 @@
-﻿自动驾驶
+﻿机器学习实战——SVD（奇异值分解）
+https://blog.csdn.net/qq_36523839/article/details/82347332
+
+
+自动驾驶
 
 自动驾驶
 https://www.cnblogs.com/alantu2018/p/9223974.html
