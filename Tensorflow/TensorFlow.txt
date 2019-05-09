@@ -2,6 +2,10 @@
 https://blog.csdn.net/qq_36523839/article/details/82347332
 
 
+奇异值分解(SVD)原理与在降维中的应用
+https://www.cnblogs.com/pinard/p/6251584.html
+
+
 自动驾驶
 
 自动驾驶
