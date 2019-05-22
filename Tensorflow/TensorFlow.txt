@@ -11,6 +11,17 @@ https://mp.weixin.qq.com/s?__biz=MzI5NDMzMjY1MA==&mid=2247483935&idx=1&sn=5e1c55
 https://blog.csdn.net/jk123vip/article/details/80591619
 
 
+SVM
+机器学习（支持向量机-SVM）
+https://blog.csdn.net/zoinsung_lee/article/details/78429607
+支持向量机（SVM）从入门到放弃再到掌握
+https://blog.csdn.net/b285795298/article/details/81977271
+机器学习中的线性代数之矩阵求导
+https://blog.csdn.net/u010976453/article/details/54381248
+支持向量机（SVM）入门理解与推导
+https://blog.csdn.net/sinat_20177327/article/details/79729551
+
+
 
 
 机器学习中SVD总结
