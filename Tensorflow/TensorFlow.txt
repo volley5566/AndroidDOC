@@ -1,4 +1,6 @@
-﻿
+﻿Microstrong 公众号
+https://mp.weixin.qq.com/s?__biz=MzI5NDMzMjY1MA==&mid=2247483935&idx=1&sn=5e1c55c764ae3443734b3d6d13a110e9&chksm=ec65339adb12ba8ceb875f2dffd29723d975a61ab9af127b4e00e708f177da4abe4ff2e88a96#rd
+！
 
 
 逻辑回归（Logistic Regression, LR）简介
