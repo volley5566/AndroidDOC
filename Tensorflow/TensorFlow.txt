@@ -1,4 +1,12 @@
 ﻿
+
+
+逻辑回归（Logistic Regression, LR）简介
+https://blog.csdn.net/jk123vip/article/details/80591619
+
+
+
+
 机器学习中SVD总结
 https://mp.weixin.qq.com/s/Dv51K8JETakIKe5dPBAPVg
 
