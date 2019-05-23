@@ -20,8 +20,12 @@ https://blog.csdn.net/b285795298/article/details/81977271
 https://blog.csdn.net/u010976453/article/details/54381248
 支持向量机（SVM）入门理解与推导
 https://blog.csdn.net/sinat_20177327/article/details/79729551
-
-
+支持向量机SVM通俗理解（python代码实现）
+https://blog.csdn.net/csqazwsxedc/article/details/71513197
+机器学习算法与Python实践之（二）支持向量机（SVM）初级
+https://blog.csdn.net/zouxy09/article/details/17291543
+支持向量机通俗导论（理解SVM的三层境界）
+https://blog.csdn.net/v_july_v/article/details/7624837
 
 
 机器学习中SVD总结
