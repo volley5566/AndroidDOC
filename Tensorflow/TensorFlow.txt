@@ -1,4 +1,8 @@
-﻿机器学习算法总结
+﻿莫烦python
+https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/
+
+
+机器学习算法总结
 https://www.cnblogs.com/jiangxinyang/category/1244818.html
 
 
