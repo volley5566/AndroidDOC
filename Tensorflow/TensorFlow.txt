@@ -1,4 +1,10 @@
-﻿莫烦python
+﻿
+
+《机器学习实战》
+https://blog.csdn.net/c406495762/article/category/7029976
+
+
+莫烦python
 https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/
 
 
