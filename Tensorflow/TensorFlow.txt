@@ -2,7 +2,10 @@
 
 《机器学习实战》
 https://blog.csdn.net/c406495762/article/category/7029976
-
+机器学习理论篇:机器学习的数学基础
+https://www.cnblogs.com/jialin0421/p/8988824.html
+机器学习数学基础-线性代数
+https://www.cnblogs.com/jialin0421/p/8988843.html
 
 莫烦python
 https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/
