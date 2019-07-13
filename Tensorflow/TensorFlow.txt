@@ -1,4 +1,11 @@
-﻿【机器学习实战】第15章 大数据与 MapReduce
+Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
+https://blog.csdn.net/bentley2010/article/details/79340827
+
+
+
+
+============================================================
+【机器学习实战】第15章 大数据与 MapReduce
 https://www.jianshu.com/p/5a26041a00f2
 
 实战课程下载：
