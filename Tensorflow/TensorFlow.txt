@@ -1,6 +1,10 @@
-
+﻿
 基于深度学习高性能中文车牌识别
 https://github.com/zeusees/HyperLPR
+
+端到端车牌识别
+https://github.com/sundyCoder/hyperlpr4Android
+
 
 找到思聪王
 https://juejin.im/post/5be3a87de51d45119b4cf416
@@ -21,6 +25,8 @@ https://blog.csdn.net/qq_33547191/article/details/86075275
 Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
 https://blog.csdn.net/bentley2010/article/details/79340827
 
+Word2Vec原理解析
+https://blog.csdn.net/u010159842/article/details/80532507
 
 word2vec原理(一) CBOW与Skip-Gram模型基础
 https://www.cnblogs.com/pinard/p/7160330.html
