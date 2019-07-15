@@ -28,6 +28,10 @@ https://blog.csdn.net/bentley2010/article/details/79340827
 Word2Vec原理解析
 https://blog.csdn.net/u010159842/article/details/80532507
 
+超详细总结之Word2Vec（一）原理推导
+https://blog.csdn.net/yu5064/article/details/79601683
+
+
 word2vec原理(一) CBOW与Skip-Gram模型基础
 https://www.cnblogs.com/pinard/p/7160330.html
 
