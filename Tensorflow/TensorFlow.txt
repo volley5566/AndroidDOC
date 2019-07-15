@@ -1,4 +1,16 @@
-﻿CNN卷积神经网络原理讲解+图片识别应用（附源码）
+
+基于深度学习高性能中文车牌识别
+https://github.com/zeusees/HyperLPR
+
+找到思聪王
+https://juejin.im/post/5be3a87de51d45119b4cf416
+
+CNN网络介绍与实践：王者荣耀英雄图片识别
+https://juejin.im/post/5a28b2225188256e7a06b19b
+
+==============================================================
+
+CNN卷积神经网络原理讲解+图片识别应用（附源码）
 https://blog.csdn.net/kun1280437633/article/details/80817129
 
 
