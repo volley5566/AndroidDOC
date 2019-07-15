@@ -2,7 +2,8 @@
 https://blog.csdn.net/kun1280437633/article/details/80817129
 
 
-
+基于tensorflow的CNN和LSTM文本情感分析对比（附完整代码）
+https://blog.csdn.net/qq_33547191/article/details/86075275
 
 
 Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
