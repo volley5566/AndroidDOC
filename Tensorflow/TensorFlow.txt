@@ -1,9 +1,24 @@
-﻿Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
+﻿CNN卷积神经网络原理讲解+图片识别应用（附源码）
+https://blog.csdn.net/kun1280437633/article/details/80817129
+
+
+
+
+
+Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
 https://blog.csdn.net/bentley2010/article/details/79340827
 
 
 word2vec原理(一) CBOW与Skip-Gram模型基础
 https://www.cnblogs.com/pinard/p/7160330.html
+
+
+基于社交网络分析算法（SNA）的反欺诈（一）
+https://zhuanlan.zhihu.com/p/34405766
+基于社交网络分析算法（SNA）的反欺诈（二）
+https://zhuanlan.zhihu.com/p/34433105
+基于社交网络分析算法（SNA）的反欺诈（三）
+https://zhuanlan.zhihu.com/p/34436303
 
 
 ============================================================
