@@ -1,7 +1,9 @@
-Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
+﻿Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
 https://blog.csdn.net/bentley2010/article/details/79340827
 
 
+word2vec原理(一) CBOW与Skip-Gram模型基础
+https://www.cnblogs.com/pinard/p/7160330.html
 
 
 ============================================================
