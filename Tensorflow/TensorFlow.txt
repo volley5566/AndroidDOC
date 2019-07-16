@@ -1,4 +1,7 @@
-﻿
+AI-NLP-3.Word2Vec实战案例课
+https://blog.csdn.net/hgy413/article/details/81704185
+
+=============================================================
 基于深度学习高性能中文车牌识别
 https://github.com/zeusees/HyperLPR
 
