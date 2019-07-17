@@ -1,4 +1,4 @@
-AI-NLP-3.Word2Vec实战案例课
+﻿AI-NLP-3.Word2Vec实战案例课
 https://blog.csdn.net/hgy413/article/details/81704185
 
 =============================================================
@@ -19,6 +19,19 @@ https://juejin.im/post/5a28b2225188256e7a06b19b
 
 CNN卷积神经网络原理讲解+图片识别应用（附源码）
 https://blog.csdn.net/kun1280437633/article/details/80817129
+========================================================================
+文本挖掘的分词原理
+https://www.cnblogs.com/pinard/p/6677078.html
+中文文本挖掘预处理流程总结
+https://www.cnblogs.com/pinard/p/6744056.html
+word2vec原理(一) CBOW与Skip-Gram模型基础
+https://www.cnblogs.com/pinard/p/7160330.html
+word2vec原理(二) 基于Hierarchical Softmax的模型
+https://www.cnblogs.com/pinard/p/7243513.html
+word2vec原理(三) 基于Negative Sampling的模型
+https://www.cnblogs.com/pinard/p/7249903.html
+用gensim学习word2vec
+https://www.cnblogs.com/pinard/p/7278324.html
 
 
 基于tensorflow的CNN和LSTM文本情感分析对比（附完整代码）
@@ -33,10 +46,6 @@ https://blog.csdn.net/u010159842/article/details/80532507
 
 超详细总结之Word2Vec（一）原理推导
 https://blog.csdn.net/yu5064/article/details/79601683
-
-
-word2vec原理(一) CBOW与Skip-Gram模型基础
-https://www.cnblogs.com/pinard/p/7160330.html
 
 
 基于社交网络分析算法（SNA）的反欺诈（一）
