@@ -5,6 +5,10 @@ https://blog.csdn.net/hgy413/article/details/81704185
 （干货）各大AI竞赛 Top 解决方案开源汇总+大牛经验（Kaggle，Ali，Tencent、JD、KDD Cup...）
 https://blog.csdn.net/dukuku5038/article/details/84195750
 
+
+干货|大神教你如何参加kaggle比赛——根据CT扫描图预测肺癌
+https://yq.aliyun.com/articles/89312
+
 =============================================================
 基于深度学习高性能中文车牌识别
 https://github.com/zeusees/HyperLPR
