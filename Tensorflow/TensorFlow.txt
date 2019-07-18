@@ -1,5 +1,9 @@
-﻿AI-NLP-3.Word2Vec实战案例课
+AI-NLP-3.Word2Vec实战案例课
 https://blog.csdn.net/hgy413/article/details/81704185
+
+
+（干货）各大AI竞赛 Top 解决方案开源汇总+大牛经验（Kaggle，Ali，Tencent、JD、KDD Cup...）
+https://blog.csdn.net/dukuku5038/article/details/84195750
 
 =============================================================
 基于深度学习高性能中文车牌识别
