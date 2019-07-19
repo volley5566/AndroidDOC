@@ -1,3 +1,10 @@
+【特征工程常用思路】人工智能辅助糖尿病遗传风险预测项目总结【LGB|XGB|神经网络】
+https://blog.csdn.net/qq_25439417/article/details/84099371
+
+手把手丨我们在UCL找到了一个糖尿病数据集，用机器学习预测糖尿病
+https://blog.csdn.net/dzJx2EOtaA24Adr/article/details/78992999
+
+============================================================
 AI-NLP-3.Word2Vec实战案例课
 https://blog.csdn.net/hgy413/article/details/81704185
 
