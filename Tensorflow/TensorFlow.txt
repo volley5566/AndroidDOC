@@ -1,5 +1,15 @@
-Android使用OpenCV实现「人脸检测」和「人脸识别」
-https://blog.csdn.net/u010112268/article/details/80402078
+
+动手学深度学习
+http://zh.d2l.ai/
+
+========================================
+跟着上手树莓派（一）—— 初次上手 & Mac 下刷入 Raspbian Jessie with Pixel
+跟着上手树莓派（二）—— SSH & VNC 连接
+跟着上手树莓派（三）—— 让你的有线音箱从此无拘无束
+https://sspai.com/post/37356
+
+
+
 
 
 =========================================
