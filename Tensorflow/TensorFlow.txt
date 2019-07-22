@@ -1,8 +1,56 @@
+Android使用OpenCV实现「人脸检测」和「人脸识别」
+https://blog.csdn.net/u010112268/article/details/80402078
+
+
+=========================================
+tensorflow入门教程(二十六)人脸识别(上)
+https://blog.csdn.net/rookie_wei/article/details/81676177
+
+
+Tensorflow入门教程(二十九)语音识别(上)
+Tensorflow入门教程(三十)语音识别(中)
+Tensorflow入门教程(三十一)语音识别(下)
+https://blog.csdn.net/rookie_wei/article/details/84527839
+
+
+人体姿态检测
+tensorflow入门教程(四十三)人体姿态检测(一)
+tensorflow入门教程(四十四)人体姿态检测(二)
+tensorflow入门教程(四十六)人体姿态检测(三)
+tensorflow入门教程(四十七)人体姿态检测(四)
+tensorflow入门教程(四十八)人体姿态检测(五)
+tensorflow入门教程(四十九)人体姿态检测(六)
+https://blog.csdn.net/rookie_wei/article/details/90551331
+
+tensorflow入门教程(三十九)语音识别测试代码
+https://blog.csdn.net/rookie_wei/article/details/89721441
+
+OpenCV3入门教程（二）车牌识别
+https://blog.csdn.net/rookie_wei/article/details/83094938
+
+tensorflow入门教程(四十二)ckpt,pb模型的保存,固化和加载操作
+https://blog.csdn.net/rookie_wei/article/details/90546290
+
+
+tensorflow入门教程(三十七)Object Detection API+OpenCV实现动态目标检测
+https://blog.csdn.net/rookie_wei/article/details/87831133
+
+tensorflow入门教程(三十五)facenet源码分析之MTCNN--人脸检测及关键点检测
+https://blog.csdn.net/rookie_wei/article/details/86651369
+
+tensorflow入门教程(三十四)疲劳检测之开眼闭眼识别
+https://blog.csdn.net/rookie_wei/article/details/86537948
+
+
+===========================================================
 【特征工程常用思路】人工智能辅助糖尿病遗传风险预测项目总结【LGB|XGB|神经网络】
 https://blog.csdn.net/qq_25439417/article/details/84099371
 
 手把手丨我们在UCL找到了一个糖尿病数据集，用机器学习预测糖尿病
 https://blog.csdn.net/dzJx2EOtaA24Adr/article/details/78992999
+
+铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
+https://blog.csdn.net/qq_25439417/article/details/82759769
 
 ============================================================
 AI-NLP-3.Word2Vec实战案例课
