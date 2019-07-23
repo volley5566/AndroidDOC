@@ -1,0 +1,39 @@
+
+
+比赛：
+
+各大AI竞赛 Top 解决方案开源汇总+大牛经验（Kaggle，Ali，Tencent、JD、KDD Cup...）
+https://blog.csdn.net/dukuku5038/article/details/84195750
+
+Kaggle，天池 等数据比赛经验总结
+https://blog.csdn.net/qq_24598387/article/details/85113010
+
+
+
+医疗：
+
+基于深度学习的CT图像肺结节自动检测
+https://blog.csdn.net/wsp_1138886114/article/details/81840891
+
+https://blog.csdn.net/wsp_1138886114/article/details/81872555
+
+https://blog.csdn.net/wsp_1138886114/article/details/81874040
+
+https://blog.csdn.net/wsp_1138886114/article/details/81946190
+
+https://blog.csdn.net/wsp_1138886114/article/details/81949925
+
+https://blog.csdn.net/wsp_1138886114/article/details/82346038
+
+https://blog.csdn.net/wsp_1138886114/article/details/81950326
+人工智能辅助糖尿病遗传风险预测项目总结【LGB|XGB|神经网络】
+https://blog.csdn.net/qq_25439417/article/details/84099371
+手把手丨我们在UCL找到了一个糖尿病数据集，用机器学习预测糖尿病
+https://blog.csdn.net/dzJx2EOtaA24Adr/article/details/78992999
+干货|大神教你如何参加kaggle比赛——根据CT扫描图预测肺癌
+https://yq.aliyun.com/articles/89312
+
+
+制造生产：
+铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
+https://blog.csdn.net/qq_25439417/article/details/82759769

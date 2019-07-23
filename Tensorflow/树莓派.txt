@@ -1,0 +1,4 @@
+跟着上手树莓派（一）—— 初次上手 & Mac 下刷入 Raspbian Jessie with Pixel
+跟着上手树莓派（二）—— SSH & VNC 连接
+跟着上手树莓派（三）—— 让你的有线音箱从此无拘无束
+https://sspai.com/post/37356

@@ -1,134 +1,21 @@
 
 动手学深度学习
 http://zh.d2l.ai/
-
-========================================
-跟着上手树莓派（一）—— 初次上手 & Mac 下刷入 Raspbian Jessie with Pixel
-跟着上手树莓派（二）—— SSH & VNC 连接
-跟着上手树莓派（三）—— 让你的有线音箱从此无拘无束
-https://sspai.com/post/37356
-
-
-
-
-
-=========================================
-tensorflow入门教程(二十六)人脸识别(上)
-https://blog.csdn.net/rookie_wei/article/details/81676177
+Jack-Cui
+https://cuijiahua.com
+清华Aminer
+https://www.aminer.cn/
+吴恩达
+http://www.ai-start.com/
+exacity/deeplearningbook-chinese
+https://github.com/exacity/deeplearningbook-chinese
+Machine Learning Yearning 中文版
+https://accepteddoge.com/machine-learning-yearning-cn/
 
 
-Tensorflow入门教程(二十九)语音识别(上)
-Tensorflow入门教程(三十)语音识别(中)
-Tensorflow入门教程(三十一)语音识别(下)
-https://blog.csdn.net/rookie_wei/article/details/84527839
-
-
-人体姿态检测
-tensorflow入门教程(四十三)人体姿态检测(一)
-tensorflow入门教程(四十四)人体姿态检测(二)
-tensorflow入门教程(四十六)人体姿态检测(三)
-tensorflow入门教程(四十七)人体姿态检测(四)
-tensorflow入门教程(四十八)人体姿态检测(五)
-tensorflow入门教程(四十九)人体姿态检测(六)
-https://blog.csdn.net/rookie_wei/article/details/90551331
-
-tensorflow入门教程(三十九)语音识别测试代码
-https://blog.csdn.net/rookie_wei/article/details/89721441
-
-OpenCV3入门教程（二）车牌识别
-https://blog.csdn.net/rookie_wei/article/details/83094938
 
 tensorflow入门教程(四十二)ckpt,pb模型的保存,固化和加载操作
 https://blog.csdn.net/rookie_wei/article/details/90546290
-
-
-tensorflow入门教程(三十七)Object Detection API+OpenCV实现动态目标检测
-https://blog.csdn.net/rookie_wei/article/details/87831133
-
-tensorflow入门教程(三十五)facenet源码分析之MTCNN--人脸检测及关键点检测
-https://blog.csdn.net/rookie_wei/article/details/86651369
-
-tensorflow入门教程(三十四)疲劳检测之开眼闭眼识别
-https://blog.csdn.net/rookie_wei/article/details/86537948
-
-
-===========================================================
-【特征工程常用思路】人工智能辅助糖尿病遗传风险预测项目总结【LGB|XGB|神经网络】
-https://blog.csdn.net/qq_25439417/article/details/84099371
-
-手把手丨我们在UCL找到了一个糖尿病数据集，用机器学习预测糖尿病
-https://blog.csdn.net/dzJx2EOtaA24Adr/article/details/78992999
-
-铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
-https://blog.csdn.net/qq_25439417/article/details/82759769
-
-============================================================
-AI-NLP-3.Word2Vec实战案例课
-https://blog.csdn.net/hgy413/article/details/81704185
-
-
-（干货）各大AI竞赛 Top 解决方案开源汇总+大牛经验（Kaggle，Ali，Tencent、JD、KDD Cup...）
-https://blog.csdn.net/dukuku5038/article/details/84195750
-
-
-干货|大神教你如何参加kaggle比赛——根据CT扫描图预测肺癌
-https://yq.aliyun.com/articles/89312
-
-=============================================================
-基于深度学习高性能中文车牌识别
-https://github.com/zeusees/HyperLPR
-
-端到端车牌识别
-https://github.com/sundyCoder/hyperlpr4Android
-
-
-找到思聪王
-https://juejin.im/post/5be3a87de51d45119b4cf416
-
-CNN网络介绍与实践：王者荣耀英雄图片识别
-https://juejin.im/post/5a28b2225188256e7a06b19b
-
-==============================================================
-
-CNN卷积神经网络原理讲解+图片识别应用（附源码）
-https://blog.csdn.net/kun1280437633/article/details/80817129
-========================================================================
-文本挖掘的分词原理
-https://www.cnblogs.com/pinard/p/6677078.html
-中文文本挖掘预处理流程总结
-https://www.cnblogs.com/pinard/p/6744056.html
-word2vec原理(一) CBOW与Skip-Gram模型基础
-https://www.cnblogs.com/pinard/p/7160330.html
-word2vec原理(二) 基于Hierarchical Softmax的模型
-https://www.cnblogs.com/pinard/p/7243513.html
-word2vec原理(三) 基于Negative Sampling的模型
-https://www.cnblogs.com/pinard/p/7249903.html
-用gensim学习word2vec
-https://www.cnblogs.com/pinard/p/7278324.html
-
-
-基于tensorflow的CNN和LSTM文本情感分析对比（附完整代码）
-https://blog.csdn.net/qq_33547191/article/details/86075275
-
-
-Python数据挖掘-NLTK文本分析+jieba中文文本挖掘
-https://blog.csdn.net/bentley2010/article/details/79340827
-
-Word2Vec原理解析
-https://blog.csdn.net/u010159842/article/details/80532507
-
-超详细总结之Word2Vec（一）原理推导
-https://blog.csdn.net/yu5064/article/details/79601683
-
-
-基于社交网络分析算法（SNA）的反欺诈（一）
-https://zhuanlan.zhihu.com/p/34405766
-基于社交网络分析算法（SNA）的反欺诈（二）
-https://zhuanlan.zhihu.com/p/34433105
-基于社交网络分析算法（SNA）的反欺诈（三）
-https://zhuanlan.zhihu.com/p/34436303
-
-
 ============================================================
 【机器学习实战】第15章 大数据与 MapReduce
 https://www.jianshu.com/p/5a26041a00f2
@@ -187,34 +74,10 @@ https://blog.csdn.net/qq_36523839/article/details/82347332
 https://www.cnblogs.com/pinard/p/6251584.html
 
 
-自动驾驶
 
-自动驾驶
-https://www.cnblogs.com/alantu2018/p/9223974.html
-
-车道检测 zhihu_material   
-https://github.com/feixia586/zhihu_material
-
-
-无人驾驶之车道线检测简易版
-https://blog.csdn.net/Young_Gy/article/details/75194914
-
-
-深度学习：人工智能在自动驾驶中的应用
-https://baijiahao.baidu.com/s?id=1606707037958720590&wfr=spider&for=pc
-
-清华Aminer
-https://www.aminer.cn/
 
 ================================================================================================
-吴恩达
-http://www.ai-start.com/
 
-exacity/deeplearningbook-chinese
-https://github.com/exacity/deeplearningbook-chinese
-
-Machine Learning Yearning 中文版
-https://accepteddoge.com/machine-learning-yearning-cn/
 
 
 TensorFlow object detection API应用
@@ -383,41 +246,6 @@ https://www.jianshu.com/p/639e3f8b7253?utm_campaign=maleskine&utm_content=note&u
 AI 基础知识 | 谷歌解决计算机回答复杂问题的一个思路
 https://www.jianshu.com/p/4ae655737d5c
 
-
-TensorFlow
-https://tensorflow.google.cn/tutorials/?hl=zh-cn
-
-
-
-吴恩达机器学习 和 深度学习内容
-https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/80054762
-
-
-机器学习课程地址：
-  
-  
-https://www.coursera.org/course/ml
-  
-  
-笔记地址：
-  
-  
-http://www.ai-start.com/ml2014/
-  
-  
-深度学习课程地址：
-  
-  
-https://mooc.study.163.com/university/deeplearning_ai#/c
-  
-  
-笔记地址：
-  
-  http://www.ai-start.com/dl2017/
-
-
-Machine Learning Yearning   机器学习训练秘籍
-https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/
 
 ----------------------------------------
 资源 | 来自独秀同学的深度网络数学笔记，还不快收藏？
