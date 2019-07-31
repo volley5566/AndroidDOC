@@ -17,7 +17,47 @@ https://www.jianshu.com/p/0766bcbc2415
 https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi
 
 子豪兄教你在树莓派上安装OpenCV
+https://blog.csdn.net/qq_41822781
 https://www.jianshu.com/p/56929416b4a1
+树莓派上如何安装dlib for python
+https://www.jianshu.com/p/848014d8dea9
+
+
+安装指南：Raspberry Pi 3 + Raspbian Jessie + OpenCV 3
+https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
+使用OpenCV和Python访问Raspberry Pi相机
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+在Raspberry Pi上优化OpenCV
+https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
+在Raspberry Pi上安装dlib
+https://www.pyimagesearch.com/2017/05/01/install-dlib-raspberry-pi/
+Face Recognition 人脸识别
+https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md
+使用OpenCV，Python和深度学习进行人脸识别
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+树莓派 + tensorflow + opencv + 摄像头实现物体检测
+https://blog.csdn.net/weixin_36259888/article/details/83786113
+
+
+
+
+使用Raspberry Pi，Python，OpenCV和Dropbox进行家庭监控和运动检测
+https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
+
+使用OpenCV构建Raspberry Pi安全摄像头
+https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/
+
+Raspberry Pi：使用OpenCV和dlib进行面部地标+嗜睡检测
+https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
+
+
+档案| DLIB
+https://www.pyimagesearch.com/category/dlib/
+....................................../faces/
+....................................../facial-landmarks/
+....................................../tutorials/
+....................................../raspberry-pi/
+
 ------------------------------------------------------
 树莓派3B+ 初次相遇
 https://blog.csdn.net/kxwinxp/article/details/78369467
@@ -173,7 +213,6 @@ https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 
 (1)如何安装dlib
 https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
-
 
 
 
