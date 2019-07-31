@@ -18,8 +18,19 @@ https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi
 
 子豪兄教你在树莓派上安装OpenCV
 https://www.jianshu.com/p/56929416b4a1
+------------------------------------------------------
+树莓派3B+ 初次相遇
+https://blog.csdn.net/kxwinxp/article/details/78369467
+树莓派3B+ 安装系统
+https://blog.csdn.net/kxwinxp/article/details/78370913	
+树莓派3B+ 软件源更改
+https://blog.csdn.net/kxwinxp/article/details/78370980
+树莓派3B+ 挂载储存设备
+https://blog.csdn.net/kxwinxp/article/details/78374481
+树莓派3B+ 安装计算机视觉库（OpenCV_3+OpenCV_Contrib_3）
+https://blog.csdn.net/kxwinxp/article/details/78434211
 
-
+------------------------------------------------------
 基于Python的开源人脸识别库：离线识别率高达99.38%
 https://blog.csdn.net/zchang81/article/details/76251001
 face_recognition(重点)
