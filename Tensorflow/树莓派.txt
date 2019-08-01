@@ -1,4 +1,4 @@
-
+﻿
 https://www.pyimagesearch.com
 
 
@@ -15,6 +15,17 @@ https://www.jianshu.com/p/0766bcbc2415
 
 子豪兄的零基础树莓派教程
 https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi
+
+
+
+远程调试树莓派（PyCharm实现）
+https://blog.csdn.net/crazy_scott/article/details/79233838
+树莓派入门（四）使用pycharm远程调试运行树莓派代码
+https://blog.csdn.net/HappyLin0x29a/article/details/79929213
+使用PyCharm连接树莓派远程编程
+https://www.jianshu.com/p/76f4a1ef6158
+
+
 
 子豪兄教你在树莓派上安装OpenCV
 https://blog.csdn.net/qq_41822781
