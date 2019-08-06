@@ -1,4 +1,4 @@
-﻿
+
 https://www.pyimagesearch.com
 
 
@@ -34,6 +34,10 @@ https://www.jianshu.com/p/56929416b4a1
 https://www.jianshu.com/p/848014d8dea9
 
 
+OpenCV教程，资源和指南
+https://www.pyimagesearch.com/opencv-tutorials-resources-guides/
+
+
 安装指南：Raspberry Pi 3 + Raspbian Jessie + OpenCV 3
 https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 使用OpenCV和Python访问Raspberry Pi相机
@@ -49,6 +53,14 @@ https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and
 树莓派 + tensorflow + opencv + 摄像头实现物体检测
 https://blog.csdn.net/weixin_36259888/article/details/83786113
 
+
+
+使用OpenCV进行深度学习
+https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv/
+使用OpenCV深入学习Raspberry Pi
+https://www.pyimagesearch.com/2017/10/02/deep-learning-on-the-raspberry-pi-with-opencv/
+OpenCV人脸识别 （识别出哪个人物姓名）(重点)
+https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 
 
 
@@ -242,8 +254,6 @@ https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and
 面部识别安全性
 https://gurus.pyimagesearch.com/lesson-sample-face-recognition-for-security/
 
-OpenCV人脸识别 （识别出哪个人物姓名）
-https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 
 
 使用dlib，OpenCV和Python检测眼睛，鼻子，嘴唇和下巴
