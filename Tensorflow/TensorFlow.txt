@@ -1,3 +1,11 @@
+﻿
+18个月自学AI，2年写就三万字长文，过来人教你如何掌握这几个AI基础概念
+https://juejin.im/entry/5d537e1ef265da03963b8f49
+深度学习在高德驾车导航历史速度预测中的探索与实践
+https://juejin.im/post/5d53ac94e51d456201486e1d
+交通量预测——极端情况下的预测算法
+https://juejin.im/post/5d536e95f265da03e3697796
+
 
 动手学深度学习
 http://zh.d2l.ai/
@@ -11,6 +19,10 @@ exacity/deeplearningbook-chinese
 https://github.com/exacity/deeplearningbook-chinese
 Machine Learning Yearning 中文版
 https://accepteddoge.com/machine-learning-yearning-cn/
+
+
+Keras: 基于 Python 的深度学习库
+https://keras.io/zh/
 
 
 
