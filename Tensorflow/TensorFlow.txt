@@ -1,4 +1,9 @@
 ﻿
+
+谷歌机器学习速成课
+https://developers.google.cn/machine-learning/crash-course/ml-intro
+
+
 18个月自学AI，2年写就三万字长文，过来人教你如何掌握这几个AI基础概念
 https://juejin.im/entry/5d537e1ef265da03963b8f49
 深度学习在高德驾车导航历史速度预测中的探索与实践
