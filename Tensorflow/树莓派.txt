@@ -1,3 +1,7 @@
+﻿
+tensorflow入门教程
+https://blog.csdn.net/rookie_wei/article/details/90546290
+
 
 https://www.pyimagesearch.com
 
@@ -76,10 +80,10 @@ https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsines
 
 档案| DLIB
 https://www.pyimagesearch.com/category/dlib/
-....................................../faces/
-....................................../facial-landmarks/
-....................................../tutorials/
-....................................../raspberry-pi/
+https://www.pyimagesearch.com/category/faces/
+https://www.pyimagesearch.com/category/facial-landmarks/
+https://www.pyimagesearch.com/category/tutorials/
+https://www.pyimagesearch.com/category/raspberry-pi/
 
 ------------------------------------------------------
 树莓派3B+ 初次相遇
