@@ -1,4 +1,4 @@
-
+﻿
 
 比赛：
 
@@ -11,6 +11,9 @@ https://blog.csdn.net/qq_24598387/article/details/85113010
 
 
 医疗：
+
+医学影像数据集汇总
+https://blog.csdn.net/qq_21997625/article/details/81054972
 
 基于深度学习的CT图像肺结节自动检测
 https://blog.csdn.net/wsp_1138886114/article/details/81840891
@@ -33,6 +36,13 @@ https://blog.csdn.net/dzJx2EOtaA24Adr/article/details/78992999
 干货|大神教你如何参加kaggle比赛——根据CT扫描图预测肺癌
 https://yq.aliyun.com/articles/89312
 
+
+基于Faster RCNN的医学图像检测（肺结节检测）
+https://blog.csdn.net/dcxhun3/article/details/52920303
+YOLO v3训练自己的数据（肺结节的二分类）
+https://blog.csdn.net/jidushanzhu/article/details/99591371
+利用深度学习对医学CT图像（LIDC-IDRI）中的肺结节进行良恶性判断
+https://blog.csdn.net/bluesliuf/article/details/88900809
 
 制造生产：
 铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
