@@ -1,5 +1,29 @@
+
+【创客实战训练营】树莓派实现机器学习与人脸识别
+https://www.bilibili.com/video/av51409388?from=search&seid=11546510756069844986
+
+树莓派上如何安装dlib for python
+https://www.jianshu.com/p/848014d8dea9
+树莓派搭建Dlib库
+https://blog.csdn.net/qq_18395603/article/details/78558172
 子豪兄教你从零开始实现人脸识别
 https://blog.csdn.net/qq_41822781/article/details/82919185
+子豪兄教你在树莓派上安装OpenCV
+https://www.jianshu.com/p/56929416b4a1
+
+
+Raspberry Pi人脸识别
+https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+
+
+人脸识别之face_recognition:(一)face_recognition资料整理
+https://blog.csdn.net/qq_34458219/article/details/82919374
+人脸识别之face_recognition:(二)face_recognition安装
+https://blog.csdn.net/qq_34458219/article/details/82974523
+人脸识别之face_recognition:(三)face_recognition在树莓派上的提速
+https://blog.csdn.net/qq_34458219/article/details/83041283
+
+
 人工智能小技巧
 https://www.jianshu.com/u/38cccf09b515
 
@@ -9,8 +33,6 @@ https://www.bilibili.com/video/av37690490
 https://blog.csdn.net/soft2buy/article/details/73457474
 
 
-【创客实战训练营】树莓派实现机器学习与人脸识别
-https://www.bilibili.com/video/av51409388?from=search&seid=11546510756069844986
 
 
 创客实战训练营】树莓派与OPENALPR实现智能车牌号识别
