@@ -1,3 +1,9 @@
+子豪兄教你从零开始实现人脸识别
+https://blog.csdn.net/qq_41822781/article/details/82919185
+人工智能小技巧
+https://www.jianshu.com/u/38cccf09b515
+
+
 【NEUQ】树莓派教学-20 树莓派制作动作监控摄像系统
 https://www.bilibili.com/video/av37690490
 https://blog.csdn.net/soft2buy/article/details/73457474
