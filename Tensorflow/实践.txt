@@ -1,0 +1,24 @@
+【NEUQ】树莓派教学-20 树莓派制作动作监控摄像系统
+https://www.bilibili.com/video/av37690490
+https://blog.csdn.net/soft2buy/article/details/73457474
+
+
+【创客实战训练营】树莓派实现机器学习与人脸识别
+https://www.bilibili.com/video/av51409388?from=search&seid=11546510756069844986
+
+
+创客实战训练营】树莓派与OPENALPR实现智能车牌号识别
+https://www.bilibili.com/video/av51448154
+【创客实战训练营】树莓派与PUSHOVER实现智能车牌号识别与推送
+https://www.bilibili.com/video/av51813069
+
+
+
+【创客实战训练营】树莓派安装OpenCV-基于python2与python3
+https://www.bilibili.com/video/av51200785
+【创客实战训练营】树莓派使用OpenCV实现简单人脸识别
+https://www.bilibili.com/video/av51360522
+
+
+Raspberry Pi：使用OpenCV和dlib进行面部地标+嗜睡检测
+https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
