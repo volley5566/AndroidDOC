@@ -1,3 +1,8 @@
+如何通过人工神经网络实现图像识别？
+https://www.zhihu.com/question/27790364
+
+
+
 mlnd_distracted_driver_detection
 https://github.com/omnigeeker/mlnd_distracted_driver_detection
 
