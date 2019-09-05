@@ -1,10 +1,17 @@
 如何通过人工神经网络实现图像识别？
 https://www.zhihu.com/question/27790364
-
-
+基于机器学习人脸识别face recognition具体的算法和原理
+https://www.cnblogs.com/Anita9002/p/7798907.html
 
 mlnd_distracted_driver_detection
 https://github.com/omnigeeker/mlnd_distracted_driver_detection
+
+Raspberry Pi人脸识别
+https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+face_recognition移植至树莓派
+https://blog.csdn.net/u011304078/article/details/85600106
+树莓派安装face_recognition
+https://blog.csdn.net/qq_24968377/article/details/78093343
 
 
 【opencv】树莓派上OpenCV-Face-Recognition人脸识别配置
@@ -29,8 +36,7 @@ https://blog.csdn.net/qq_41822781/article/details/82919185
 https://www.jianshu.com/p/56929416b4a1
 
 
-Raspberry Pi人脸识别
-https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+
 
 
 人脸识别之face_recognition:(一)face_recognition资料整理
