@@ -2,11 +2,20 @@ mlnd_distracted_driver_detection
 https://github.com/omnigeeker/mlnd_distracted_driver_detection
 
 
+【opencv】树莓派上OpenCV-Face-Recognition人脸识别配置
+https://blog.csdn.net/qq_15947787/article/details/80938641
+
 【创客实战训练营】树莓派实现机器学习与人脸识别
 https://www.bilibili.com/video/av51409388?from=search&seid=11546510756069844986
+【创客实战训练营】树莓派使用OpenCV实现简单人脸识别
+https://www.bilibili.com/video/av51360522?from=search&seid=1858976550701896420
 
 树莓派上如何安装dlib for python
 https://www.jianshu.com/p/848014d8dea9
+在Raspberry Pi上安装dlib
+https://www.pyimagesearch.com/2017/05/01/install-dlib-raspberry-pi/
+
+
 树莓派搭建Dlib库
 https://blog.csdn.net/qq_18395603/article/details/78558172
 子豪兄教你从零开始实现人脸识别
