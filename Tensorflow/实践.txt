@@ -14,6 +14,10 @@ https://blog.csdn.net/u011304078/article/details/85600106
 https://blog.csdn.net/qq_24968377/article/details/78093343
 
 
+深度学习模型在抽烟行为检测方面的应用
+https://www.jianshu.com/p/794833699d54?from=timeline&isappinstalled=0
+
+
 【opencv】树莓派上OpenCV-Face-Recognition人脸识别配置
 https://blog.csdn.net/qq_15947787/article/details/80938641
 
