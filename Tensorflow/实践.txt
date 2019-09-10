@@ -1,3 +1,12 @@
+深度学习入门（零）环境搭建（Miniconda）
+https://juejin.im/post/5d695c1d6fb9a06b0f23f86d
+深度学习入门（一）快速建立自己的图片数据集
+https://juejin.im/post/5d66b5f46fb9a06ae57d02bf
+深度学习入门（二）训练并使用Keras模型
+https://juejin.im/post/5d66b6725188257e99442108
+
+
+
 如何通过人工神经网络实现图像识别？
 https://www.zhihu.com/question/27790364
 基于机器学习人脸识别face recognition具体的算法和原理
@@ -55,10 +64,6 @@ https://blog.csdn.net/qq_34458219/article/details/83041283
 https://www.jianshu.com/u/38cccf09b515
 
 
-深度学习入门（一）快速建立自己的图片数据集
-https://juejin.im/post/5d66b5f46fb9a06ae57d02bf
-深度学习入门（二）训练并使用Keras模型
-https://juejin.im/post/5d66b6725188257e99442108
 
 
 
