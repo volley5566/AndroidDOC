@@ -55,6 +55,13 @@ https://blog.csdn.net/qq_34458219/article/details/83041283
 https://www.jianshu.com/u/38cccf09b515
 
 
+深度学习入门（一）快速建立自己的图片数据集
+https://juejin.im/post/5d66b5f46fb9a06ae57d02bf
+深度学习入门（二）训练并使用Keras模型
+https://juejin.im/post/5d66b6725188257e99442108
+
+
+
 【NEUQ】树莓派教学-20 树莓派制作动作监控摄像系统
 https://www.bilibili.com/video/av37690490
 https://blog.csdn.net/soft2buy/article/details/73457474
