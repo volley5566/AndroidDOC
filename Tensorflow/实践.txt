@@ -1,6 +1,20 @@
+基于深度学习的视频检测分类综述（1）
+https://www.jianshu.com/p/45a0f4cdd825
+基于深度学习的视频检测分类综述（2）
+https://www.jianshu.com/p/80c45983e7ab
+基于深度学习的视频检测分类综述（3）
+https://www.jianshu.com/p/89f8946ce685
 
+
+视频深度学习：2018年行动认可指南
+http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review
+作为时空形状的行动
+http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html
 【深度学习】视频行为检测&分类方案整理
 https://www.jianshu.com/p/583c26bbb675
+医疗
+http://qure.ai/
+
 
 https://www.paddlepaddle.org.cn/modelanddataset
 
