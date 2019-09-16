@@ -1,3 +1,7 @@
+独家 | 定制股票交易OpenAI Gym强化学习环境（附代码） 
+http://www.sohu.com/a/307494692_505915
+
+
 深度学习入门（零）环境搭建（Miniconda）
 https://juejin.im/post/5d695c1d6fb9a06b0f23f86d
 深度学习入门（一）快速建立自己的图片数据集
