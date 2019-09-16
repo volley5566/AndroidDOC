@@ -1,4 +1,7 @@
 
+【深度学习】视频行为检测&分类方案整理
+https://www.jianshu.com/p/583c26bbb675
+
 https://www.paddlepaddle.org.cn/modelanddataset
 
 独家 | 定制股票交易OpenAI Gym强化学习环境（附代码） 
