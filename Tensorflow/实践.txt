@@ -1,10 +1,18 @@
+正则化项L1和L2的区别
+https://www.cnblogs.com/lyr2015/p/8718104.html
+
+Temporal Action Detection (时序动作检测)综述
+https://blog.csdn.net/qq_33278461/article/details/80720104
+
+
 基于深度学习的视频检测分类综述（1）
 https://www.jianshu.com/p/45a0f4cdd825
 基于深度学习的视频检测分类综述（2）
 https://www.jianshu.com/p/80c45983e7ab
 基于深度学习的视频检测分类综述（3）
 https://www.jianshu.com/p/89f8946ce685
-
+Action Recognition——基于深度学习的动作识别综述
+http://www.uml.org.cn/ai/201812241.asp?artid=21514
 
 视频深度学习：2018年行动认可指南
 http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review
