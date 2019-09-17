@@ -14,6 +14,7 @@ http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html
 https://www.jianshu.com/p/583c26bbb675
 医疗
 http://qure.ai/
+PyTorch版《动手学深度学习》开源了，最美DL书遇上最赞DL框架
 
 
 https://www.paddlepaddle.org.cn/modelanddataset
