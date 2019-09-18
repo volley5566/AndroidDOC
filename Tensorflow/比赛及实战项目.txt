@@ -11,6 +11,12 @@ https://blog.csdn.net/qq_24598387/article/details/85113010
 
 
 医疗：
+深度学习（七）U-Net原理以及keras代码实现医学图像眼球血管分割
+https://www.cnblogs.com/DOMLX/p/9780786.html
+
+
+
+
 
 医学影像数据集汇总
 https://blog.csdn.net/qq_21997625/article/details/81054972
@@ -43,6 +49,8 @@ YOLO v3训练自己的数据（肺结节的二分类）
 https://blog.csdn.net/jidushanzhu/article/details/99591371
 利用深度学习对医学CT图像（LIDC-IDRI）中的肺结节进行良恶性判断
 https://blog.csdn.net/bluesliuf/article/details/88900809
+基于深度学习的CT图像肺结节自动检测技术（行业及技术分析）
+https://blog.csdn.net/wsp_1138886114/article/details/81840891
 
 制造生产：
 铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
