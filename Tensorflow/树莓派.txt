@@ -1,4 +1,6 @@
-﻿
+﻿树莓派（Raspbian系统）中使用pyinstaller封装Python代码为可执行程序
+https://www.cnblogs.com/wendaobiancheng/p/9772509.html
+
 tensorflow入门教程
 https://blog.csdn.net/rookie_wei/article/details/90546290
 
