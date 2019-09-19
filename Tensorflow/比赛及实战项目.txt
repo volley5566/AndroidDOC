@@ -2,6 +2,17 @@
 
 比赛：
 
+视频动作分类：
+在Keras 和 Tensorflow 框架下五种视频分类的实施方法
+https://blog.csdn.net/neural_net_child/article/details/78440306
+
+UCF101 - 动作识别数据集
+https://www.crcv.ucf.edu/data/UCF101.php
+five-video-classification-methods
+https://github.com/harvitronix/five-video-classification-methods
+
+
+
 各大AI竞赛 Top 解决方案开源汇总+大牛经验（Kaggle，Ali，Tencent、JD、KDD Cup...）
 https://blog.csdn.net/dukuku5038/article/details/84195750
 
@@ -11,31 +22,12 @@ https://blog.csdn.net/qq_24598387/article/details/85113010
 
 
 医疗：
-降采样,下采样,池化
-https://blog.csdn.net/qq_35290785/article/details/89403422
-
-FCN 全卷积网络 Fully Convolutional Networks for Semantic Segmentation
-https://www.cnblogs.com/xiaohei2022/p/9717717.html
-
-基于U-Net的眼底图像血管分割实例
-https://blog.csdn.net/u013063099/article/details/79981097
 深度学习（七）U-Net原理以及keras代码实现医学图像眼球血管分割
 https://www.cnblogs.com/DOMLX/p/9780786.html
 
-2017年科学数据碗比赛 - 肺部结节分割与分类
-https://github.com/CNU105/2017DSB-Unet
 
-各类比赛数据集
-https://blog.csdn.net/u013063099/article/details/79467531
-常见医疗扫描图像处理步骤
-https://blog.csdn.net/u013063099/article/details/79640032
-使用U-Net分割方法进行癌症诊断（教程翻译）
-https://blog.csdn.net/u013063099/article/details/79708642
-常用数据增强方法总结及实现
-https://blog.csdn.net/u013063099/article/details/80355895
 
-Kaggle百万美元大赛优胜者：用CNN识别CT图像检测肺癌
-https://zhuanlan.zhihu.com/p/26767213
+
 
 医学影像数据集汇总
 https://blog.csdn.net/qq_21997625/article/details/81054972
