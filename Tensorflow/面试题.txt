@@ -1,3 +1,9 @@
+http://www.julyedu.com/question
+
+BAT机器学习面试1000题系列（第1~305题）
+https://blog.csdn.net/v_JULY_v/article/details/78121924
+
+
 DeepLearning-500-questions  重点
 https://github.com/scutan90/DeepLearning-500-questions
 
