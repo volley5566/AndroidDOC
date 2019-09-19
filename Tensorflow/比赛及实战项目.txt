@@ -11,6 +11,8 @@ https://blog.csdn.net/qq_24598387/article/details/85113010
 
 
 医疗：
+降采样,下采样,池化
+https://blog.csdn.net/qq_35290785/article/details/89403422
 深度学习（七）U-Net原理以及keras代码实现医学图像眼球血管分割
 https://www.cnblogs.com/DOMLX/p/9780786.html
 
