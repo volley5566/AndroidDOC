@@ -1,8 +1,28 @@
-﻿
+﻿数据集市
+http://shujujishi.com/dataset.html?category=13
+
 
 比赛：
 
 视频动作分类：
+唐宇迪  Tensorflow行为识别（基于LSTM）(视频)
+https://www.bilibili.com/video/av22659704/?p=2
+
+州农场分心驾驶员检测提案
+https://blog.csdn.net/zhning12L/article/details/82914677
+使用VGG19训练kaggle数据state-farm-distracted-driver-detection
+https://blog.csdn.net/xgbm_k/article/details/79815229
+
+Keras实施人类行动识别数据集State Farm Distracted Driver Detection（Kaggle）
+https://github.com/oswaldoludwig/Human-Action-Recognition-with-Keras
+
+
+利用CNN处理基于人体行为识别 TensorFlow实战(一)(制作数据集)
+https://blog.csdn.net/White__Hacker/article/details/84979246
+利用CNN处理基于人体行为识别TensorFlow实战(二)(搭建神经网络)
+https://blog.csdn.net/White__Hacker/article/details/85046465
+
+
 在Keras 和 Tensorflow 框架下五种视频分类的实施方法
 https://blog.csdn.net/neural_net_child/article/details/78440306
 
@@ -10,6 +30,8 @@ UCF101 - 动作识别数据集
 https://www.crcv.ucf.edu/data/UCF101.php
 five-video-classification-methods
 https://github.com/harvitronix/five-video-classification-methods
+ActivityNet：人类活动理解的大规模视频基准
+https://github.com/activitynet/ActivityNet
 
 
 
