@@ -1,4 +1,7 @@
-﻿数据集市
+﻿从0开始使用腾讯云GPU服务器
+https://www.jianshu.com/p/4ead0b0b42b5
+
+数据集市
 http://shujujishi.com/dataset.html?category=13
 
 
