@@ -85,6 +85,10 @@ https://blog.csdn.net/bluesliuf/article/details/88900809
 基于深度学习的CT图像肺结节自动检测技术（行业及技术分析）
 https://blog.csdn.net/wsp_1138886114/article/details/81840891
 
+
+天池精准医疗大赛——人工智能辅助糖尿病遗传风险预测
+https://blog.csdn.net/juezhanangle/article/details/79003700
+
 制造生产：
 铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
 https://blog.csdn.net/qq_25439417/article/details/82759769
