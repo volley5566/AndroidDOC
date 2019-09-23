@@ -1,5 +1,7 @@
 从0开始使用腾讯云GPU服务器
 https://www.jianshu.com/p/4ead0b0b42b5
+一个很有用的数据增强的库——imgaug（附安装过程）
+https://blog.csdn.net/qq_38451119/article/details/82417412
 
 数据集市
 http://shujujishi.com/dataset.html?category=13
