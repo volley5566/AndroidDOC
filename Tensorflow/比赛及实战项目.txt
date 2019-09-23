@@ -1,8 +1,12 @@
-﻿从0开始使用腾讯云GPU服务器
+从0开始使用腾讯云GPU服务器
 https://www.jianshu.com/p/4ead0b0b42b5
 
 数据集市
 http://shujujishi.com/dataset.html?category=13
+
+
+利用keras从实例掌握深度学习图像分类
+https://www.jianshu.com/p/73e32a55adfe?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq
 
 
 比赛：
