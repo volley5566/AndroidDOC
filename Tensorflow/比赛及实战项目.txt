@@ -3,6 +3,8 @@ https://www.jianshu.com/p/4ead0b0b42b5
 一个很有用的数据增强的库——imgaug（附安装过程）
 https://blog.csdn.net/qq_38451119/article/details/82417412
 https://github.com/aleju/imgaug
+python图像数据增强——imgaug （一）
+https://blog.csdn.net/limiyudianzi/article/details/86497305
 
 数据集市
 http://shujujishi.com/dataset.html?category=13
