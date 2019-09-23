@@ -10,6 +10,20 @@ https://www.jianshu.com/p/73e32a55adfe?utm_campaign=haruki&utm_content=note&utm_
 
 
 比赛：
+kaggle 蛋白质分类竞赛解决方案
+http://www.spytensor.com/index.php/archives/46/
+Tkaggle :TGS Salt Identification Challenge 前 20 GS盐分鉴定挑战
+http://www.spytensor.com/index.php/archives/34/
+RSNA肺炎检测挑战
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
+http://www.spytensor.com/index.php/archives/41/
+kaggle 座头鲸识别 top15 解决方案
+http://www.spytensor.com/index.php/archives/49/
+
+
+Ai Challenger 农作物病害检测 baseline
+http://www.spytensor.com/index.php/archives/36/
+
 
 视频动作分类：
 唐宇迪  Tensorflow行为识别（基于LSTM）(视频)
