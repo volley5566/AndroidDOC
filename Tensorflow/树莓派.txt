@@ -1,4 +1,4 @@
-﻿树莓派（Raspbian系统）中使用pyinstaller封装Python代码为可执行程序
+树莓派（Raspbian系统）中使用pyinstaller封装Python代码为可执行程序
 https://www.cnblogs.com/wendaobiancheng/p/9772509.html
 
 tensorflow入门教程
@@ -44,7 +44,7 @@ OpenCV教程，资源和指南
 https://www.pyimagesearch.com/opencv-tutorials-resources-guides/
 
 
-安装指南：Raspberry Pi 3 + Raspbian Jessie + OpenCV 3
+安装指南：Raspberry Pi 3 + Raspbian Jessie + OpenCV 3 Tanxiangyu5
 https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 使用OpenCV和Python访问Raspberry Pi相机
 https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
