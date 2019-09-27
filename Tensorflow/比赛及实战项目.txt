@@ -10,7 +10,7 @@ https://blog.csdn.net/limiyudianzi/article/details/86497305
 http://shujujishi.com/dataset.html?category=13
 
 
-利用keras从实例掌握深度学习图像分类
+利用keras从实例掌握深度学习图像分类  （完成）
 https://www.jianshu.com/p/73e32a55adfe?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq
 
 
@@ -70,10 +70,13 @@ https://blog.csdn.net/qq_24598387/article/details/85113010
 
 
 医疗：
+Camelyon Challenge: 癌症细胞区域检测竞赛
+https://zhuanlan.zhihu.com/p/27158843
+
 深度学习（七）U-Net原理以及keras代码实现医学图像眼球血管分割
 https://www.cnblogs.com/DOMLX/p/9780786.html
-
-
+【patch】CNN中 patch 是什么？patch 在CNN学习训练中是怎么起作用的？
+https://blog.csdn.net/wills798/article/details/97974617
 
 
 
