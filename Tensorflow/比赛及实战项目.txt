@@ -34,6 +34,9 @@ http://www.spytensor.com/index.php/archives/36/
 深度学习之视频入门经典+视频分类+视频行为识别+行为检测+视频事件识别+事件检测--附带源码和作者主页
 https://blog.csdn.net/WJ_MeiMei/article/details/84344836
 
+LSTM-人类活动-识别
+https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/
+
 唐宇迪  Tensorflow行为识别（基于LSTM）(视频)
 https://www.bilibili.com/video/av22659704/?p=2
 
