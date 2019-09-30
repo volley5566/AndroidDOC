@@ -1,4 +1,4 @@
-从0开始使用腾讯云GPU服务器
+﻿从0开始使用腾讯云GPU服务器
 https://www.jianshu.com/p/4ead0b0b42b5
 一个很有用的数据增强的库——imgaug（附安装过程）
 https://blog.csdn.net/qq_38451119/article/details/82417412
@@ -31,6 +31,9 @@ http://www.spytensor.com/index.php/archives/36/
 
 
 视频动作分类：
+深度学习之视频入门经典+视频分类+视频行为识别+行为检测+视频事件识别+事件检测--附带源码和作者主页
+https://blog.csdn.net/WJ_MeiMei/article/details/84344836
+
 唐宇迪  Tensorflow行为识别（基于LSTM）(视频)
 https://www.bilibili.com/video/av22659704/?p=2
 
