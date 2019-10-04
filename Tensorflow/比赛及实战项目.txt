@@ -1,3 +1,9 @@
+疲劳驾驶：
+老司机坐稳了，Kaggle竞赛-深度学习检测疲劳驾驶简要回顾
+https://zhuanlan.zhihu.com/p/26395021
+https://github.com/omnigeeker/mlnd_distracted_driver_detection
+
+
 从0开始使用腾讯云GPU服务器
 https://www.jianshu.com/p/4ead0b0b42b5
 一个很有用的数据增强的库——imgaug（附安装过程）
