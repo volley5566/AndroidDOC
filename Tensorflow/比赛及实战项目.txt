@@ -4,6 +4,30 @@ https://zhuanlan.zhihu.com/p/26395021
 https://github.com/omnigeeker/mlnd_distracted_driver_detection
 
 
+视频分类：
+一文看懂如何将深度学习应用于视频动作识别
+https://juejin.im/post/5b4c3bb65188251b3c3b1bbb
+videoclassification
+https://github.com/liushuchun/videoclassification
+视频分类之UCF-101上的CNN方法详解
+https://zhuanlan.zhihu.com/p/28307781
+keras
+训练模型以对视频进行分类
+https://riptutorial.com/zh-CN/keras/example/29807/training-a-model-to-classify-videos
+keras实现LRCN行为识别网络
+https://cloud.tencent.com/developer/news/24477
+【技术综述】视频分类/行为识别研究综述，从数据集到方法
+https://cloud.tencent.com/developer/article/1493473
+基于视觉的视频分类入门
+https://zhuanlan.zhihu.com/p/28179049
+在Keras 和 Tensorflow 框架下五种视频分类的实施方法
+https://blog.csdn.net/neural_net_child/article/details/78440306
+视频分类 / 行为识别研究综述，从数据集到方法
+https://www.infoq.cn/article/WQ1Z4N3XwKOJ0NDwDBr2
+基于深度学习分析与检索海量短视频内容
+https://juejin.im/post/5be254dd51882517180c2202
+
+
 从0开始使用腾讯云GPU服务器
 https://www.jianshu.com/p/4ead0b0b42b5
 一个很有用的数据增强的库——imgaug（附安装过程）
