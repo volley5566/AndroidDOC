@@ -196,3 +196,8 @@ https://github.com/gA4ss/severstal-steel-defect-detection
 
 Kaggle Dstl卫星影像特征检测
 https://github.com/toshi-k/kaggle-satellite-imagery-feature-detection
+
+
+ADAS：
+用于ADAS和自动驾驶汽车原型的开源Python框架
+https://github.com/YanbaruRobotics/PythonPilot
