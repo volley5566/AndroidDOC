@@ -1,7 +1,13 @@
 ﻿疲劳驾驶：
 老司机坐稳了，Kaggle竞赛-深度学习检测疲劳驾驶简要回顾
 https://zhuanlan.zhihu.com/p/26395021
+
 https://github.com/omnigeeker/mlnd_distracted_driver_detection
+
+state-farm-distracted-driver-detection
+
+Human-Action-Recognition-with-Keras
+https://github.com/oswaldoludwig/Human-Action-Recognition-with-Keras
 
 
 视频分类：
@@ -34,6 +40,10 @@ https://blog.csdn.net/neural_net_child/article/details/78440306
 https://www.infoq.cn/article/WQ1Z4N3XwKOJ0NDwDBr2
 基于深度学习分析与检索海量短视频内容
 https://juejin.im/post/5be254dd51882517180c2202
+
+
+在UCF-101数据集上使用3D Convnet实现动作识别。
+https://github.com/dipakkr/3d-cnn-action-recognition
 
 
 从0开始使用腾讯云GPU服务器
@@ -120,6 +130,16 @@ https://blog.csdn.net/qq_24598387/article/details/85113010
 Camelyon Challenge: 癌症细胞区域检测竞赛
 https://zhuanlan.zhihu.com/p/27158843
 
+
+用于肺部CT扫描中结节/肿瘤分类的3d卷积。在Lug16上接受Kaggle的2017年数据科学碗竞赛的培训（排名前3％）
+https://github.com/LouisFoucard/DSB17_3d_lung_nodule_classifier
+用于前列腺分割的VolumeConvNet
+https://github.com/ChelovekHe/Volumetric-ConvNet-for-prostate-segmentation
+CAIS数据科学碗演示
+https://github.com/lucashu1/CAIS-Data-Science-Bowl-Demo
+
+
+
 深度学习（七）U-Net原理以及keras代码实现医学图像眼球血管分割
 https://www.cnblogs.com/DOMLX/p/9780786.html
 【patch】CNN中 patch 是什么？patch 在CNN学习训练中是怎么起作用的？
@@ -168,3 +188,11 @@ https://blog.csdn.net/juezhanangle/article/details/79003700
 制造生产：
 铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
 https://blog.csdn.net/qq_25439417/article/details/82759769
+
+铸钢缺陷检测
+https://github.com/gA4ss/severstal-steel-defect-detection
+
+
+
+Kaggle Dstl卫星影像特征检测
+https://github.com/toshi-k/kaggle-satellite-imagery-feature-detection
