@@ -1,10 +1,18 @@
-疲劳驾驶：
+﻿疲劳驾驶：
 老司机坐稳了，Kaggle竞赛-深度学习检测疲劳驾驶简要回顾
 https://zhuanlan.zhihu.com/p/26395021
 https://github.com/omnigeeker/mlnd_distracted_driver_detection
 
 
 视频分类：
+基于3D自编码器的视频异常检测
+https://zhuanlan.zhihu.com/p/62416440
+异常检测概述（一）：An Overview of Anomaly Detection Part I
+https://zhuanlan.zhihu.com/p/50384515
+异常检测概述（二） : Reconstruction Model
+https://zhuanlan.zhihu.com/p/60305685
+
+
 一文看懂如何将深度学习应用于视频动作识别
 https://juejin.im/post/5b4c3bb65188251b3c3b1bbb
 videoclassification
