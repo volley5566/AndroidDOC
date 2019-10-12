@@ -1,4 +1,4 @@
-﻿疲劳驾驶：
+疲劳驾驶：
 老司机坐稳了，Kaggle竞赛-深度学习检测疲劳驾驶简要回顾
 https://zhuanlan.zhihu.com/p/26395021
 
@@ -184,6 +184,10 @@ https://blog.csdn.net/wsp_1138886114/article/details/81840891
 
 天池精准医疗大赛——人工智能辅助糖尿病遗传风险预测
 https://blog.csdn.net/juezhanangle/article/details/79003700
+
+
+使用FC-DenseNet的逐级肺分割
+https://github.com/deepitapai/Pixel-wise-Lung-Segmentation-using-FC-DenseNet
 
 制造生产：
 铝材 劣质品识别 ， 神经网络-图像分类-VGG16-RESNET50-Xception
