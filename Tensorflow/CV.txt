@@ -1,0 +1,18 @@
+基于视频分析与理解的高级视觉任务
+
+视频动作检测 识别  action detection recognition
+
+视频描述 video caption(description)
+
+
+Human action  具有特定语义的人类物体的动作集合
+
+Action analysis
+
+应用：
+
+给视频贴标签
+
+城市安防
+
+人机智能交互
