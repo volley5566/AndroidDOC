@@ -1,10 +1,14 @@
 基于视频分析与理解的高级视觉任务
 
+行为识别Action Detection概述及资源合集（持续更新...）
+https://blog.csdn.net/gavinmiaoc/article/details/81179630
+https://blog.csdn.net/c2a2o2/article/details/82896285
+
 视频动作检测 识别  action detection recognition
 
 视频描述 video caption(description)
-
-
+----------------------------------------------------------
+视频动作检测 识别  action detection recognition
 Human action  具有特定语义的人类物体的动作集合
 
 Action analysis
@@ -16,3 +20,141 @@ Action analysis
 城市安防
 
 人机智能交互
+
+
+主要数据集
+
+UCF 101 
+
+困难：
+
+1 同一类可能有很大的差别
+2 两帧视频的区别可能会很大
+3 拍摄摄像头的运动
+4 背景出现和前景相似的纹理或特征
+5 遮挡和光照变化
+
+
+传统方法
+特征提取 ----》 编码  -----》词袋模型 ----》SVM分类
+
+两针视频叠加 +  光流 （前景光流） +   轨迹
+
+
+词袋模型：
+人偶   自行车  书籍
+
+提取特征
+
+聚类
+
+（准备进行判别）
+
+
+未知图片  --- 》提取特征 ------》 四个主要特征含有多大的比例  直方图 ----》分类
+
+
+1. 怎么获取更好的特征
+2. 如何来对特征进行压缩和重合
+
+
+基于深度学习的动作分析方法：
+
+双路模型
+
+forves stream :center crop of the original frame 原始框架的中心裁剪
+               视网膜的中心   接收的输入就是图像中心的一块区域
+
+context stream ：resize of the original frame 调整原始框架的大小
+
+
+几种特征融合方法：
+
+single frame:单帧的图像输入到网络中去  单帧分类的平均
+
+late fusion ：晚期融合  在获取单帧图像特征之后 隔一段时间  再获取一帧图像特征
+
+early fusion : 将几帧图像融合 形成 N * 3(RGB)的特征
+
+slow fusion :  c3d
+
+
+评比正确：HIT @ 5  取前五个正确率
+
+
+
+
+利用光流表征运动信息：
+
+
+spatial stream convnet :接收RGB图像的输入
+
+
+temporal stream convnet :接收叠加的光流场的输入
+
+两个平均 置信度
+
+
+运动的表征方式？
+
+滤波器可视化
+
+
+
+改进特征融合方法：
+
+空间纬度融合
+
+sum fusion  相加
+
+max ..      对每个空间特征取两个通道取最大
+
+concatenation fusion   叠加
+
+conv fusion  卷积 线性加权
+
+bilinear fusion  两个向量的外积
+
+
+时间纬度融合：
+
+3d卷积   3D池化
+
+
+网络整体结构：
+
+----------------------------------------------
+视频描述 video caption(description)
+
+视频  ----》文字描述
+
+应用场景：
+
+应用视频检索：
+
+构建特征空间   语言特征空间
+
+视频描述服务
+
+
+主要数据集：
+
+
+评价指标：
+
+端到端的视频描述模型：
+input video ---> convolution  net（CNN）  -----> recurrent net（rnn）  -----> output
+
+LSTM:很好的建模数据间的关系
+
+LOSS 定义：  
+cross-entropy loss 来优化模型
+
+------------------------------------------------
+基于tensorflow 框架的视频描述模型：
+
+S2VT:
+  
+
+
+
