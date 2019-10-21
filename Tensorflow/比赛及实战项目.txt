@@ -1,3 +1,9 @@
+﻿BP算法推演：
+https://www.cnblogs.com/duanhx/p/9655213.html
+通俗理解神经网络BP传播算法
+https://zhuanlan.zhihu.com/p/24801814
+
+
 疲劳驾驶：
 老司机坐稳了，Kaggle竞赛-深度学习检测疲劳驾驶简要回顾
 https://zhuanlan.zhihu.com/p/26395021
