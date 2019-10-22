@@ -1,3 +1,13 @@
+写给那些准备入坑机器学习、计算机视觉、深度学习等相关领域的人，包括:读研、转行等不同人群，同行勿喷
+https://zhuanlan.zhihu.com/p/35537901
+
+计算机视觉及深度学习_面试问题（一） 
+http://www.sohu.com/a/333794238_717210
+
+
+BAT机器学习面试1000题系列（详细版）
+https://blog.csdn.net/weixin_40355324/article/details/80426952
+
 
 计算机视觉面试常见问题（含解答）
 https://blog.csdn.net/bluesliuf/article/details/89389117
