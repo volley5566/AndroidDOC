@@ -1,3 +1,84 @@
+未来 3~5 年内，哪个方向的机器学习人才最紧缺？
+https://www.zhihu.com/question/63883507/answer/227019715
+
+图片分类：
+判断图片中是否有某个物体
+1 一个图对应一个标签
+2 性能指标  top1  error   前一中一   top5 error   前5中1
+
+AlexNet网络  ----》NiN网络  1x1
+VGG网络   ----》多个小卷积核  参数减少
+GoogLeNet 
+
+
+深度学习 模型 剪枝 压缩
+https://blog.csdn.net/koibiki/article/details/85097903
+
+Deep Learning 之 最优化方法
+https://blog.csdn.net/BVL10101111/article/details/72614711
+深度学习调参有哪些技巧？
+https://www.zhihu.com/question/25097993/answer/127472322
+
+https://blog.csdn.net/shentanyue/article/details/83508497
+深度学习模型压缩方法（1）-----综述
+深度学习模型压缩方法（2）-----核稀疏化
+深度学习模型压缩方法（3）-----模型剪枝（Pruning）
+深度学习模型压缩方法（4）-----模型蒸馏（Distilling）与精细模型网络
+深度学习模型压缩方法（5）-----Deep Compression
+
+tensorflow模型部署系列 https://blog.csdn.net/chongtong/column/info/39386
+
+tensorflow预训练模型导出
+ 
+tensorflow模型部署系列————单机python部署
+ 
+tensorflow模型部署系列————单机c++部署
+ 
+tensorflow模型部署系列————单机java部署
+ 
+tensorflow模型部署系列————嵌入式部署
+ 
+tensorflow模型部署系列————浏览器前端部署
+ 
+tensorflow模型部署系列————独立简单服务器部署
+ 
+tensorflow模型部署系列————TensorFlow Serving部署
+
+tensorflow模型部署系列————分布式服务器部署
+————————————————
+版权声明：本文为CSDN博主「gdyshi」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/chongtong/article/details/90379347
+
+
+tensorflow随笔——C++工程化
+https://blog.csdn.net/neil3611244/article/details/84104755
+
+
+
+深度学习 --- 优化入门一（梯度下降所面临的问题）
+https://blog.csdn.net/weixin_42398658/article/details/84502215
+深度学习 --- 优化入门二（SGD、动量(Momentum)、AdaGrad、RMSProp、Adam详解）
+https://blog.csdn.net/weixin_42398658/article/details/84525917
+深度学习 --- 优化入门三（梯度消失和激活函数ReLU）
+https://blog.csdn.net/weixin_42398658/article/details/84553411
+深度学习 --- 优化入门四（Batch Normalization（批量归一化）一）
+https://blog.csdn.net/weixin_42398658/article/details/84560411
+深度学习 --- 优化入门五（Batch Normalization（批量归一化）二）
+https://blog.csdn.net/weixin_42398658/article/details/84567292
+深度学习 --- 优化入门六（正则化、参数范数惩罚L0、L1、L2、Dropout）
+https://blog.csdn.net/weixin_42398658/article/details/84578230
+
+
+正则化方法：防止过拟合，提高泛化能力  
+https://blog.csdn.net/u012162613/article/details/44261657
+https://blog.csdn.net/chen645096127/article/details/78990928
+CNN反向传播
+http://jermmy.xyz/2017/12/16/2017-12-16-cnn-back-propagation/
+
+
+
+
+
 基于视频分析与理解的高级视觉任务
 
 行为识别Action Detection概述及资源合集（持续更新...）
