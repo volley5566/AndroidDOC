@@ -10,6 +10,9 @@ AlexNet网络  ----》NiN网络  1x1
 VGG网络   ----》多个小卷积核  参数减少
 GoogLeNet 
 
+难以置信！LSTM和GRU的解析从未如此清晰（动图+视频）
+https://blog.csdn.net/dqcfkyqdxym3f8rb0/article/details/82922386
+
 
 深度学习 模型 剪枝 压缩
 https://blog.csdn.net/koibiki/article/details/85097903
