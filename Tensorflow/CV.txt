@@ -1,8 +1,19 @@
+深度学习-超参数调整总结
+https://www.cnblogs.com/andre-ma/p/8676220.html
+
+迁移学习
+https://blog.csdn.net/u013841196/article/details/80919857
+https://zhuanlan.zhihu.com/p/30121601
+https://www.cnblogs.com/andre-ma/p/8676186.html
+
+Faster RCNN中RPN理解
+https://www.cnblogs.com/jiangnanyanyuchen/p/9433791.html
+
 目标检测学习总结(1)----R-CNN/SPP-Net/Fast R-CNN/Faster R-CNN
 https://blog.csdn.net/c2250645962/article/details/99949344
 目标检测学习总结(2) ---- R-FCN/Yolo
 https://blog.csdn.net/c2250645962/article/details/100078865
-
+https://www.cnblogs.com/wyx501/p/10581056.html
 
 深度学习模型转换、模型压缩工具总结
 https://blog.csdn.net/WZZ18191171661/article/details/99700992
